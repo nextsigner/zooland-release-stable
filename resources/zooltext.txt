@@ -1,0 +1,140 @@
+---
+zfs=app.fs*4.5
+time=500
+---
+# Radio Zoolar<br />
+### Canal de Astrología
+#### Las posiciones de los astros en vivo
+---
+zfs=app.fs*4.5
+time=6000
+---
+# Zool<br />
+### Aplicación de Astrología<br />
+
+La aplicación que se muestra en pantalla se llama Zool.
+
+Fue desarrollada por el Astrólogo Ricardo Martín Pizarro para mostrar cartas astrales en pantalla de una manera dinámica.
+
+Pronto se iran agregando nuevos eventos y animaciones a la transmisión.
+---
+time=6000
+---
+zfs=app.fs*1.5
+time=6000
+---
+# Zool<br />
+### Aplicación de Astrología<br />
+
+Creada por<br />
+Ricardo Martín Pizarro<br />
+
+Inicio del Desarrollo:<br />
+14/04/2021
+
+---
+zfs=app.fs*1.5
+time=6000
+---
+# Licencia de Zool<br />
+Esta aplicación es de uso libre y gratuito.<br />
+
+Esta aplicación es distribuida bajo las licencias GPL2.
+
+---
+zfs=app.fs*1.5
+time=6000
+---
+
+### Información sobre Zool<br />
+
+### Información del Código fuente<br />
+
+## Zool fue creado con:<br />
+* Qt Open Source
+* SwissEph
+
+**Repositorio Público:** GitHub.com/nextsigner/zool
+
+
+---
+zfs=app.fs*1.5
+time=6000
+---
+# Contacto<br />
+
+**Whatsapp:**<br />
++549 11 3802 4370<br />
+
+**E-Mail:**<br />
+nextsigner@gmail.com<br />
+
+**Twitch:**<br />
+RicardoMartinPizarro<br />
+
+---
+zfs=app.fs*1.5
+time=15000
+---
+### ¿Qué es RadioZoolar?<br />
+
+Este será el nombre de la transmisión mediante la cual se emitirán en directo las posiciones de los astros, audios y videos relacionados a los mismos, videos, promociones, publicidad, noticias y todo lo relacionado con el ámbito astrologico.
+
+---
+time=15000
+---
+
+
+### ¿Quieres la lectura de tu Carta Natal?<br />
+
+Las lecturas son libres y gratuitas.
+
+Debes cumplir estos requisitos.<br />
+
+* Ser mayor de 18 años
+* Saber a qué hora naciste
+* Pide tu turno por el chat
+
+---
+zfs=app.fs*1.5
+time=15000
+---
+
+### ¿Qué datos se necesitan para la lectura?<br />
+
+Se necesita tu fecha, hora y lugar de nacimiento.<br />
+
+No hace falta ni tu nombre real. Ningún dato privado que comprometa tu seguridad personal.
+
+**Nota:** La lectura puede durar entre 1 y 2 horas.
+
+---
+zfs=app.fs*1.5
+time=15000
+---
+### ¿Como me puedes contactar?<br />
+
+La manera más directa de contactarme es por medio de la aplicación Whatsapps al número +549 11 3802 4370 o al correo nextsigner@gmail.com
+
+Si escribes en el chat de la transmisión, es posible que tambien te pueda atender.
+
+Estoy dedicando muchas horas a la programación de la aplicación y a veces no puedo estar atento al chat.
+
+---
+zfs=app.fs*1.5
+time=20000
+---
+qml=import QtQuick 2.0
+import "../../js/Funcs.js" as JS
+Item{
+    Component.onCompleted:{
+        panelZoolText.areaCamera.height=1
+        if(!panelZoolText.fileInitLoaded){
+            //JS.loadJson('/home/zool//gd/Zool/Ricardo.json')
+            //tAutoMaticPlanets.currentJsonData=app.currentData
+            //tAutoMaticPlanets.running=true
+            //app.currentPlanetIndex=0
+        }
+        panelZoolText.fileInitLoaded=true        
+     }
+}
