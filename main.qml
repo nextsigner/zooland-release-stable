@@ -37,7 +37,7 @@ import ZoolBottomToolBar 1.0
 import comps.ZoolHostEditor 1.0
 //import comps.ZoolPanelNotifications 1.0
 //import web.ZoolWebStatusManager 1.0
-import MinymaClient 1.0
+//import comps.MinymaClient 1.0
 
 //import ZoolMediaLive 1.1
 //import ZoolVoicePlayer 1.0
@@ -577,12 +577,6 @@ ZoolMainWindow{
     //        interval: 5000
     //        onTriggered: JS.loadModules()
     //    }
-    MinymaClient{
-        host: 'ws://192.168.1.51'
-        port: 1616
-        url:'ws://192.168.1.51:1616'
-        loginUserName: 'zooland'
-    }
     Component.onCompleted: {
         //app.j.showMsgDialog('Zool Informa', 'Numero de Versión del Paquete', 'Número: '+unik.getFile('version'))
         JS.setFs()
@@ -592,9 +586,9 @@ ZoolMainWindow{
             app.dev=true
         }
 
-        if(1===2){
+        if(true){
             let compMinyma=Qt.createComponent('./modules/comps/MinymaClient/MinymaClient.qml')
-            let objMinyma=compMinyma.createObject(app, {loginUserName: 'zooland', host: 'ws://192.168.1.51', port: 1616})
+            let objMinyma=compMinyma.createObject(app, {loginUserName: 'zooland', host: 'ws://192.168.1.51', port: 12345})
             objMinyma.newMessageForMe.connect(function(from, data) {
                 if(data==='now'){
                     minymaClient.sendData(minymaClient.loginUserName, from, 'Ahora!')
