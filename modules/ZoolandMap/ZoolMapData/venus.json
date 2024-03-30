@@ -1,0 +1,260 @@
+{
+"info": {
+    "diámetro": "12,104 km",
+    "tiempoDeOrbitaCompleta": {
+      "d": 225,
+      "m": 7.5,
+      "a": 0.62
+    },
+    "tiempoDeOrbitaPorSigno": {
+      "d": 225/12,
+      "m": 7.5/12,
+      "a": 0.62/12
+    },
+    "posición": 2,
+    "propiedadesFisicas": "Rocoso, caliente",
+    "signoRegente": "Tauro y Libra",
+    "nombreGriego": "Afrodita",
+    "nombreRomano": "Venus",
+    "simbologíaTeológica": "En la mitología romana, Venus era la diosa del amor, la belleza y la fertilidad. También era considerada la protectora de Roma y se le asociaba con la prosperidad y la seducción.",
+    "simbologíaMitológica": "Venus simboliza el amor, la armonía y el placer sensorial. También representa la atracción y el deseo, así como la capacidad de encontrar belleza y satisfacción en la vida.",
+    "significadoDelGlifo": "El glifo de Venus es un círculo con una cruz en la parte inferior, que se asemeja a un espejo o un espejo de mano. Representa la feminidad, la belleza y el poder de la atracción.",
+    "polaridad": "Femenina",
+    "signoExaltación": "Piscis",
+    "signoCaída": "Virgo",
+    "signoExilio": "Aries"
+  },
+    "venus_en_aries": {
+        "manifestaciones": {
+            "atracción_por_la_energía_apasionada": "Experimenta atracción por la energía apasionada, buscando relaciones emocionantes y llenas de acción.",
+            "iniciativa_en_el_amor": "Toma la iniciativa en el amor, mostrando valentía y determinación en la expresión de sentimientos románticos.",
+            "disfrute_de_la_espontaneidad_en_las_relaciones": "Disfruta de la espontaneidad en las relaciones, buscando emoción y novedad en la conexión romántica.",
+            "preferencia_por_la_libertad_en_el_amor": "Prefiere la libertad en el amor, valorando la independencia y la capacidad de seguir sus propios deseos.",
+            "exploración_del_amor_como_aventura": "Se aventura en la exploración del amor como una aventura, buscando experiencias apasionadas y emocionantes en las relaciones."
+        }
+    },
+    "venus_en_tauro": {
+        "manifestaciones": {
+            "atracción_por_la_sensualidad": "Experimenta atracción por la sensualidad, buscando relaciones marcadas por el placer físico y la conexión táctil.",
+            "estabilidad_y_seguridad_en_el_amor": "Valora la estabilidad y seguridad en el amor, mostrando lealtad y compromiso en las relaciones románticas.",
+            "disfrute_de_las_comodidades_junto_al_ser_amado": "Disfruta de las comodidades junto al ser amado, buscando compartir momentos de paz y placer en un entorno estable.",
+            "preferencia_por_la_conexión_emocional_profunda": "Prefiere la conexión emocional profunda en el amor, valorando la intimidad y la lealtad en las relaciones.",
+            "exploración_del_amor_como_una_experiencia_sólida": "Se aventura en la exploración del amor como una experiencia sólida, buscando relaciones duraderas y significativas."
+        }
+    },
+    "venus_en_geminis": {
+        "manifestaciones": {
+            "atracción_por_la_inteligencia_y_el_humor": "Experimenta atracción por la inteligencia y el humor, buscando relaciones que estimulen la mente y proporcionen diversión.",
+            "adaptabilidad_y_variedad_en_el_amor": "Valora la adaptabilidad y la variedad en el amor, mostrando interés por la exploración de diferentes aspectos y dimensiones en las relaciones románticas.",
+            "disfrute_de_la_comunicación_creativa_en_pareja": "Disfruta de la comunicación creativa en pareja, buscando compartir ideas y mantener conversaciones estimulantes con el ser amado.",
+            "preferencia_por_la_libertad_emocional": "Prefiere la libertad emocional en el amor, valorando la independencia emocional y la capacidad de expresar sentimientos sin restricciones.",
+            "exploración_del_amor_como_una_experiencia_mentalmente_estimulante": "Se aventura en la exploración del amor como una experiencia mentalmente estimulante, buscando conexiones emocionales a través de la mente y la comunicación."
+        }
+    },
+    "venus_en_cancer": {
+        "manifestaciones": {
+            "atracción_por_la_cercanía_emocional": "Experimenta atracción por la cercanía emocional, buscando relaciones que ofrezcan seguridad y un fuerte lazo afectivo.",
+            "cuidado_y_protección_en_el_amor": "Valora el cuidado y la protección en el amor, mostrando una conexión profunda con las necesidades emocionales del ser amado.",
+            "disfrute_de_la_conexión_familiar_y_doméstica": "Disfruta de la conexión familiar y doméstica en pareja, buscando compartir momentos acogedores y la construcción de un hogar juntos.",
+            "preferencia_por_la_estabilidad_emocional": "Prefiere la estabilidad emocional en el amor, valorando la lealtad y la constancia en las relaciones románticas.",
+            "exploración_del_amor_como_una_experiencia_emocionalmente_nutritiva": "Se aventura en la exploración del amor como una experiencia emocionalmente nutritiva, buscando relaciones que nutran el alma y brinden un apoyo emocional sólido."
+        }
+    },
+    "venus_en_leo": {
+        "manifestaciones": {
+            "atracción_por_el_brillo_y_la_confianza": "Experimenta atracción por el brillo y la confianza, buscando relaciones que destaquen por su seguridad y expresión auténtica.",
+            "generosidad_y_expresión_afectiva_en_el_amor": "Valora la generosidad y la expresión afectiva en el amor, mostrando un enfoque apasionado y demostrativo en las relaciones románticas.",
+            "disfrute_del_espectáculo_y_la_romanticismo": "Disfruta del espectáculo y el romanticismo en pareja, buscando momentos emocionantes y gestos grandiosos en la relación.",
+            "preferencia_por_la_reciprocidad_en_el_reconocimiento": "Prefiere la reciprocidad en el reconocimiento en el amor, valorando la admiración mutua y el apoyo en los logros personales.",
+            "exploración_del_amor_como_una_experiencia_apasionada_y_glamorosa": "Se aventura en la exploración del amor como una experiencia apasionada y glamorosa, buscando relaciones que resplandezcan con entusiasmo y encanto."
+        }
+    },
+    "venus_en_virgo": {
+        "manifestaciones": {
+            "atracción_por_la_inteligencia_práctica": "Experimenta atracción por la inteligencia práctica, buscando relaciones basadas en la lógica y la eficiencia.",
+            "cuidado_y_servicio_en_el_amor": "Valora el cuidado y el servicio en el amor, mostrando atención a los detalles y una inclinación hacia el bienestar del ser amado.",
+            "disfrute_de_la_organización_y_el_perfeccionismo": "Disfruta de la organización y el perfeccionismo en pareja, buscando compartir un entorno ordenado y cuidado mutuo.",
+            "preferencia_por_la_comunicación_clara_y_honesta": "Prefiere la comunicación clara y honesta en el amor, valorando la transparencia y la sinceridad en las relaciones románticas.",
+            "exploración_del_amor_como_una_experiencia_práctica_y_funcional": "Se aventura en la exploración del amor como una experiencia práctica y funcional, buscando relaciones que aporten estabilidad y contribuyan al crecimiento mutuo."
+        }
+    },
+    "venus_en_libra": {
+        "manifestaciones": {
+            "atracción_por_la_armonía_y_la_belleza": "Experimenta atracción por la armonía y la belleza, buscando relaciones estéticamente agradables y equilibradas.",
+            "búsqueda_de_la_justicia_y_la_equidad_en_el_amor": "Valora la búsqueda de la justicia y la equidad en el amor, mostrando un compromiso con la igualdad y la cooperación en las relaciones románticas.",
+            "disfrute_de_la_estética_y_la_creatividad_en_pareja": "Disfruta de la estética y la creatividad en pareja, buscando compartir experiencias artísticas y momentos estéticamente enriquecedores.",
+            "preferencia_por_la_comunicación_amable_y_diplomática": "Prefiere la comunicación amable y diplomática en el amor, valorando la capacidad de resolver conflictos con respeto y consideración.",
+            "exploración_del_amor_como_una_experiencia_armónica_y_estéticamente_enriquecedora": "Se aventura en la exploración del amor como una experiencia armónica y estéticamente enriquecedora, buscando relaciones que aporten belleza y equilibrio a su vida."
+        }
+    },
+    "venus_en_escorpio": {
+        "manifestaciones": {
+            "atracción_por_la_intensidad_y_la_profundidad": "Experimenta atracción por la intensidad y la profundidad, buscando relaciones marcadas por la pasión y la conexión emocional profunda.",
+            "entrega_emocional_y_transformación_en_el_amor": "Valora la entrega emocional y la capacidad de transformación en el amor, mostrando una conexión íntima y una inclinación hacia la profundización de la relación.",
+            "disfrute_del_misterio_y_la_intimidad_en_pareja": "Disfruta del misterio y la intimidad en pareja, buscando compartir experiencias íntimas y momentos reveladores.",
+            "preferencia_por_la_comunicación_auténtica_y_veraz": "Prefiere la comunicación auténtica y veraz en el amor, valorando la honestidad y la capacidad de enfrentar la verdad en las relaciones románticas.",
+            "exploración_del_amor_como_una_experiencia_apasionada_y_transformadora": "Se aventura en la exploración del amor como una experiencia apasionada y transformadora, buscando relaciones que inspiren un cambio profundo y significativo."
+        }
+    },
+    "venus_en_sagitario": {
+        "manifestaciones": {
+            "atracción_por_la_alegría_y_la_aventura": "Experimenta atracción por la alegría y la aventura, buscando relaciones que brinden entusiasmo y un sentido de exploración compartida.",
+            "optimismo_y_libertad_en_el_amor": "Valora el optimismo y la libertad en el amor, mostrando una actitud positiva y una inclinación hacia la independencia en las relaciones románticas.",
+            "disfrute_del_aprendizaje_y_la_amplitud_de_miradas_en_pareja": "Disfruta del aprendizaje y la amplitud de miradas en pareja, buscando compartir experiencias enriquecedoras y la exploración de nuevos horizontes juntos.",
+            "preferencia_por_la_comunicación_abierta_y_honesta": "Prefiere la comunicación abierta y honesta en el amor, valorando la sinceridad y la franqueza en las relaciones románticas.",
+            "exploración_del_amor_como_una_experiencia_alegre_y_expansiva": "Se aventura en la exploración del amor como una experiencia alegre y expansiva, buscando relaciones que inspiren crecimiento y aventura constante."
+        }
+    },
+    "venus_en_capricornio": {
+        "manifestaciones": {
+            "atracción_por_la_estabilidad_y_el_logro": "Experimenta atracción por la estabilidad y el logro, buscando relaciones marcadas por la seguridad y el progreso mutuo.",
+            "compromiso_y_responsabilidad_en_el_amor": "Valora el compromiso y la responsabilidad en el amor, mostrando una actitud seria y un enfoque cuidadoso en las relaciones románticas.",
+            "disfrute_del_trabajo_en_equipo_y_el_logro_conjunto": "Disfruta del trabajo en equipo y el logro conjunto en pareja, buscando metas compartidas y el éxito mutuo.",
+            "preferencia_por_la_comunicación_práctica_y_eficiente": "Prefiere la comunicación práctica y eficiente en el amor, valorando la claridad y la planificación en las relaciones románticas.",
+            "exploración_del_amor_como_una_experiencia_estable_y_logradora": "Se aventura en la exploración del amor como una experiencia estable y logradora, buscando relaciones que construyan bases sólidas y contribuyan al éxito personal y mutuo."
+        }
+    },
+    "venus_en_acuario": {
+        "manifestaciones": {
+            "atracción_por_la_originalidad_y_la_autenticidad": "Experimenta atracción por la originalidad y la autenticidad, buscando relaciones que fomenten la individualidad y la libertad de expresión.",
+            "compañerismo_y_amistad_en_el_amor": "Valora el compañerismo y la amistad en el amor, mostrando una conexión a nivel mental y un enfoque en compartir intereses comunes.",
+            "disfrute_de_la_exploración_mental_y_la_innovación_en_pareja": "Disfruta de la exploración mental y la innovación en pareja, buscando experiencias que desafíen las convenciones y estimulen la mente.",
+            "preferencia_por_la_comunicación_abierta_y_respetuosa": "Prefiere la comunicación abierta y respetuosa en el amor, valorando la honestidad y el respeto mutuo en las relaciones románticas.",
+            "exploración_del_amor_como_una_experiencia_vanguardista_y_colaborativa": "Se aventura en la exploración del amor como una experiencia vanguardista y colaborativa, buscando relaciones que inspiren cambios y contribuyan a la evolución conjunta."
+        }
+    },
+    "venus_en_piscis": {
+        "manifestaciones": {
+            "atracción_por_la_sensibilidad_y_la_empatía": "Experimenta atracción por la sensibilidad y la empatía, buscando relaciones que resuenen con un profundo entendimiento emocional.",
+            "entrega_incondicional_y_compasión_en_el_amor": "Valora la entrega incondicional y la compasión en el amor, mostrando una conexión profunda y una inclinación hacia el apoyo emocional.",
+            "disfrute_del_arte_y_la_espiritualidad_en_pareja": "Disfruta del arte y la espiritualidad en pareja, buscando compartir experiencias que toquen el alma y estimulen la creatividad conjunta.",
+            "preferencia_por_la_comunicación_intuitiva_y_creativa": "Prefiere la comunicación intuitiva y creativa en el amor, valorando la conexión a un nivel más profundo y la expresión artística de sentimientos.",
+            "exploración_del_amor_como_una_experiencia_trascendental_y_única": "Se aventura en la exploración del amor como una experiencia trascendental y única, buscando relaciones que eleven la espiritualidad y proporcionen un sentido de conexión más allá de lo terrenal."
+        }
+    },
+    "venus_en_casa_1": {
+        "manifestaciones": {
+            "encanto_personal_y_carisma_que_proyecta_una_imagen_armoniosa_y_amable": "La persona tiene un encanto personal y carisma que proyecta una imagen armoniosa y amable, atrayendo a otros con su belleza y gracia natural.",
+            "enfoque_en_la_autoexpresión_y_el_amor_propio_para_fomentar_relaciones_saludables": "Se enfoca en la autoexpresión y el amor propio para fomentar relaciones saludables, valorando su propio valor y dignidad en las interacciones personales.",
+            "aprecio_por_la_belleza_y_el_arte_que_se_refleja_en_la_apariencia_personal_y_el_entorno": "Existe un aprecio por la belleza y el arte que se refleja en la apariencia personal y el entorno, creando un ambiente estético y armonioso a su alrededor.",
+            "habilidad_para_creación_de_conexiones_afectivas_y_relaciones_armoniosas": "La persona tiene la habilidad para crear conexiones afectivas y relaciones armoniosas, cultivando la paz y el equilibrio en sus vínculos íntimos.",
+            "búsqueda_de_armonía_y_equilibrio_en_el_inicio_de_nuevos_proyectos_y_relaciones": "Busca la armonía y el equilibrio en el inicio de nuevos proyectos y relaciones, priorizando la cooperación y la colaboración para alcanzar objetivos comunes.",
+            "atracción_por_actividades_que_promueven_el_autoembellecimiento_y_el_cuidado_personal": "Siente atracción por actividades que promueven el autoembellecimiento y el cuidado personal, invirtiendo tiempo y recursos en su bienestar físico y emocional.",
+            "énfasis_en_la_busqueda_del_placer_y_la_satisfacción_a_través_del_autoconocimiento_y_la_autoexpresión": "Pone énfasis en la búsqueda del placer y la satisfacción a través del autoconocimiento y la autoexpresión, disfrutando de la vida y compartiendo su alegría con los demás."
+        }
+    },
+    "venus_en_casa_2": {
+        "manifestaciones": {
+            "valoración_de_la_estabilidad_financiera_y_el_confort_material_como_expresión_de_amor_y_seguridad": "La persona valora la estabilidad financiera y el confort material como expresión de amor y seguridad, buscando relaciones y posesiones que le brinden estabilidad emocional y económica.",
+            "aprecio_por_el_placer_sensual_y_el_disfrute_de_los_sentidos_en_la_experiencia_del_mundo_material": "Existe un aprecio por el placer sensual y el disfrute de los sentidos en la experiencia del mundo material, buscando gratificación a través de experiencias sensoriales y placeres terrenales.",
+            "inversión_en_el_embellecimiento_del_entorno_y_la_adquisición_de_objetos_estéticamente_agradables": "Se invierte en el embellecimiento del entorno y la adquisición de objetos estéticamente agradables, creando un espacio físico que refleje su aprecio por la belleza y el confort.",
+            "tendencia_a_valorar_el_amor_y_la_afectividad_a_través_de_gestos_y_regalos_materiales": "Tiene una tendencia a valorar el amor y la afectividad a través de gestos y regalos materiales, expresando su afecto mediante obsequios y muestras tangibles de aprecio.",
+            "busqueda_de_seguridad_y_estabilidad_en_las_relaciones_amorosas_y_financieras": "Busca seguridad y estabilidad en las relaciones amorosas y financieras, priorizando la confianza y la solidez en sus vínculos íntimos y en sus inversiones económicas.",
+            "atracción_por_actividades_que_promueven_el_autoabastecimiento_y_la_satisfacción_de_necesidades_materiales": "Siente atracción por actividades que promueven el autoabastecimiento y la satisfacción de necesidades materiales, buscando independencia y autonomía en su bienestar material.",
+            "énfasis_en_la_búsqueda_del_placer_y_la_satisfacción_a_través_de_la_adquisición_de_bienes_y_el_disfrute_de_las_comodidades": "Pone énfasis en la búsqueda del placer y la satisfacción a través de la adquisición de bienes y el disfrute de las comodidades, valorando el confort y la seguridad que proporcionan los recursos materiales."
+        }
+    },
+    "venus_en_casa_3": {
+        "manifestaciones": {
+            "comunicación_amorosa_y_armoniosa_que_fomenta_relaciones_interpersonales_positivas": "La persona se comunica de manera amorosa y armoniosa, lo que fomenta relaciones interpersonales positivas y gratificantes, buscando la colaboración y el entendimiento mutuo en sus interacciones.",
+            "aprecio_por_el_intelecto_y_la_inteligencia_que_se_refleja_en_la_expresión_de_afecto_y_afinidad_mental": "Existe un aprecio por el intelecto y la inteligencia que se refleja en la expresión de afecto y afinidad mental, valorando la conexión emocional y la comunicación profunda en las relaciones.",
+            "interés_por_la_literatura,_el_arte,_y_las_actividades_que_promueven_el_intercambio_cultural_y_el_aprendizaje": "Tiene interés por la literatura, el arte y las actividades que promueven el intercambio cultural y el aprendizaje, buscando enriquecer su mente y su vida a través del conocimiento y la creatividad.",
+            "búsqueda_de_armonía_y_equilibrio_en_el_intercambio_de_ideas_y_opiniones_con_otros": "Busca armonía y equilibrio en el intercambio de ideas y opiniones con otros, valorando la diversidad de perspectivas y la capacidad de encontrar puntos en común en las discusiones.",
+            "atracción_por_viajes_cortos_y_actividades_que_estimulan_la_mentalidad_abierta_y_la_curiosidad_intelectual": "Siente atracción por viajes cortos y actividades que estimulan la mentalidad abierta y la curiosidad intelectual, buscando nuevas experiencias y perspectivas en su entorno cercano.",
+            "búsqueda_de_conexiones_afectivas_y_relaciones_armoniosas_a_través_del_intercambio_de_conocimientos_y_experiencias": "Busca conexiones afectivas y relaciones armoniosas a través del intercambio de conocimientos y experiencias, valorando la comunicación fluida y el crecimiento mutuo en sus vínculos personales.",
+            "énfasis_en_la_búsqueda_del_placer_y_la_satisfacción_a_través_del_intercambio_de_ideas_y_el_aprendizaje_continuo": "Pone énfasis en la búsqueda del placer y la satisfacción a través del intercambio de ideas y el aprendizaje continuo, valorando la conexión mental y emocional que proporciona el enriquecimiento intelectual."
+        }
+    },
+    "venus_en_casa_4": {
+        "manifestaciones": {
+            "creación_de_un_hogar_cálido_y_acogedor_que_favorece_la_armonía_y_el_amor_familiar": "La persona se dedica a la creación de un hogar cálido y acogedor que favorece la armonía y el amor familiar, buscando proporcionar un ambiente seguro y confortable para sí misma y sus seres queridos.",
+            "valoración_del_afecto_y_el_apoyo_emocional_en_el_entorno_familiar_y_doméstico": "Existe una valoración del afecto y el apoyo emocional en el entorno familiar y doméstico, priorizando las relaciones íntimas y el cuidado mutuo dentro del hogar.",
+            "interés_por_la_decoración_y_el_diseño_de_interiores_que_refleja_el_amor_por_el_confort_y_la_estética_en_el_hogar": "Tiene interés por la decoración y el diseño de interiores que refleja el amor por el confort y la estética en el hogar, buscando crear un ambiente visualmente agradable y armonioso.",
+            "inversión_en_actividades_que_promueven_el_vínculo_emocional_y_el_crecimiento_afectivo_en_el_ámbito_familiar": "Se invierte en actividades que promueven el vínculo emocional y el crecimiento afectivo en el ámbito familiar, dedicando tiempo y esfuerzo a fortalecer las relaciones con los seres queridos.",
+            "búsqueda_de_seguridad_y_protección_a_través_del_apego_a_las_raíces_familiares_y_la_tradición": "Busca seguridad y protección a través del apego a las raíces familiares y la tradición, valorando la estabilidad emocional que proporciona el arraigo a la familia y las costumbres heredadas.",
+            "atracción_por_actividades_que_fomentan_la_unión_familiar_y_el_cuidado_mutuo,_como_la_cocina_y_la_reunión_en_el_hogar": "Siente atracción por actividades que fomentan la unión familiar y el cuidado mutuo, como la cocina y la reunión en el hogar, valorando el tiempo compartido y los momentos de convivencia en familia.",
+            "énfasis_en_la_búsqueda_del_placer_y_la_satisfacción_a_través_del_amor_y_el_apoyo_emocional_en_el_entorno_doméstico": "Pone énfasis en la búsqueda del placer y la satisfacción a través del amor y el apoyo emocional en el entorno doméstico, valorando la conexión íntima y la sensación de pertenencia que proporciona el hogar."
+        }
+    },
+    "venus_en_casa_5": {
+        "manifestaciones": {
+            "expresión_creativa_y_artística_que_se_nutre_del_amor_y_la_pasión": "La persona muestra una expresión creativa y artística que se nutre del amor y la pasión, encontrando inspiración en las relaciones románticas y en las experiencias emocionales intensas.",
+            "atracción_por_el_romance,_el_cortejo_y_las_actividades_recreativas_que_favorecen_el_encuentro_amoroso": "Siente atracción por el romance, el cortejo y las actividades recreativas que favorecen el encuentro amoroso, disfrutando de los juegos y la diversión compartida en el ámbito amoroso.",
+            "valoración_del_amor_y_la_alegría_en_el_proceso_creativo_y_la_exploración_de_nuevas_formas_de_expresión": "Existe una valoración del amor y la alegría en el proceso creativo y la exploración de nuevas formas de expresión, buscando la conexión emocional y la satisfacción personal a través del arte y la creatividad.",
+            "deseo_de_diversión_y_entusiasmo_en_las_relaciones_amorosas,_buscando_la_experiencia_lúdica_y_el_disfrute_compartido": "Tiene un deseo de diversión y entusiasmo en las relaciones amorosas, buscando la experiencia lúdica y el disfrute compartido en el romance y la intimidad emocional.",
+            "interés_por_actividades_que_fomentan_la_autoexpresión_y_el_placer,_como_el_teatro,_la_música_y_el_arte_visual": "Muestra interés por actividades que fomentan la autoexpresión y el placer, como el teatro, la música y el arte visual, disfrutando de la belleza estética y la emotividad de las experiencias artísticas.",
+            "búsqueda_de_relaciones_amorosas_que_proporcionen_alegría,_crecimiento_personal_y_experiencias_enriquecedoras": "Busca relaciones amorosas que proporcionen alegría, crecimiento personal y experiencias enriquecedoras, valorando la conexión emocional y la complicidad compartida en la relación de pareja.",
+            "énfasis_en_la_búsqueda_del_placer_y_la_satisfacción_a_través_del_amor_y_la_expresión_creativa_en_las_relaciones_románticas": "Pone énfasis en la búsqueda del placer y la satisfacción a través del amor y la expresión creativa en las relaciones románticas, valorando la conexión emocional y la vivacidad compartida en la pareja."
+        }
+    },
+    "venus_en_casa_6": {
+        "manifestaciones": {
+            "valoración_del_amor_y_el_afecto_en_el_entorno_laboral,_buscando_relaciones_armónicas_y_colaborativas_con_colegas_y_subordinados": "La persona valora el amor y el afecto en el entorno laboral, buscando relaciones armónicas y colaborativas con colegas y subordinados, promoviendo un ambiente de trabajo positivo y afectuoso.",
+            "interés_por_actividades_que_fomentan_el_bienestar_y_la_salud,_como_el_yoga,_la_meditación_y_la_terapia_alternativa": "Muestra interés por actividades que fomentan el bienestar y la salud, como el yoga, la meditación y la terapia alternativa, buscando equilibrar el cuerpo y la mente para mejorar la calidad de vida.",
+            "deseo_de_brindar_cuidado_y_servicio_a_otros,_demostrando_compasión_y_empatía_en_el_entorno_laboral_y_en_las_relaciones_de_servicio": "Tiene un deseo de brindar cuidado y servicio a otros, demostrando compasión y empatía en el entorno laboral y en las relaciones de servicio, buscando ayudar y apoyar a quienes lo necesitan.",
+            "búsqueda_de_un_trabajo_que_proporcione_satisfacción_personal_y_un_sentido_de_utilidad_y_contribución_a_la_comunidad": "Busca un trabajo que proporcione satisfacción personal y un sentido de utilidad y contribución a la comunidad, valorando la oportunidad de hacer una diferencia positiva en el mundo a través de su labor.",
+            "atención_a_los_detalles_y_la_calidad_en_el_desarrollo_de_actividades_laborales,_buscando_la_perfección_y_la_eficiencia_en_el_trabajo": "Presta atención a los detalles y la calidad en el desarrollo de actividades laborales, buscando la perfección y la eficiencia en el trabajo, valorando la precisión y la dedicación en sus tareas diarias.",
+            "búsqueda_de_relaciones_laborales_que_proporcionen_armonía_y_bienestar,_evitando_conflictos_y_tensiones_en_el_entorno_de_trabajo": "Busca relaciones laborales que proporcionen armonía y bienestar, evitando conflictos y tensiones en el entorno de trabajo, valorando la colaboración y el trabajo en equipo para alcanzar objetivos comunes.",
+            "énfasis_en_la_búsqueda_del_placer_y_la_satisfacción_a_través_del_servicio_a_otros_y_la_promoción_del_bienestar_en_el_entorno_laboral": "Pone énfasis en la búsqueda del placer y la satisfacción a través del servicio a otros y la promoción del bienestar en el entorno laboral, valorando la oportunidad de contribuir al bienestar de quienes lo rodean."
+        }
+    },
+    "venus_en_casa_7": {
+        "manifestaciones": {
+            "valoración_del_amor_y_la_armonía_en_las_relaciones_de_pareja,_buscando_la_compañía_y_el_apoyo_emocional_de_un_compañero_afectuoso": "La persona valora el amor y la armonía en las relaciones de pareja, buscando la compañía y el apoyo emocional de un compañero afectuoso, priorizando la conexión emocional y la complicidad compartida en la relación amorosa.",
+            "interés_por_relaciones_amorosas_que_promuevan_la_equidad,_el_respeto_y_la_colaboración_mutua,_buscando_una_asociación_armoniosa_y_balanceada": "Muestra interés por relaciones amorosas que promuevan la equidad, el respeto y la colaboración mutua, buscando una asociación armoniosa y balanceada donde ambos miembros se apoyen y se complementen mutuamente.",
+            "atracción_por_la_belleza_y_la_elegancia_en_el_compañero_romántico,_buscando_relaciones_que_inspiren_un_sentido_de_estética_y_armonía": "Siente atracción por la belleza y la elegancia en el compañero romántico, buscando relaciones que inspiren un sentido de estética y armonía, valorando la conexión emocional y la complicidad compartida en la pareja.",
+            "deseo_de_creación_de_vínculos_amorosos_que_fomenten_el_crecimiento_personal_y_la_exploración_mutua,_buscando_la_unión_y_la_intimidad_emocional": "Tiene un deseo de creación de vínculos amorosos que fomenten el crecimiento personal y la exploración mutua, buscando la unión y la intimidad emocional en la relación de pareja, valorando la conexión profunda y la confianza mutua.",
+            "búsqueda_de_relaciones_que_proporcionen_paz_y_armonía,_evitando_conflictos_y_tensiones_en_el_ámbito_amoroso": "Busca relaciones que proporcionen paz y armonía, evitando conflictos y tensiones en el ámbito amoroso, valorando la comunicación abierta y la resolución pacífica de conflictos en la pareja.",
+            "énfasis_en_la_búsqueda_del_placer_y_la_satisfacción_a_través_del_amor_y_la_comprensión_mutua_en_las_relaciones_de_pareja": "Pone énfasis en la búsqueda del placer y la satisfacción a través del amor y la comprensión mutua en las relaciones de pareja, valorando la conexión emocional y la complicidad compartida en la vida romántica."
+        }
+    },
+    "venus_en_casa_8": {
+        "manifestaciones": {
+            "profundización_emocional_en_las_relaciones_amorosas,_buscando_un_vínculo_intenso_y_transformador_con_el_compañero_afectivo": "La persona tiende a experimentar una profundización emocional en las relaciones amorosas, buscando un vínculo intenso y transformador con el compañero afectivo, donde se exploran las profundidades emocionales y se comparten experiencias íntimas de manera auténtica.",
+            "atracción_por_la_intimidad_emocional_y_la_conexión_a_un_nivel_profundo_en_las_relaciones_de_pareja": "Siente atracción por la intimidad emocional y la conexión a un nivel profundo en las relaciones de pareja, buscando compartir emociones intensas y revelar aspectos íntimos de su ser con el compañero afectivo, valorando la confianza y la complicidad en la relación.",
+            "interés_por_relaciones_que_promuevan_el_crecimiento_personal_y_la_transformación_mutua_a_través_del_amor_y_la_comprensión_emocional": "Muestra interés por relaciones que promuevan el crecimiento personal y la transformación mutua a través del amor y la comprensión emocional, donde se enfrentan y superan desafíos emocionales juntos, valorando el apoyo mutuo en momentos difíciles.",
+            "búsqueda_de_relaciones_que_inspiren_la_renovación_y_la_regeneración_emocional,_buscando_transformar_el_vínculo_afectivo": "Busca relaciones que inspiren la renovación y la regeneración emocional, buscando transformar el vínculo afectivo a través de la superación de obstáculos y la evolución conjunta, valorando la capacidad de reinventarse como pareja.",
+            "deseo_de_explorar_asuntos_profundos_y_tabúes_en_el_ámbito_amoroso,_buscando_la_intensidad_y_la_autenticidad_en_la_relación_de_pareja": "Tiene el deseo de explorar asuntos profundos y tabúes en el ámbito amoroso, buscando la intensidad y la autenticidad en la relación de pareja, valorando la apertura y la honestidad emocional en la intimidad compartida.",
+            "atracción_por_relaciones_que_incluyan_un_componente_de_misterio_y_secreto,_buscando_la_fascinación_y_la_intriga_en_el_vínculo_amoroso": "Siente atracción por relaciones que incluyan un componente de misterio y secreto, buscando la fascinación y la intriga en el vínculo amoroso, valorando la profundidad emocional y la conexión enigmática con el compañero afectivo."
+        }
+    },
+    "venus_en_casa_9": {
+        "manifestaciones": {
+            "atracción_por_relaciones_amorosas_con_personas_de_distintas_culturas_o_trasfondos,_buscando_la_ampliación_de_horizontes_y_la_exploración_de_nuevas_experiencias": "La persona siente atracción por relaciones amorosas con personas de distintas culturas o trasfondos, buscando la ampliación de horizontes y la exploración de nuevas experiencias a través del compañero afectivo, valorando la diversidad y la riqueza cultural en la relación.",
+            "interés_por_viajar_con_el_compañero_afectivo_y_experimentar_nuevas_aventuras_románticas_en_entornos_extranjeros_o_exóticos": "Muestra interés por viajar con el compañero afectivo y experimentar nuevas aventuras románticas en entornos extranjeros o exóticos, buscando enriquecer la relación a través de la exploración de diferentes lugares y culturas, valorando la conexión emocional en contextos diversos.",
+            "búsqueda_de_relaciones_amorosas_que_inspiren_el_aprendizaje,_la_expansión_y_el_crecimiento_personal,_buscando_la_adquisición_de_nuevos_conocimientos_y_perspectivas_a_través_del_amor": "Busca relaciones amorosas que inspiren el aprendizaje, la expansión y el crecimiento personal, buscando la adquisición de nuevos conocimientos y perspectivas a través del amor, valorando la conexión intelectual y espiritual con el compañero afectivo.",
+            "atracción_por_el_conocimiento_y_la_filosofía_en_el_contexto_amoroso,_buscando_compartir_conversaciones_profundas_y_significativas_con_el_compañero_afectivo": "Siente atracción por el conocimiento y la filosofía en el contexto amoroso, buscando compartir conversaciones profundas y significativas con el compañero afectivo, valorando la conexión mental y espiritual en la relación.",
+            "deseo_de_relaciones_amorosas_que_promuevan_la_exploración_de_nuevos_horizontes_y_la_búsqueda_de_la_verdad,_buscando_la_inspiración_y_el_crecimiento_mutuo_a_través_del_amor": "Tiene el deseo de relaciones amorosas que promuevan la exploración de nuevos horizontes y la búsqueda de la verdad, buscando la inspiración y el crecimiento mutuo a través del amor, valorando la conexión emocional y la sincronía espiritual con el compañero afectivo.",
+            "interés_por_relaciones_que_fomenten_la_espiritualidad_y_la_búsqueda_de_sentido,_buscando_el_desarrollo_personal_y_la_elevación_del_alma_a_través_del_amor": "Muestra interés por relaciones que fomenten la espiritualidad y la búsqueda de sentido, buscando el desarrollo personal y la elevación del alma a través del amor, valorando la conexión espiritual y la armonía interior con el compañero afectivo."
+        }
+    },
+    "venus_en_casa_10": {
+        "manifestaciones": {
+            "búsqueda_de_relaciones_amorosas_que_apoyen_la_carrera_o_el_status_profesional_buscando_la_estabilidad_y_el_reconocimiento_social_a_través_del_amor": "La persona busca relaciones amorosas que apoyen la carrera o el status profesional, buscando la estabilidad y el reconocimiento social a través del amor, valorando la colaboración y el respaldo del compañero afectivo en el ámbito laboral y social.",
+            "atracción_por_partners_que_tengan_un_status_social_elevado_o_una_posición_destacada_en_la_sociedad,_buscando_la_elevación_personal_y_el_prestigio_a_través_de_la_pareja": "Siente atracción por partners que tengan un status social elevado o una posición destacada en la sociedad, buscando la elevación personal y el prestigio a través de la pareja, valorando la imagen y el estatus social del compañero afectivo.",
+            "interés_por_relaciones_que_promuevan_la_profesionalidad_y_la_responsabilidad,_buscando_la_colaboración_y_el_apoyo_mutuo_en_la_consecución_de_objetivos_compartidos": "Muestra interés por relaciones que promuevan la profesionalidad y la responsabilidad, buscando la colaboración y el apoyo mutuo en la consecución de objetivos compartidos, valorando la eficiencia y la solidez en la relación de pareja.",
+            "deseo_de_relaciones_que_ofrezcan_seguridad_y_estabilidad_emocional,_buscando_la_construcción_de_un_futuro_común_y_un_legado_duradero_a_través_del_amor": "Tiene el deseo de relaciones que ofrezcan seguridad y estabilidad emocional, buscando la construcción de un futuro común y un legado duradero a través del amor, valorando la confianza y la lealtad en la relación de pareja.",
+            "atracción_por_partners_que_sean_líderes_o_figuras_de_autoridad,_buscando_la_guía_y_la_orientación_en_la_relación_amorosa": "Siente atracción por partners que sean líderes o figuras de autoridad, buscando la guía y la orientación en la relación amorosa, valorando la seguridad y el liderazgo del compañero afectivo.",
+            "interés_por_relaciones_que_promuevan_el_cumplimiento_de_metas_y_el_logro_de_objetivos_ambiciosos,_buscando_el_reconocimiento_y_el_exito_profesional_a_través_del_apoyo_del_compañero_afectivo": "Muestra interés por relaciones que promuevan el cumplimiento de metas y el logro de objetivos ambiciosos, buscando el reconocimiento y el éxito profesional a través del apoyo del compañero afectivo, valorando la determinación y la ambición compartida en la relación."
+        }
+    },
+    "venus_en_casa_11": {
+        "manifestaciones": {
+            "atracción_por_amistades_que_puedan_convertirse_en_relaciones_amorosas_o_que_compartan_intereses_y_valores_afines,_buscando_la_cercanía_emocional_y_la_colaboración_en_proyectos_comunes": "La persona siente atracción por amistades que puedan convertirse en relaciones amorosas o que compartan intereses y valores afines, buscando la cercanía emocional y la colaboración en proyectos comunes, valorando la amistad y la conexión intelectual en la relación.",
+            "interés_por_relaciones_amorosas_que_involucren_un_componente_de_amistad_y_compañerismo,_buscando_la_comunicación_abierta_y_el_apoyo_mutuo_en_la_consecución_de_metas_y_sueños_compartidos": "Muestra interés por relaciones amorosas que involucren un componente de amistad y compañerismo, buscando la comunicación abierta y el apoyo mutuo en la consecución de metas y sueños compartidos, valorando la complicidad y la camaradería en la relación de pareja.",
+            "deseo_de_relaciones_que_promuevan_la_innovación_y_el_crecimiento_personal,_buscando_la_exploración_de_nuevas_experiencias_y_la_realización_de_proyectos_vanguardistas_junto_al_compañero_afectivo": "Tiene el deseo de relaciones que promuevan la innovación y el crecimiento personal, buscando la exploración de nuevas experiencias y la realización de proyectos vanguardistas junto al compañero afectivo, valorando la originalidad y la independencia en la relación.",
+            "atracción_por_partners_que_compartan_la_visión_de_un_mundo_mejor_y_la_búsqueda_de_la_justicia_social,_buscando_el_activismo_y_la_participación_en_causas_comunitarias_junto_al_compañero_afectivo": "Siente atracción por partners que compartan la visión de un mundo mejor y la búsqueda de la justicia social, buscando el activismo y la participación en causas comunitarias junto al compañero afectivo, valorando el compromiso y la solidaridad en la relación.",
+            "interés_por_relaciones_que_promuevan_la_amistad_y_el_respeto_mutuo,_buscando_la_igualdad_y_la_cooperación_en_la_relación_amorosa": "Muestra interés por relaciones que promuevan la amistad y el respeto mutuo, buscando la igualdad y la cooperación en la relación amorosa, valorando la confianza y la reciprocidad en la pareja.",
+            "deseo_de_relaciones_que_fomenten_el_trabajo_en_equipo_y_la_construcción_de_un_futuro_colectivo,_buscando_la_realización_de_metas_comunes_y_el_apoyo_recíproco_en_el_logro_de_sueños_conjuntos": "Tiene el deseo de relaciones que fomenten el trabajo en equipo y la construcción de un futuro colectivo, buscando la realización de metas comunes y el apoyo recíproco en el logro de sueños conjuntos, valorando la colaboración y la cooperación en la relación."
+        }
+    },
+    "venus_en_casa_12": {
+        "manifestaciones": {
+            "atracción_por_relaciones_que_promuevan_la_espiritualidad_y_la_conexión_emocional,_buscando_la_fusión_y_el_encuentro_a_un_nivel_más_profundo,_incluso_en_contextos_de_sacrificio_o_servicio_altruista": "La persona siente atracción por relaciones que promuevan la espiritualidad y la conexión emocional, buscando la fusión y el encuentro a un nivel más profundo, incluso en contextos de sacrificio o servicio altruista, valorando la compasión y la entrega desinteresada en la relación.",
+            "interés_por_partners_que_propicien_un_ambiente_de_idealización_y_fantasía,_buscando_el_refugio_emocional_y_la_imaginación_romántica_en_la_relación_amorosa": "Muestra interés por partners que propicien un ambiente de idealización y fantasía, buscando el refugio emocional y la imaginación romántica en la relación amorosa, valorando la sensibilidad y la empatía en la pareja.",
+            "deseo_de_relaciones_que_favorezcan_la_creatividad_y_la_inspiración,_buscando_la_exploración_de_mundos_interiores_y_la_expresión_artística_junto_al_compañero_afectivo": "Tiene el deseo de relaciones que favorezcan la creatividad y la inspiración, buscando la exploración de mundos interiores y la expresión artística junto al compañero afectivo, valorando la sensibilidad y la conexión emocional en la relación.",
+            "atracción_por_partners_que_promuevan_el_idealismo_y_la_compasión,_buscando_el_apoyo_mutuo_en_la_búsqueda_de_un_mundo_mejor,_incluso_en_contextos_de_sacrificio_personal": "Siente atracción por partners que promuevan el idealismo y la compasión, buscando el apoyo mutuo en la búsqueda de un mundo mejor, incluso en contextos de sacrificio personal, valorando la solidaridad y el altruismo en la pareja.",
+            "interés_por_relaciones_que_fomenten_la_empatía_y_la_comprensión_mutua,_buscando_la_conexión_a_un_nivel_espiritual_y_emocional,_incluso_en_contextos_de_sacrificio_o_servicio_desinteresado": "Muestra interés por relaciones que fomenten la empatía y la comprensión mutua, buscando la conexión a un nivel espiritual y emocional, incluso en contextos de sacrificio o servicio desinteresado, valorando la entrega y la devoción en la relación."
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "vibración_1": {
+        "manifestaciones": {
+            "independencia_liderazgo": "Se manifiesta en la capacidad de tomar la iniciativa y liderar.",
+            "innovacion_originalidad": "Se manifiesta en un enfoque único para abordar desafíos y la habilidad en campos creativos.",
+            "determinacion_perseverancia": "Se manifiesta en la determinación y la voluntad de superar obstáculos.",
+            "autoexpresion_autoafirmacion": "Se manifiesta en la necesidad de expresar ideas y afirmar la individualidad.",
+            "nuevos_comienzos": "Se manifiesta en la inclinación hacia nuevos comienzos y la disposición para asumir riesgos."
+        },
+        "manifestaciones_negativas": {
+            "individualismo_excesivo": "Una personalidad dominada por la vibración 1 podría volverse demasiado independiente, llegando a ser percibida como egoísta o poco colaborativa en entornos que requieren trabajo en equipo.",
+            "impaciencia": "La urgencia y el deseo de resultados rápidos pueden llevar a la impaciencia. Esto podría resultar en tomar decisiones apresuradas o no tener la paciencia necesaria para abordar ciertos procesos o relaciones.",
+            "autoridad_dominante": "El deseo de liderar puede llevar a una inclinación hacia el dominio y la imposición de ideas, lo que podría generar conflictos en situaciones que requieren un enfoque más colaborativo.",
+            "falta_de_flexibilidad": "La firmeza en las propias convicciones puede llevar a una resistencia al cambio o una falta de adaptabilidad en circunstancias en evolución."
+        }
+    },
+    "vibración_2": {
+        "manifestaciones": {
+            "cooperacion_relaciones": "Se manifiesta en la habilidad para cooperar y trabajar en armonía con otros.",
+            "equilibrio_colaboracion": "Se manifiesta en la búsqueda del equilibrio y la colaboración en relaciones personales y profesionales.",
+            "sensibilidad_intuitiva": "Se manifiesta en la sensibilidad emocional y la intuición aguda.",
+            "diplomacia_diplomacia": "Se manifiesta en la capacidad para resolver conflictos mediante la diplomacia y la negociación.",
+            "paciencia_coexistencia": "Se manifiesta en la paciencia y la disposición para coexistir con diferentes perspectivas."
+        },
+        "manifestaciones_negativas": {
+            "indecisión_inseguridad": "Puede manifestarse en la indecisión y la inseguridad al tomar decisiones, buscando la aprobación constante de los demás.",
+            "dependencia_emocional": "Puede manifestarse en una dependencia emocional excesiva, buscando constantemente la validación y apoyo de los demás.",
+            "conformismo_evitación_conflictos": "Puede manifestarse en el conformismo y la evitación de conflictos, evitando expresar opiniones o deseos personales.",
+            "sensibilidad_extrema": "Puede manifestarse en una sensibilidad extrema a críticas o conflictos, llevando a la evitación de situaciones desafiantes.",
+            "falta_de_autoafirmación": "Puede manifestarse en la falta de autoafirmación, cediendo fácilmente a las necesidades y deseos de los demás en detrimento propio."
+        }
+    },
+    "vibración_3": {
+        "manifestaciones": {
+            "creatividad_expresion": "Se manifiesta en la creatividad y la expresión artística.",
+            "comunicacion_social": "Se manifiesta en habilidades de comunicación efectiva y carisma social.",
+            "optimismo_entusiasmo": "Se manifiesta en un enfoque optimista y entusiasta ante la vida.",
+            "versatilidad_adaptabilidad": "Se manifiesta en la versatilidad y la capacidad de adaptarse a diversas situaciones.",
+            "alegría_creatividad": "Se manifiesta en la alegría derivada de la creatividad y la expresión personal."
+        },
+        "manifestaciones_negativas": {
+            "superficialidad_exagerada": "Puede manifestarse en una tendencia a la superficialidad o a centrarse demasiado en la apariencia externa.",
+            "exceso_de_palabras": "Puede manifestarse en un exceso de palabras o comunicación, llegando a la charla sin propósito o la dispersión de la energía.",
+            "irresponsabilidad_inconstancia": "Puede manifestarse en irresponsabilidad o inconstancia en compromisos y responsabilidades.",
+            "falta_de_enfoque_seriedad": "Puede manifestarse en una falta de enfoque y seriedad en la consecución de metas o responsabilidades.",
+            "manipulación_comunicativa": "Puede manifestarse en la manipulación a través de la comunicación para lograr objetivos personales."
+        }
+    },
+    "vibración_4": {
+        "manifestaciones": {
+            "estabilidad_organización": "Se manifiesta en la búsqueda de estabilidad y la habilidad para organizar eficientemente.",
+            "trabajo_dedicación": "Se manifiesta en una fuerte ética de trabajo y dedicación a las responsabilidades.",
+            "disciplina_estructura": "Se manifiesta en la disciplina personal y la apreciación por la estructura.",
+            "realismo_responsabilidad": "Se manifiesta en un enfoque realista y la asunción de responsabilidades.",
+            "perseverancia_eficiencia": "Se manifiesta en la perseverancia y la búsqueda de la eficiencia en las tareas."
+        },
+        "manifestaciones_negativas": {
+            "rigidez_inflexibilidad": "Puede manifestarse en rigidez e inflexibilidad en puntos de vista y métodos.",
+            "obsesión_por_control": "Puede manifestarse en una obsesión por el control, llevando a la resistencia al cambio y la falta de adaptabilidad.",
+            "pessimismo_estrés": "Puede manifestarse en un enfoque pesimista, generando estrés innecesario en situaciones desafiantes.",
+            "exceso_de_trabajo_perfeccionismo": "Puede manifestarse en un exceso de trabajo y perfeccionismo, llevando a la fatiga y la insatisfacción constante.",
+            "cerrazón_a_nuevas_ideas": "Puede manifestarse en una cerrazón a nuevas ideas y perspectivas, limitando el crecimiento personal y profesional."
+        }
+    },
+    "vibración_5": {
+        "manifestaciones": {
+            "libertad_aventura": "Se manifiesta en el deseo de libertad y la búsqueda de nuevas aventuras.",
+            "adaptabilidad_cambio": "Se manifiesta en la facilidad para adaptarse a cambios y situaciones dinámicas.",
+            "curiosidad_exploración": "Se manifiesta en la curiosidad y la inclinación hacia la exploración de nuevas ideas y lugares.",
+            "versatilidad_multitarea": "Se manifiesta en la versatilidad y la capacidad para realizar múltiples tareas.",
+            "comunicación_entusiasmo": "Se manifiesta en la comunicación persuasiva y el entusiasmo contagioso."
+        },
+        "manifestaciones_negativas": {
+            "irresponsabilidad_inconstancia": "Puede manifestarse en irresponsabilidad o inconstancia en compromisos y responsabilidades.",
+            "inquietud_exceso_de_actividad": "Puede manifestarse en inquietud y un exceso de actividad sin un propósito claro.",
+            "impulsividad_falta_de_enfoque": "Puede manifestarse en impulsividad y falta de enfoque en metas a largo plazo.",
+            "falta_de_compromiso_relaciones": "Puede manifestarse en una falta de compromiso en relaciones, buscando constantemente novedades.",
+            "adicciones_risk-taking": "Puede manifestarse en tendencias adictivas y toma de riesgos irresponsable."
+        }
+    },
+    "vibración_6": {
+        "manifestaciones": {
+            "amor_responsabilidad": "Se manifiesta en el amor y la preocupación por la responsabilidad hacia la familia y la comunidad.",
+            "armonía_equilibrio": "Se manifiesta en la búsqueda de armonía y equilibrio en las relaciones personales.",
+            "servicio_ayuda": "Se manifiesta en el deseo de servir y ayudar a los demás de manera desinteresada.",
+            "comprensión_empatía": "Se manifiesta en la comprensión profunda y la empatía hacia las necesidades de los demás.",
+            "equidad_justicia": "Se manifiesta en la búsqueda de la equidad y la justicia en todas las áreas de la vida."
+        },
+        "manifestaciones_negativas": {
+            "sobreprotección_manipulación": "Puede manifestarse en sobreprotección y manipulación en relaciones cercanas.",
+            "exceso_de_preocupación": "Puede manifestarse en un exceso de preocupación por los demás, descuidando las propias necesidades.",
+            "criticismo_exigencia": "Puede manifestarse en un patrón de críticas constantes y exigencia hacia uno mismo y los demás.",
+            "intromisión_falta_de_espacio": "Puede manifestarse en intromisión en la vida de los demás y falta de respeto por su espacio personal.",
+            "victimización_resentimiento": "Puede manifestarse en la tendencia a la victimización y el resentimiento hacia aquellos que no cumplen con sus expectativas."
+        }
+    },
+    "vibración_7": {
+        "manifestaciones": {
+            "búsqueda_conocimiento": "Se manifiesta en la búsqueda constante de conocimiento y comprensión profunda.",
+            "introspección_espiritualidad": "Se manifiesta en la tendencia a la introspección y la exploración espiritual.",
+            "sabiduría_intuición": "Se manifiesta en la sabiduría y la capacidad de confiar en la intuición.",
+            "soledad_reflexión": "Se manifiesta en la preferencia por momentos de soledad para la reflexión y la contemplación.",
+            "análisis_profundidad": "Se manifiesta en la habilidad para analizar situaciones con profundidad y discernimiento."
+        },
+        "manifestaciones_negativas": {
+            "aislamiento_social": "Puede manifestarse en tendencias aislacionistas, evitando interacciones sociales significativas.",
+            "escepticismo_cinismo": "Puede manifestarse en escepticismo excesivo y actitudes cínicas hacia el mundo.",
+            "retraimiento_emocional": "Puede manifestarse en retraimiento emocional, dificultando la expresión de sentimientos.",
+            "obsesión_por_el_conocimiento": "Puede manifestarse en una obsesión por el conocimiento que lleva a la desconexión emocional.",
+            "evitación_de_responsabilidades": "Puede manifestarse en la evitación de responsabilidades prácticas y compromisos del mundo material."
+        }
+    },
+    "vibración_8": {
+        "manifestaciones": {
+            "poder_logro": "Se manifiesta en la búsqueda de poder y logros significativos en la vida.",
+            "liderazgo_autoridad": "Se manifiesta en habilidades de liderazgo y la asunción de roles de autoridad.",
+            "éxito_abundancia": "Se manifiesta en la conexión con el éxito y la atracción de la abundancia material.",
+            "disciplina_eficiencia": "Se manifiesta en la disciplina personal y la eficiencia en la gestión de recursos.",
+            "justicia_equidad": "Se manifiesta en la búsqueda de la justicia y la equidad en todas las áreas de la vida."
+        },
+        "manifestaciones_negativas": {
+            "ambición_desmedida": "Puede manifestarse en una ambición desmedida, llevando a prácticas poco éticas o la explotación de otros.",
+            "autoritarismo_arrogancia": "Puede manifestarse en autoritarismo y arrogancia, despreciando las opiniones y necesidades de los demás.",
+            "obsesión_por_el_poder": "Puede manifestarse en una obsesión desmedida por el poder y el control.",
+            "materialismo_excesivo": "Puede manifestarse en un enfoque excesivo en el materialismo y la búsqueda constante de la riqueza.",
+            "falta_de_empatía": "Puede manifestarse en la falta de empatía hacia aquellos que no cumplen con los estándares de éxito establecidos."
+        }
+    },
+    "vibración_9": {
+        "manifestaciones": {
+            "altruismo_compasión": "Se manifiesta en un fuerte sentido de altruismo y compasión hacia los demás.",
+            "humanitarismo_servicio": "Se manifiesta en la inclinación hacia el humanitarismo y el servicio a la comunidad.",
+            "espiritualidad_comprensión": "Se manifiesta en la conexión con la espiritualidad y la búsqueda de una comprensión más profunda.",
+            "generosidad_amor": "Se manifiesta en la generosidad y el amor desinteresado hacia aquellos que lo rodean.",
+            "culminación_cierre": "Se manifiesta en la culminación de ciclos y el cierre de etapas para el crecimiento espiritual."
+        },
+        "manifestaciones_negativas": {
+            "idealismo_irreal": "Puede manifestarse en un idealismo irreal, ignorando las realidades prácticas de la vida.",
+            "victimización_pesar": "Puede manifestarse en la tendencia a la victimización y el pesar constante.",
+            "egoísmo_encubierto": "Puede manifestarse en formas encubiertas de egoísmo bajo la apariencia de altruismo.",
+            "desapego_distancia_emocional": "Puede manifestarse en un desapego excesivo y distancia emocional para evitar enfrentar situaciones difíciles.",
+            "falta_de_acción_pasividad": "Puede manifestarse en la falta de acción y pasividad frente a los desafíos, esperando que todo se resuelva por sí mismo."
+        }
+    }
+}

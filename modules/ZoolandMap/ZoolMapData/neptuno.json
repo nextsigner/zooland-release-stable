@@ -1,0 +1,293 @@
+{
+"info": {
+    "diámetro": "49,244 km",
+    "tiempoDeOrbitaCompleta": {
+      "d": "60.190",
+      "m": "164.8/12",
+      "a": "164.8"
+    },
+    "tiempoDeOrbitaPorSigno": {
+      "d": "164.8*12*365.25/12",
+      "m": "164.8/12/12",
+      "a": "14.06"
+    },
+    "posición": 8,
+    "propiedadesFisicas": "Gaseoso, frío",
+    "signoRegente": "Piscis",
+    "nombreGriego": "Poseidón",
+    "nombreRomano": "Neptuno",
+    "simbologíaTeológica": "Neptuno es el dios romano del mar y del océano, asociado con la tranquilidad, la intuición y los misterios profundos. También es considerado el gobernante de los terremotos y los caballos.",
+    "simbologíaMitológica": "Neptuno simboliza la vastedad y la profundidad de los océanos, así como los poderes ocultos de la naturaleza. Es visto como un símbolo de la imaginación, los sueños y la inspiración artística.",
+    "significadoDelGlifo": "El glifo de Neptuno representa el tridente del dios, que simboliza su dominio sobre los océanos y su poder para agitar o calmar las aguas a su voluntad.",
+    "polaridad": "Femenina",
+    "signoExaltación": "Leo",
+    "signoCaída": "Acuario",
+    "signoExilio": "Virgo"
+  },
+    "neptuno_en_aries": {
+        "manifestaciones": {
+            "inspiracion_innovadora": "Experimenta inspiración de manera innovadora, buscando inspirar y liderar a través de la creatividad y la originalidad.",
+            "búsqueda_de_identidad_espiritual": "Busca la identidad espiritual de manera única, explorando diferentes dimensiones de la espiritualidad y la conexión con el yo interior.",
+            "imaginación_visionaria": "Desarrolla una imaginación visionaria, explorando nuevos conceptos y posibilidades que desafían las convenciones.",
+            "compasión_pionera": "Muestra compasión de manera pionera, liderando con empatía y comprensión en situaciones desafiantes.",
+            "exploracion_emocional_inusual": "Se aventura en la exploración emocional de manera inusual, buscando comprender y expresar emociones de forma única."
+        }
+    },
+    "neptuno_en_tauro": {
+        "manifestaciones": {
+            "inspiracion_en_la_naturaleza": "Experimenta inspiración en la naturaleza, buscando conexión espiritual a través de la apreciación de la belleza y la armonía natural.",
+            "búsqueda_de_valores_espirituales": "Busca valores espirituales de manera única, explorando dimensiones más profundas de la ética y la conexión con valores fundamentales.",
+            "imaginación_sensitiva": "Desarrolla una imaginación sensitiva, explorando nuevas formas de creatividad y expresión artística que resuenan con la sensibilidad natural.",
+            "compasión_por_la_tierra": "Muestra compasión por la Tierra y sus recursos, liderando con empatía y conciencia en la preservación del medio ambiente.",
+            "exploracion_sensitiva_de_emociones": "Se aventura en la exploración sensitiva de emociones, buscando comprender y expresar sentimientos de manera profunda y resonante."
+        }
+    },
+    "neptuno_en_geminis": {
+        "manifestaciones": {
+            "inspiracion_intelectual": "Experimenta inspiración intelectual, buscando conexión espiritual a través de la exploración de ideas innovadoras y la comunicación.",
+            "búsqueda_de_conocimiento_espiritual": "Busca conocimiento espiritual de manera única, explorando dimensiones más profundas de la mente y la conexión con la espiritualidad.",
+            "imaginación_creativa": "Desarrolla una imaginación creativa, explorando nuevas formas de expresión artística y creatividad que desafían las convenciones.",
+            "compasión_por_el_aprendizaje": "Muestra compasión por el aprendizaje y la comunicación, liderando con empatía y comprensión en entornos educativos y de intercambio de ideas.",
+            "exploracion_intelectual_de_emociones": "Se aventura en la exploración intelectual de emociones, buscando comprender y comunicar sentimientos de manera profunda y reflexiva."
+        }
+    },
+    "neptuno_en_cancer": {
+        "manifestaciones": {
+            "inspiracion_emocional": "Experimenta inspiración emocional, buscando conexión espiritual a través de la profundidad de las emociones y la empatía.",
+            "búsqueda_de_seguridad_espiritual": "Busca seguridad espiritual de manera única, explorando dimensiones más profundas del hogar y la conexión con la espiritualidad.",
+            "imaginación_sensible": "Desarrolla una imaginación sensible, explorando nuevas formas de expresión artística y creatividad que resuenan con la sensibilidad emocional.",
+            "compasión_por_la_familia": "Muestra compasión por la familia y las relaciones cercanas, liderando con empatía y comprensión en el ámbito doméstico y familiar.",
+            "exploracion_sensible_de_emociones": "Se aventura en la exploración sensible de emociones, buscando comprender y expresar sentimientos de manera profunda y reflexiva."
+        }
+    },
+    "neptuno_en_leo": {
+        "manifestaciones": {
+            "inspiracion_creativa": "Experimenta inspiración creativa, buscando conexión espiritual a través de la expresión artística y la creatividad personal.",
+            "búsqueda_de_identidad_espiritual": "Busca la identidad espiritual de manera única, explorando dimensiones más profundas de la autoexpresión y la conexión con la espiritualidad.",
+            "imaginación_artística": "Desarrolla una imaginación artística, explorando nuevas formas de expresión artística y creatividad que desafían las convenciones.",
+            "compasión_por_la_expresión_personal": "Muestra compasión por la expresión personal y la autoexpresión, liderando con empatía y comprensión en el ámbito artístico y creativo.",
+            "exploracion_creativa_de_emociones": "Se aventura en la exploración creativa de emociones, buscando comprender y expresar sentimientos de manera única y expresiva."
+        }
+    },
+    "neptuno_en_virgo": {
+        "manifestaciones": {
+            "inspiracion_en_el_servicio": "Experimenta inspiración en el servicio y la ayuda a los demás, buscando conexión espiritual a través de acciones prácticas y serviciales.",
+            "búsqueda_de_perfección_espiritual": "Busca la perfección espiritual de manera única, explorando dimensiones más profundas de la ética y la conexión con la espiritualidad en la vida diaria.",
+            "imaginación_práctica": "Desarrolla una imaginación práctica, explorando nuevas formas de implementar la espiritualidad en la rutina diaria y las tareas cotidianas.",
+            "compasión_por_la_salud_y_el_bienestar": "Muestra compasión por la salud y el bienestar, liderando con empatía y comprensión en el ámbito de la salud y las prácticas de bienestar.",
+            "exploracion_práctica_de_emociones": "Se aventura en la exploración práctica de emociones, buscando comprender y expresar sentimientos de manera útil y funcional."
+        }
+    },
+    "neptuno_en_libra": {
+        "manifestaciones": {
+            "inspiracion_en_las_relaciones": "Experimenta inspiración en las relaciones y la armonía interpersonal, buscando conexión espiritual a través de la belleza y la colaboración.",
+            "búsqueda_de_equilibrio_espiritual": "Busca el equilibrio espiritual de manera única, explorando dimensiones más profundas de la ética y la conexión con la espiritualidad en la vida social.",
+            "imaginación_relacional": "Desarrolla una imaginación relacional, explorando nuevas formas de expresión artística y creatividad que fomentan la armonía y la cooperación.",
+            "compasión_por_la_justicia_y_la_equidad": "Muestra compasión por la justicia y la equidad, liderando con empatía y comprensión en el ámbito de las relaciones sociales y la justicia.",
+            "exploracion_armoniosa_de_emociones": "Se aventura en la exploración armoniosa de emociones, buscando comprender y expresar sentimientos de manera que promueva la paz y la colaboración."
+        }
+    },
+    "neptuno_en_escorpio": {
+        "manifestaciones": {
+            "inspiracion_emocional_profunda": "Experimenta inspiración emocional profunda, buscando conexión espiritual a través de la intensidad emocional y la transformación interior.",
+            "búsqueda_de_la_verdad_oculta": "Busca la verdad oculta de manera única, explorando dimensiones más profundas de la espiritualidad y la conexión con lo desconocido.",
+            "imaginación_intuitiva": "Desarrolla una imaginación intuitiva, explorando nuevas formas de expresión artística y creatividad que resuenan con la profundidad emocional.",
+            "compasión_por_la_regeneración": "Muestra compasión por la regeneración y la transformación, liderando con empatía y comprensión en el ámbito de la renovación y el cambio profundo.",
+            "exploracion_intensa_de_emociones": "Se aventura en la exploración intensa de emociones, buscando comprender y expresar sentimientos de manera que promueva la autenticidad y la regeneración emocional."
+        }
+    },
+    "neptuno_en_sagitario": {
+        "manifestaciones": {
+            "inspiracion_en_la_busqueda_del_significado": "Experimenta inspiración en la búsqueda del significado y la expansión de la mente, buscando conexión espiritual a través del conocimiento y la exploración filosófica.",
+            "búsqueda_de_la_verdad_universal": "Busca la verdad universal de manera única, explorando dimensiones más profundas de la espiritualidad y la conexión con lo trascendental.",
+            "imaginación_filosófica": "Desarrolla una imaginación filosófica, explorando nuevas formas de expresión artística y creatividad que resuenan con la exploración de ideas y conceptos amplios.",
+            "compasión_por_la_búsqueda_del_conocimiento": "Muestra compasión por la búsqueda del conocimiento y la verdad, liderando con empatía y comprensión en el ámbito de la educación y la filosofía.",
+            "exploracion_amplia_de_emociones": "Se aventura en la exploración amplia de emociones, buscando comprender y expresar sentimientos de manera que promueva la apertura mental y la comprensión universal."
+        }
+    },
+    "neptuno_en_capricornio": {
+        "manifestaciones": {
+            "inspiracion_en_la_disciplina": "Experimenta inspiración en la disciplina y la estructura, buscando conexión espiritual a través del orden y la responsabilidad.",
+            "búsqueda_de_la_verdad_práctica": "Busca la verdad práctica de manera única, explorando dimensiones más profundas de la espiritualidad y la conexión con lo material y tangible.",
+            "imaginación_pragmática": "Desarrolla una imaginación pragmática, explorando nuevas formas de expresión artística y creatividad que resuenan con la eficiencia y el logro práctico.",
+            "compasión_por_la_integridad_y_la_autoridad": "Muestra compasión por la integridad y la autoridad, liderando con empatía y comprensión en el ámbito de la gobernanza y la responsabilidad social.",
+            "exploracion_práctica_de_emociones": "Se aventura en la exploración práctica de emociones, buscando comprender y expresar sentimientos de manera que promueva la estabilidad emocional y la integridad personal."
+        }
+    },
+    "neptuno_en_acuario": {
+        "manifestaciones": {
+            "inspiracion_en_la_innovacion": "Experimenta inspiración en la innovación y la originalidad, buscando conexión espiritual a través de ideas vanguardistas y la exploración de lo inusual.",
+            "búsqueda_de_la_verdad_colectiva": "Busca la verdad colectiva de manera única, explorando dimensiones más profundas de la espiritualidad y la conexión con la comunidad global.",
+            "imaginación_visionaria": "Desarrolla una imaginación visionaria, explorando nuevas formas de expresión artística y creatividad que resuenan con la visión de un futuro mejor.",
+            "compasión_por_la_humanidad": "Muestra compasión por la humanidad y la igualdad, liderando con empatía y comprensión en el ámbito de la justicia social y la colaboración global.",
+            "exploracion_vanguardista_de_emociones": "Se aventura en la exploración vanguardista de emociones, buscando comprender y expresar sentimientos de manera que promueva la evolución emocional y el bienestar colectivo."
+        }
+    },
+    "neptuno_en_piscis": {
+        "manifestaciones": {
+            "inspiracion_en_la_espiritualidad": "Experimenta inspiración en la espiritualidad y la conexión con dimensiones más allá de lo material, buscando conexión espiritual a través de la compasión y la conexión trascendental.",
+            "búsqueda_de_la_verdad_universal": "Busca la verdad universal de manera única, explorando dimensiones más profundas de la espiritualidad y la conexión con lo trascendental.",
+            "imaginación_transcendental": "Desarrolla una imaginación transcendental, explorando nuevas formas de expresión artística y creatividad que resuenan con la conexión con lo divino.",
+            "compasión_por_todos_los_ser_es": "Muestra compasión por todos los seres, liderando con empatía y comprensión en el ámbito de la compasión universal y la conexión espiritual.",
+            "exploracion_trascendental_de_emociones": "Se aventura en la exploración trascendental de emociones, buscando comprender y expresar sentimientos de manera que promueva la elevación espiritual y la conexión con lo divino."
+        }
+    },
+    "neptuno_en_casa_1": {
+        "manifestaciones": {
+            "sensibilidad_psíquica_agudizada_y_una_conexión_intuitiva_fuerte_con_el_mundo_sutil": "Se manifiesta una sensibilidad psíquica agudizada y una conexión intuitiva fuerte con el mundo sutil, lo que puede llevar a experiencias de percepción extrasensorial, sueños vívidos y una capacidad para sintonizar con las energías sutiles que rodean.",
+            "propensión_a_la_idealización_y_a_ver_el_mundo_a_través_de_un_prisma_de_fantasía_o_ilusión": "Hay una propensión a la idealización y a ver el mundo a través de un prisma de fantasía o ilusión, lo que puede llevar a situaciones donde se confunda la realidad con la imaginación, o a experiencias donde se tienda a escapar de la dureza del mundo material.",
+            "tendencia_a_ser_idealista,_compasivo_y_empático,_buscando_la_unidad_y_la_conexión_con_todos_los_ser": "Existe una tendencia a ser idealista, compasivo y empático, buscando la unidad y la conexión con todos los seres, lo que puede llevar a dedicarse a causas altruistas o espirituales en un esfuerzo por contribuir a un mundo mejor y más armonioso.",
+            "posibilidad_de_confusión_o_desenfoque_en_la_identidad_personal_y_los_límites_personales,_así_como_en_las_relaciones_con_los_demás": "Puede haber una posibilidad de confusión o desenfoque en la identidad personal y los límites personales, así como en las relaciones con los demás, lo que puede llevar a situaciones donde se carezca de claridad en las propias necesidades y se tienda a absorber las energías de los demás.",
+            "capacidad_para_ser_un_canal_de_inspiración_y_creatividad,_permitiendo_la_expresión_artística_o_energética_de_la_conexión_espiritual": "Se tiene la capacidad para ser un canal de inspiración y creatividad, permitiendo la expresión artística o energética de la conexión espiritual, lo que puede llevar a explorar formas de expresión como el arte, la música, la danza o la poesía como medio para canalizar las energías espirituales."
+        },
+        "manifestaciones_negativas": {
+            "confusión_identidad": "Puede haber confusión en la identidad personal, dificultad para establecer límites claros entre uno mismo y los demás, lo que puede llevar a una sensación de disolución de la propia identidad.",
+            "propensión_a_la_fantasia_o_la_ilusión": "Existe una propensión a la fantasía o la ilusión, donde la persona puede perderse en sueños irrealizables o en un mundo de ilusiones que dificultan su capacidad para enfrentar la realidad.",
+            "tendencia_al_escape_o_a_la_evitación": "Hay una tendencia al escape o la evitación de responsabilidades, donde la persona puede recurrir a sustancias, comportamientos adictivos o fantasías como una forma de evadirse de las dificultades de la vida cotidiana.",
+            "vulnerabilidad_a_la_manipulación_o_a_la_explotación": "La persona puede ser vulnerable a la manipulación o la explotación por parte de otros, debido a su naturaleza indulgente y su dificultad para establecer límites saludables en las relaciones."
+        }
+    },
+    "neptuno_en_casa_2": {
+        "manifestaciones": {
+            "tendencia_a_la_confusión_o_la_idealización_en_asuntos_financieros_o_materiales": "Hay una tendencia a la confusión o la idealización en asuntos financieros o materiales, lo que puede llevar a decisiones poco realistas o a situaciones donde se ignoren las limitaciones prácticas.",
+            "dificultad_para_establecer_límites_o_mantener_una_gestión_adecuada_de_recursos_financieros": "Existe una dificultad para establecer límites o mantener una gestión adecuada de recursos financieros, lo que puede llevar a problemas de endeudamiento, gastos impulsivos o situaciones donde se descuide la estabilidad económica.",
+            "necesidad_de_buscar_la_seguridad_emocional_o_material_a_través_de_formas_no_convencionales_o_idealizadas": "Se siente una necesidad de buscar la seguridad emocional o material a través de formas no convencionales o idealizadas, lo que puede llevar a buscar refugio en fantasías o sueños de riqueza y abundancia.",
+            "potencial_para_el_desarrollo_de_habilidades_artísticas_o_creativas_relacionadas_con_el_dinero,_la_belleza_o_el_valor_intrínseco": "Existe un potencial para el desarrollo de habilidades artísticas o creativas relacionadas con el dinero, la belleza o el valor intrínseco, lo que puede llevar a explorar áreas como la decoración, el diseño de interiores, la moda o las artes visuales como medio para expresar la conexión espiritual con el mundo material."
+        },
+        "manifestaciones_negativas": {
+            "gestión_financiera_poco_clara": "Puede haber una gestión financiera poco clara, con tendencia a la irresponsabilidad o la falta de disciplina en el manejo del dinero, lo que puede llevar a problemas económicos y dificultades para mantener la estabilidad financiera.",
+            "engaños_o_ilusiones_financieras": "Existe la posibilidad de caer en engaños o ilusiones financieras, donde la persona puede ser fácilmente engañada por ofertas poco realistas o inversiones riesgosas que pueden resultar en pérdidas económicas significativas.",
+            "dependencia_financiera_de_otros": "La persona puede depender financieramente de otros, ya sea porque carece de recursos propios o porque tiende a buscar ayuda financiera externa de manera excesiva, lo que puede generar desequilibrios en las relaciones personales."
+        }
+    },
+    "neptuno_en_casa_3": {
+        "manifestaciones": {
+            "imaginación_vívida_y_sensibilidad_a_nivel_mental_o_intelectual": "La persona puede tener una imaginación vívida y una sensibilidad a nivel mental o intelectual, lo que puede manifestarse en una inclinación hacia la poesía, la escritura creativa, el cine, la música o cualquier otra forma de expresión artística que involucre la mente.",
+            "propensión_a_la_distracción_o_confusión_mental": "Hay una propensión a la distracción o confusión mental, lo que puede dificultar la concentración o la asimilación de información clara y precisa.",
+            "interés_por_lo_místico,_espiritual_o_metafísico": "Existe un interés por lo místico, espiritual o metafísico, lo que puede llevar a una búsqueda activa de conocimiento en áreas como la astrología, la meditación, la psicología transpersonal o la filosofía oriental.",
+            "comunicación_empática_o_sensitiva,_pero_también_potencial_para_la_idealización_o_la_falta_de_límites_en_la_comunicación": "La comunicación puede ser empática o sensitiva, pero también existe un potencial para la idealización o la falta de límites en la comunicación, lo que puede llevar a malentendidos o a una comunicación poco clara."
+        },
+        "manifestaciones_negativas": {
+            "confusión_mental": "Puede haber confusión mental y dificultad para concentrarse o procesar la información de manera clara, lo que puede dificultar el aprendizaje y la comunicación efectiva.",
+            "comunicación_errónea_o_difusa": "La comunicación puede ser errónea o difusa, lo que puede llevar a malentendidos, malinterpretaciones y problemas en las interacciones sociales y profesionales.",
+            "engaños_o_mentiras": "Existe la posibilidad de caer en engaños o mentiras, ya sea por parte de la persona o por parte de otros, lo que puede generar desconfianza y conflictos en las relaciones personales y laborales."
+        }
+    },
+    "neptuno_en_casa_4": {
+        "manifestaciones": {
+            "vínculos_emocionales_profundos_con_el_pasado_o_la_familia": "La persona puede experimentar vínculos emocionales profundos con el pasado o la familia, sintiendo una conexión especial con las raíces familiares o las tradiciones ancestrales.",
+            "necesidad_de_idealizar_o_escapar_de_la_realidad_familiar": "Puede haber una tendencia a idealizar o a escapar de la realidad familiar, buscando refugio en la fantasía, el arte o la espiritualidad para evadir conflictos o tensiones familiares.",
+            "sensibilidad_a_la_atmósfera_emocional_del_hogar": "Existe una sensibilidad notable a la atmósfera emocional del hogar, lo que puede llevar a absorber las energías emocionales del entorno familiar.",
+            "posibilidad_de_vivir_experiencias_emocionales_extremas_en_el_ámbito_familiar": "Puede haber una tendencia a vivir experiencias emocionales extremas en el ámbito familiar, incluyendo idealización, desilusión, o situaciones confusas y poco claras."
+        },
+        "manifestaciones_negativas": {
+            "idealización_del_hogar_o_la_familia": "Puede haber una tendencia a idealizar el hogar o la familia, lo que puede llevar a decepciones cuando la realidad no cumple con esas expectativas.",
+            "falta_de_límites_emocionales": "Puede haber una falta de límites emocionales claros, lo que puede resultar en situaciones de codependencia, manipulación emocional o conflictos familiares.",
+            "problemas_con_el_hogar_o_la_vivienda": "Existen posibilidades de enfrentar problemas con el hogar o la vivienda, como desafíos financieros para mantener la estabilidad en el hogar, dificultades para encontrar un lugar seguro o estable, o conflictos familiares que afectan el ambiente en el hogar."
+        }
+    },
+    "neptuno_en_casa_5": {
+        "manifestaciones": {
+            "imaginación_vívida_y_creatividad_artística": "La persona puede tener una imaginación vívida y una creatividad artística excepcional, manifestándose en la expresión artística a través de medios como la pintura, la música, el teatro o la danza.",
+            "tendencia_a_la_idealización_en_el_amor_o_en_las_relaciones_románticas": "Existe una tendencia a la idealización en el amor o en las relaciones románticas, lo que puede llevar a decepciones si las expectativas no se corresponden con la realidad.",
+            "inspiración_y_sensibilidad_emocional_en_la_expresión_creativa": "Hay una gran inspiración y sensibilidad emocional en la expresión creativa, permitiendo a la persona conectar profundamente con sus emociones y transmitirlas a través del arte.",
+            "atracción_hacia_lo_místico_o_lo_espiritual_en_el_ámbito_amoroso": "Puede haber una atracción hacia lo místico o lo espiritual en el ámbito amoroso, buscando una conexión trascendental o espiritual con la pareja."
+        },
+        "manifestaciones_negativas": {
+            "ilusiones_amorosas": "Puede haber tendencia a idealizar el amor y las relaciones románticas, lo que puede llevar a involucrarse en ilusiones amorosas o relaciones poco realistas.",
+            "decepciones_emocionales": "Existe la posibilidad de experimentar decepciones emocionales en el ámbito romántico, como relaciones que no cumplen con las expectativas o que resultan ser ilusorias.",
+            "creatividad_distorcionada": "La creatividad puede estar distorsionada o influenciada por ilusiones, lo que puede llevar a proyectos artísticos poco realistas o poco prácticos."
+        }
+    },
+    "neptuno_en_casa_6": {
+        "manifestaciones": {
+            "propensión_a_la_confusión_o_al_autoengaño_en_el_ámbito_laboral": "La persona puede experimentar una propensión a la confusión o al autoengaño en el ámbito laboral, lo que podría llevar a situaciones poco claras, errores o malentendidos en el trabajo.",
+            "sensibilidad_a_la_influencia_ambiental_o_laboral": "Existe una sensibilidad notable a la influencia del entorno laboral o ambiental, lo que puede afectar la salud física y emocional de la persona.",
+            "compasión_y_servicio_a_los_demás_en_el_ámbito_laboral": "Se manifiesta una compasión profunda y un impulso de servicio hacia los demás en el ámbito laboral, sintiendo la necesidad de ayudar o cuidar a aquellos que lo necesitan.",
+            "vocación_por_profesiones_relacionadas_con_lo_espiritual_o_lo_sanitario": "Puede existir una vocación por profesiones relacionadas con lo espiritual, lo sanitario o lo artístico, donde se pueda expresar la sensibilidad y la compasión hacia los demás."
+        },
+        "manifestaciones_negativas": {
+            "confusión_mental": "Puede haber tendencia a experimentar confusión mental, dificultad para concentrarse o falta de claridad en el trabajo diario y las responsabilidades cotidianas.",
+            "evitación_de_responsabilidades": "Existe la posibilidad de evitar o escapar de las responsabilidades laborales o de salud, lo que puede llevar a problemas en el trabajo o descuidar la propia salud.",
+            "engañar_o_ser_engañado": "Puede haber situaciones en las que uno sea engañado o engañe a otros en el ámbito laboral, o donde exista confusión y falta de transparencia en las relaciones laborales."
+        }
+    },
+    "neptuno_en_casa_7": {
+        "manifestaciones": {
+            "idealización_de_la_pareja_o_de_las_relaciones_amorosas": "La persona tiende a idealizar a su pareja o las relaciones amorosas, buscando una conexión profunda y espiritual que a veces puede estar más basada en fantasías que en la realidad.",
+            "atracción_por_parejas_creativas_o_espirituales": "Existe una atracción hacia parejas creativas, espirituales o artísticas, buscando una conexión emocional profunda y una comprensión intuitiva mutua.",
+            "confusión_o_falta_de_claridad_en_el_ámbito_amoroso": "Puede haber confusión o falta de claridad en el ámbito amoroso, lo que puede llevar a malentendidos o desilusiones si las expectativas no se corresponden con la realidad.",
+            "compromiso_con_la_búsqueda_de_la_armonía_y_el_equilibrio_en_la_relación": "Se manifiesta un compromiso con la búsqueda de la armonía y el equilibrio en la relación de pareja, priorizando la comprensión mutua y la conexión espiritual."
+        },
+        "manifestaciones_negativas": {
+            "relaciones_desequilibradas": "Puede haber tendencia a establecer relaciones desequilibradas, donde uno de los socios asuma un papel de salvador o mártir, o donde exista confusión y falta de límites claros.",
+            "idealización_de_pareja": "Existe la posibilidad de idealizar a la pareja o las relaciones románticas, lo que puede llevar a decepciones cuando la realidad no cumple con las expectativas creadas.",
+            "confusión_emocional": "Puede haber confusión emocional en las relaciones, dificultad para establecer límites saludables o para discernir entre amor verdadero y fantasía."
+        }
+    },
+    "neptuno_en_casa_8": {
+        "manifestaciones": {
+            "profundización_emocional_a_través_de_la_experiencia_de_la_transformación": "La persona experimenta una profundización emocional a través de la experiencia de la transformación personal y la confrontación con los aspectos más oscuros de su psique.",
+            "exploración_de_lo_oculto_o_lo_misterioso": "Existe una atracción hacia la exploración de lo oculto, lo misterioso o lo esotérico, buscando comprender los secretos más profundos de la existencia.",
+            "propensión_a_la_fantasía_o_ilusión_en_asuntos_sexuales_o_financieros": "Puede haber una propensión a la fantasía o la ilusión en asuntos sexuales o financieros, lo que puede llevar a situaciones de engaño o autoengaño en estas áreas de la vida.",
+            "necesidad_de_transcender_o_superar_las_limitaciones_emocionales": "Se manifiesta una necesidad de transcender o superar las limitaciones emocionales, buscando una conexión más profunda con el mundo emocional y espiritual."
+        },
+        "manifestaciones_negativas": {
+            "secreto_y_engaño": "Puede haber tendencia a la ocultación de información o secretos que pueden conducir a situaciones de engaño o manipulación en el ámbito de las finanzas compartidas, herencias o temas sexuales.",
+            "adicciones_ocultas": "Existe la posibilidad de desarrollar o estar involucrado en adicciones ocultas, como el abuso de sustancias, el juego o comportamientos autodestructivos, que pueden surgir como una forma de escapar de la realidad o enfrentar situaciones difíciles.",
+            "deudas_financieras": "Puede haber problemas relacionados con deudas financieras, préstamos o acuerdos financieros poco claros, que pueden llevar a confusión y dificultades para manejar adecuadamente los recursos compartidos."
+        }
+    },
+    "neptuno_en_casa_9": {
+        "manifestaciones": {
+            "búsqueda_de_conocimiento_a_través_de_la_espiritualidad_o_la_fantasía": "La persona busca conocimiento a través de la espiritualidad, la religión o la fantasía, explorando diferentes creencias y filosofías para encontrar un sentido más profundo de la existencia.",
+            "propensión_a_la_ilusión_o_la_decepción_en_el_ámbito_académico": "Puede haber una propensión a la ilusión o la decepción en el ámbito académico, donde las creencias o ideales pueden no corresponderse con la realidad, lo que puede llevar a desilusiones o desencanto.",
+            "inspiración_a_través_del_viaje_o_la_exploración_mental": "Se siente inspiración a través del viaje físico o mental, explorando nuevas culturas, ideas y perspectivas que amplían su visión del mundo y su comprensión de sí mismo.",
+            "necesidad_de_buscar_un_propósito_más_elevado_o_un_sentido_de_la_verdad": "Surge una necesidad de buscar un propósito más elevado o un sentido de la verdad en la vida, lo que puede llevar a una exploración continua de ideales y creencias."
+        },
+        "manifestaciones_negativas": {
+            "idealización_extrema": "Puede haber una tendencia a idealizar demasiado las creencias, filosofías o ideologías, lo que puede llevar a desilusiones o confusiones cuando la realidad no cumple con esas expectativas elevadas.",
+            "falta_de_límites": "Existe el riesgo de una falta de límites claros en el ámbito de la educación superior, los viajes o la expansión mental, lo que puede llevar a situaciones de confusión, escapismo o pérdida de contacto con la realidad.",
+            "engañado_por_figuras_autoritarias": "Puede haber una susceptibilidad a ser engañado o manipulado por figuras autoritarias o gurús espirituales, lo que puede resultar en una pérdida de identidad o dirección personal."
+        }
+    },
+    "neptuno_en_casa_10": {
+        "manifestaciones": {
+            "idealización_o_confusión_en_la_carrera_profesional": "Puede haber tendencia a la idealización o confusión en la carrera profesional, donde las metas pueden no ser realistas o pueden estar basadas en ideales poco prácticos, lo que puede llevar a desafíos o decepciones en el ámbito laboral.",
+            "atracción_hacia_profesiones_relacionadas_con_la_espiritualidad_o_el_arte": "Existe una atracción hacia profesiones relacionadas con la espiritualidad, el arte, la música o el cine, donde la persona puede sentirse más inspirada o realizada al trabajar en campos creativos o altruistas.",
+            "exposición_a_la_influencia_o_la_decepción_de_figuras_de_autoridad": "La persona puede estar expuesta a la influencia o la decepción de figuras de autoridad en el ámbito profesional, lo que puede generar confusión o idealización de líderes o modelos a seguir.",
+            "necesidad_de_integrar_la_espiritualidad_o_la_creatividad_en_el_trabajo": "Surge una necesidad de integrar la espiritualidad, la creatividad o la compasión en el trabajo, buscando formas de contribuir al mundo de manera significativa y trascendente."
+        },
+        "manifestaciones_negativas": {
+            "confusión_profesional": "Puede haber confusión o falta de claridad en la carrera profesional, con cambios repentinos de dirección o dificultades para establecer metas realistas y alcanzables.",
+            "falta_de_reconocimiento": "Existe el riesgo de falta de reconocimiento o visibilidad en la vida profesional, con una sensación de estar subestimado o desvalorizado en el trabajo.",
+            "engaño_o_escándalos_públicos": "Puede haber situaciones de engaño, fraude o escándalos públicos relacionados con la profesión o la reputación pública."
+        }
+    },
+    "neptuno_en_casa_11": {
+        "manifestaciones": {
+            "idealización_o_confusión_en_relaciones_con_grupos": "Puede haber una tendencia a la idealización o confusión en las relaciones con grupos sociales, donde la persona puede proyectar ideales poco realistas en sus amistades o en su participación en comunidades.",
+            "atracción_hacia_movimientos_sociales_o_ideales_utópicos": "Existe una atracción hacia movimientos sociales, ideales utópicos o causas humanitarias, donde la persona puede sentirse inspirada a contribuir al bienestar colectivo o a la transformación social.",
+            "propensión_a_decepciones_o_engaños_en_el_ámbito_social": "La persona puede ser más propensa a decepciones o engaños en el ámbito social, ya sea por idealizar a amigos o por ser influenciada por grupos que promueven visiones distorsionadas de la realidad.",
+            "necesidad_de_conectar_con_el_alma_colectiva_o_la_conciencia_universal": "Surge una necesidad de conectar con el alma colectiva, la conciencia universal o el inconsciente colectivo, buscando una comprensión más profunda de la interconexión entre todos los seres humanos."
+        },
+        "manifestaciones_negativas": {
+            "idealización_de_amistades": "Puede haber tendencia a idealizar o idealizar en exceso a los amigos, lo que puede llevar a decepciones cuando las expectativas no se cumplen.",
+            "confusión_social": "Existe el riesgo de confusión o falta de claridad en el ámbito social, con dificultades para establecer límites adecuados o discernir entre la realidad y la fantasía en las interacciones sociales.",
+            "participación_en_grupos_dañinos": "Puede haber atracción hacia grupos o movimientos sociales que promueven ilusiones, engaños o actividades poco éticas, lo que puede llevar a experiencias negativas o dañinas."
+        }
+    },
+    "neptuno_en_casa_12": {
+        "manifestaciones": {
+            "sensibilidad_psíquica_agudizada": "La sensibilidad psíquica puede estar agudizada, lo que puede manifestarse en experiencias psíquicas, sueños vívidos o una mayor receptividad a influencias sutiles del entorno.",
+            "propensión_a_la_fantasía_o_la_evitación_de_la_realidad": "Existe una propensión a la fantasía o la evitación de la realidad, donde la persona puede refugiarse en su mundo interior para escapar de las tensiones del mundo exterior.",
+            "necesidad_de_retiro_o_aislamiento_para_la_introspección": "La persona puede sentir una necesidad de retiro o aislamiento para la introspección y la exploración de su mundo interior, buscando una conexión más profunda con su ser espiritual.",
+            "potencial_para_la_experiencia_mística_o_la_unión_con_el_universo": "Hay un potencial para la experiencia mística o la unión con el universo, donde la persona puede sentirse fundida con la totalidad de la existencia y experimentar momentos de trascendencia."
+        },
+        "manifestaciones_negativas": {
+            "fuga_de_realidad": "Puede haber una tendencia a escapar de la realidad a través de comportamientos adictivos, evasión o fantasías poco realistas, lo que dificulta enfrentar los desafíos de la vida de manera constructiva.",
+            "vulnerabilidad_psíquica": "Existe el riesgo de ser extremadamente sensible a influencias externas, lo que puede provocar confusión, ansiedad o sentimientos de desamparo.",
+            "autoengaño": "Puede haber una propensión a autoengañarse o engañarse a uno mismo, negando la realidad o evitando enfrentar problemas importantes, lo que puede llevar a un ciclo de evasión y desilusión."
+        }
+    }
+}

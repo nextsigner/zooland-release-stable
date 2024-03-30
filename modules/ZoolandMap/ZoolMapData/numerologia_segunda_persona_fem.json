@@ -1,0 +1,145 @@
+{
+    "vibracion_1": {
+        "manifestaciones": {
+            "independencia_autenticidad": "Te destacas por tu independencia y autenticidad, mostrando una fuerte determinación para seguir tus propios caminos y principios.",
+            "iniciativa_liderazgo": "Eres proactiva y asumes roles de liderazgo con confianza, inspirando a otros con tu capacidad para iniciar y dirigir proyectos.",
+            "innovación_creatividad": "Posees un enfoque innovador y creativo para abordar desafíos, aportando ideas frescas y soluciones originales a las situaciones.",
+            "autoafirmación_confianza": "Te muestras segura de ti misma y te afirmas con confianza, manifestando una creencia en tus habilidades y potencial.",
+            "logros_personales": "Buscas constantemente el logro personal, estableciendo metas ambiciosas y trabajando diligentemente para alcanzarlas."
+        },
+        "manifestaciones_negativas": {
+            "individualismo_excesivo": "Puedes encontrarte siendo excesivamente independiente, a veces percibida como egoísta o poco colaborativa en situaciones que requieren trabajo en equipo.",
+            "impaciencia": "Tu urgencia y deseo de resultados rápidos pueden llevarte a la impaciencia, resultando en la toma de decisiones apresuradas o una falta de paciencia para abordar ciertos procesos o relaciones.",
+            "autoridad_dominante": "Tu deseo de liderar puede conducir a una inclinación hacia la dominación y la imposición de ideas, generando conflictos en situaciones que requieren un enfoque más colaborativo.",
+            "falta_de_flexibilidad": "La firmeza en tus propias convicciones puede resultar en una resistencia al cambio o una falta de adaptabilidad en circunstancias en evolución."
+        }
+    },
+    "vibracion_2": {
+        "manifestaciones": {
+            "cooperación_empatía": "Destacas en la cooperación y empatía, mostrando una capacidad natural para comprender las necesidades de los demás y trabajar armoniosamente en equipo.",
+            "diplomacia_resolución_conflictos": "Eres hábil en la diplomacia y la resolución de conflictos, buscando soluciones pacíficas y promoviendo un entorno armonioso.",
+            "colaboración_relaciones_armoniosas": "Te destacas en la colaboración y la construcción de relaciones armoniosas, creando vínculos basados en el respeto y la conexión emocional.",
+            "intuición_sensibilidad": "Posees una intuición aguda y sensibilidad emocional, permitiéndote percibir y responder de manera comprensiva a las necesidades de los demás.",
+            "creatividad_artística": "Manifiestas tu creatividad de manera artística, expresándote a través de diferentes formas de arte y contribuyendo a la belleza en tu entorno."
+        },
+        "manifestaciones_negativas": {
+            "indecisión_inseguridad": "Puedes encontrarte siendo indecisa e insegura al tomar decisiones, buscando constantemente la aprobación de los demás y siendo incapaz de tomar la iniciativa.",
+            "dependencia_emocional": "Podrías manifestar una dependencia emocional excesiva, buscando constantemente la validación y apoyo de los demás, lo que puede generar relaciones desequilibradas.",
+            "conformismo_evitación_conflictos": "Podrías manifestar conformismo y evitación de conflictos, evitando expresar opiniones o deseos personales para evitar confrontaciones.",
+            "sensibilidad_extrema": "Puedes manifestar una sensibilidad extrema a críticas o conflictos, llevando a la evitación de situaciones desafiantes y a la sobrereactividad emocional.",
+            "falta_de_autoafirmación": "Puedes manifestar una falta de autoafirmación, cediendo fácilmente a las necesidades y deseos de los demás en detrimento propio."
+        }
+    },
+    "vibracion_3": {
+        "manifestaciones": {
+            "expresión_creatividad": "Te destacas en la expresión y la creatividad, manifestando tus ideas de manera vibrante y cautivadora.",
+            "comunicación_entusiasmo": "Eres comunicativa y contagias entusiasmo, expresando tus pensamientos de manera elocuente y cautivando a quienes te rodean.",
+            "optimismo_alegría": "Manifiestas un enfoque optimista ante la vida, irradiando alegría y positividad en tu entorno.",
+            "versatilidad_adaptabilidad": "Posees versatilidad y adaptabilidad, abrazando la diversidad de experiencias y ajustándote fácilmente a diferentes situaciones.",
+            "creatividad_artística": "Canalizas tu creatividad de manera artística, contribuyendo a la expresión estética y emocional en el mundo."
+        },
+        "manifestaciones_negativas": {
+            "superficialidad_exagerada": "Puedes encontrarte enfocándote excesivamente en la superficialidad o la apariencia externa, descuidando la profundidad emocional y la autenticidad.",
+            "exceso_de_palabras": "Es posible que te veas envuelta en un exceso de palabras o comunicación sin propósito claro, lo que podría generar confusión en la expresión.",
+            "irresponsabilidad_inconstancia": "Puedes manifestar irresponsabilidad o inconstancia en compromisos y responsabilidades, lo que afecta tu confiabilidad.",
+            "falta_de_enfoque_seriedad": "Podrías manifestar falta de enfoque y seriedad en la consecución de metas o responsabilidades, generando falta de logros tangibles.",
+            "manipulación_comunicativa": "Es posible que te veas inclinada hacia la manipulación a través de la comunicación para lograr objetivos personales, erosionando la confianza en las relaciones."
+        }
+    },
+    "vibracion_4": {
+        "manifestaciones": {
+            "organización_estructura": "Te destacas en la organización y la creación de estructuras sólidas, aportando orden y eficiencia a tus proyectos y entorno.",
+            "disciplina_responsabilidad": "Eres disciplinada y responsable, abordando tus tareas con seriedad y compromiso, lo que te permite alcanzar metas a largo plazo.",
+            "realismo_practicidad": "Manifiestas un enfoque realista y práctico ante los desafíos, evaluando situaciones con objetividad y tomando decisiones fundamentadas.",
+            "perseverancia_constancia": "Posees perseverancia y constancia, enfrentando obstáculos con determinación y manteniendo tu enfoque en la consecución de metas.",
+            "creatividad_concreta": "Canalizas tu creatividad de manera concreta, materializándola en proyectos tangibles y logros concretos en tu vida."
+        },
+        "manifestaciones_negativas": {
+            "rigidez_inflexibilidad": "Puedes manifestar rigidez e inflexibilidad en puntos de vista y métodos, resistiéndote al cambio y limitando la adaptabilidad.",
+            "obsesión_por_control": "Es posible que te veas obsesionada por el control, lo que podría llevarte a resistirte al cambio y tener dificultades para adaptarte a nuevas circunstancias.",
+            "pessimismo_estrés": "Podrías manifestar un enfoque pesimista ante desafíos, generando estrés innecesario y afectando negativamente la toma de decisiones.",
+            "exceso_de_trabajo_perfeccionismo": "Es posible que te veas atrapada en un patrón de exceso de trabajo y perfeccionismo, lo que puede llevar a la fatiga y la insatisfacción constante.",
+            "cerrazón_a_nuevas_ideas": "Podrías manifestar cerrazón a nuevas ideas y perspectivas, limitando tu crecimiento personal y profesional."
+        }
+    },
+    "vibracion_5": {
+        "manifestaciones": {
+            "libertad_aventura": "Te destacas por tu búsqueda de libertad y aventura, disfrutando de la variedad y explorando constantemente nuevas experiencias.",
+            "adaptabilidad_creatividad": "Eres adaptable y creativa en situaciones cambiantes, encontrando soluciones innovadoras y aprovechando las oportunidades.",
+            "curiosidad_apertura_mental": "Manifiestas curiosidad y apertura mental, explorando ideas y perspectivas diversas para enriquecer tu comprensión del mundo.",
+            "versatilidad_inquietud": "Posees versatilidad y una inquietud constante, abrazando la diversidad de intereses y evitando la rutina monótona.",
+            "creatividad_expresión_libre": "Canalizas tu creatividad a través de la expresión libre, permitiéndote experimentar y manifestar tus ideas de maneras diversas."
+        },
+        "manifestaciones_negativas": {
+            "irresponsabilidad_inconstancia": "Puedes manifestar irresponsabilidad o inconstancia en compromisos y responsabilidades.",
+            "inquietud_exceso_de_actividad": "Es posible que te veas atrapada en inquietud y un exceso de actividad sin un propósito claro.",
+            "impulsividad_falta_de_enfoque": "Podrías manifestar impulsividad y falta de enfoque en metas a largo plazo.",
+            "falta_de_compromiso_relaciones": "Es posible que tengas dificultades para comprometerte en relaciones, buscando constantemente novedades y evitando compromisos a largo plazo.",
+            "adicciones_risk-taking": "Podrías manifestar tendencias adictivas y una inclinación a tomar riesgos irresponsables."
+        }
+    },
+    "vibracion_6": {
+        "manifestaciones": {
+            "amor_compasión": "Te destacas en el amor y la compasión, mostrando una profunda preocupación por el bienestar de los demás y contribuyendo a relaciones armoniosas.",
+            "responsabilidad_servicio": "Eres responsable y orientada al servicio, cumpliendo tus compromisos con diligencia y brindando apoyo a quienes te rodean.",
+            "equilibrio_armonía": "Manifiestas un deseo de equilibrio y armonía en tus relaciones, esforzándote por resolver conflictos y mantener un entorno pacífico.",
+            "cuidado_autoestima": "Posees un cuidado especial hacia ti misma y una saludable autoestima, reconociendo y satisfaciendo tus propias necesidades.",
+            "creatividad_expresión_artística": "Canalizas tu creatividad a través de la expresión artística, contribuyendo a la belleza y expresión emocional en tu entorno."
+        },
+        "manifestaciones_negativas": {
+            "sobreprotección_manipulación": "Puedes manifestar sobreprotección y manipulación en relaciones cercanas, tratando de controlar el entorno para evitar situaciones difíciles.",
+            "exceso_de_preocupación": "Podrías encontrarte sumida en un exceso de preocupación por los demás, descuidando tus propias necesidades y generando estrés innecesario.",
+            "criticismo_exigencia": "Es posible que te veas atrapada en un patrón de críticas constantes y exigencia hacia ti mismo y los demás, generando tensiones en las relaciones.",
+            "intromisión_falta_de_espacio": "Podrías manifestar intromisión en la vida de los demás y falta de respeto por su espacio personal, generando conflictos y tensiones.",
+            "victimización_resentimiento": "Podrías manifestar una tendencia a la victimización y el resentimiento hacia aquellos que no cumplen con tus expectativas, generando conflictos y tensiones emocionales."
+        }
+    },
+    "vibracion_7": {
+        "manifestaciones": {
+            "búsqueda_conocimiento": "Te destacas en la búsqueda del conocimiento, mostrando un interés profundo en explorar ideas y conceptos más allá de lo superficial.",
+            "intuición_sabiduría": "Eres intuitiva y buscas la sabiduría interior, confiando en tus corazonadas y explorando niveles más profundos de comprensión.",
+            "introspección_reflexión": "Manifiestas una inclinación hacia la introspección y la reflexión, explorando tu mundo interior y buscando comprender la naturaleza de la existencia.",
+            "espiritualidad_conexión_superior": "Posees una espiritualidad profunda, buscando la conexión con algo superior y explorando las dimensiones espirituales de la vida.",
+            "creatividad_expresión_abstracta": "Canalizas tu creatividad a través de la expresión abstracta, explorando formas no convencionales de manifestar tus ideas y emociones."
+        },
+        "manifestaciones_negativas": {
+            "aislamiento_social": "Puedes manifestar tendencias aislacionistas, evitando interacciones sociales significativas y limitando tu conexión con los demás.",
+            "escepticismo_cinismo": "Podrías manifestar escepticismo excesivo y actitudes cínicas hacia el mundo, generando barreras emocionales y dificultades en las relaciones.",
+            "retraimiento_emocional": "Es posible que te encuentres retrayéndote emocionalmente, lo que dificulta la expresión de tus sentimientos y la conexión con los demás.",
+            "obsesión_por_el_conocimiento": "Puedes manifestar una obsesión por el conocimiento que lleva a la desconexión emocional, centrando tu atención en el intelecto en detrimento de las relaciones emocionales.",
+            "evitación_de_responsabilidades": "Podrías manifestar la evitación de responsabilidades prácticas y compromisos del mundo material, limitando tu participación activa en la vida cotidiana."
+        }
+    },
+    "vibracion_8": {
+        "manifestaciones": {
+            "liderazgo_autoridad": "Te destacas en el liderazgo y la autoridad, asumiendo roles de responsabilidad con confianza y guiando a otros hacia el logro de metas.",
+            "ambición_logro_personal": "Eres ambiciosa en tus objetivos personales, demostrando determinación y esfuerzo para alcanzar el éxito en tus emprendimientos.",
+            "organización_eficiencia": "Manifiestas habilidades destacadas en la organización y la eficiencia, optimizando procesos y recursos para lograr resultados sólidos.",
+            "juicio_practicidad": "Posees un juicio práctico y pragmático, evaluando situaciones con objetividad y tomando decisiones fundamentadas en la realidad.",
+            "creatividad_expresión_empresarial": "Canalizas tu creatividad a través de la expresión empresarial, encontrando formas innovadoras de abordar desafíos y alcanzar el éxito."
+        },
+        "manifestaciones_negativas": {
+            "ambición_desmedida": "Puedes manifestar una ambición desmedida, buscando el éxito a cualquier costo y adoptando prácticas poco éticas o explotadoras.",
+            "autoritarismo_arrogancia": "Podrías manifestar autoritarismo y arrogancia, despreciando las opiniones y necesidades de los demás y generando conflictos en las relaciones.",
+            "obsesión_por_el_poder": "Es posible que te veas obsesionada por el poder y el control, llevándote a priorizar estos aspectos sobre el bienestar emocional y relaciones saludables.",
+            "materialismo_excesivo": "Puedes manifestar un enfoque excesivo en el materialismo y la búsqueda constante de la riqueza, descuidando aspectos más significativos de la vida.",
+            "falta_de_empatía": "Podrías manifestar una falta de empatía hacia aquellos que no cumplen con los estándares de éxito establecidos, generando tensiones y falta de conexión emocional."
+        }
+    },
+    "vibracion_9": {
+        "manifestaciones": {
+            "compasión_amor_universal": "Te destacas en la compasión y el amor universal, mostrando empatía hacia toda la humanidad y contribuyendo a la armonía en el mundo.",
+            "altruismo_servicio": "Eres altruista y orientada al servicio, buscando maneras de contribuir positivamente a la vida de los demás y del planeta.",
+            "comprensión_amplitud_vision": "Manifiestas una comprensión amplia y una visión compasiva, reconociendo la interconexión de todas las cosas y buscando el bienestar global.",
+            "espiritualidad_elevada": "Posees una espiritualidad elevada, buscando la conexión con dimensiones más profundas de la existencia y explorando la trascendencia.",
+            "creatividad_expresión_transcendental": "Canalizas tu creatividad a través de la expresión transcendental, explorando formas de manifestar ideas más allá de los límites convencionales."
+        },
+        "manifestaciones_negativas": {
+            "idealismo_irrealidad": "Puedes manifestar un idealismo irreal que lleva a la falta de atención a detalles prácticos, dificultando la realización de metas concretas.",
+            "falta_de_disciplina": "Podrías manifestar una falta de disciplina y dificultad para completar proyectos a largo plazo, generando falta de logros tangibles.",
+            "evitación_de_conflictos": "Es posible que te veas involucrada en la evitación de conflictos, lo que podría llevarte a postergar la resolución de problemas importantes.",
+            "desconexión_emocional": "Puedes manifestar una desconexión emocional, evitando enfrentar emociones difíciles y dificultando la conexión con los demás.",
+            "sentimiento_de_inutilidad": "Podrías manifestar un sentimiento de inutilidad o falta de dirección clara en la vida, generando apatía y falta de motivación."
+        }
+    }
+}

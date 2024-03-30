@@ -1,0 +1,39 @@
+{
+    "themes":[
+        {
+            "name": "Default",
+            "bodieColor": "white",
+            "bodieColorBack": "#00FF00",
+            "bodieBgColor": "transparent",
+            "bodieBgColorBack": "transparent",
+            "bodieBgBorderWidth": 0,
+            "bodieBgBorderWidthBack": 0,
+            "bodieBgBorderColor": "white",
+            "bodieBgBorderColorBack": "white",
+            "houseLineColor": "white",
+            "houseLineColorBack": "white",
+            "showSignsCircleColors": true,
+            "iconSignColor": "white",
+            "borderSignColor": "white",
+            "borderSignCircleWidth": 1
+        },
+        {
+            "name": "Matrix",
+            "bodieColor": "#00FF00",
+            "bodieColorBack": "#00FF00",
+            "bodieBgColor": "black",
+            "bodieBgColorBack": "black",
+            "bodieBgBorderWidth": 1,
+            "bodieBgBorderWidthBack": 1,
+            "bodieBgBorderColor": "#00FF00",
+            "bodieBgBorderColorBack": "#00FF00",
+            "houseLineColor": "#00FF00",
+            "houseLineColorBack": "#00FF00",
+            "showSignsCircleColors": false,
+            "iconSignColor": "#00FF00",
+            "borderSignColor": "#00FF00",
+            "borderSignCircleWidth": 2
+        }
+
+    ]
+}

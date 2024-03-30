@@ -1,0 +1,302 @@
+{
+"info": {
+    "diámetro": "6,779 km",
+    "tiempoDeOrbitaCompleta": {
+      "d": 687,
+      "m": 22.8,
+      "a": 1.88
+    },
+    "tiempoDeOrbitaPorSigno": {
+      "d": 57.25,
+      "m": 1.9,
+      "a": 0.16
+    },
+    "posición": 4,
+    "propiedadesFisicas": "Sólido, frío",
+    "signoRegente": "Aries y Escorpio",
+    "nombreGriego": "Ares",
+    "nombreRomano": "Mars",
+    "simbologíaTeológica": "En la mitología romana, Marte era el dios de la guerra, simbolizando la virilidad, la valentía y la fuerza militar. Era considerado el padre de Rómulo y Remo, los fundadores míticos de Roma.",
+    "simbologíaMitológica": "Marte también está asociado con la energía masculina, la pasión, la agresión controlada y la determinación. Su carácter beligerante en la mitología romana lo convierte en un símbolo de la lucha y el conflicto, pero también de la estrategia militar y la disciplina.",
+    "significadoDelGlifo": "El glifo de Marte se deriva del escudo y la lanza de guerra, simbolizando la fuerza, la agresión y el poder militar. Representa la masculinidad, la acción y la energía dinámica, reflejando la naturaleza guerrera asociada con el planeta.",
+    "polaridad": "Masculina",
+    "signoExaltación": "Capricornio",
+    "signoCaída": "Cáncer",
+    "signoExilio": "Libra"
+  },
+    "marte_en_aries": {
+        "manifestaciones": {
+            "impulso_y_energía_frenética": "Manifiesta un fuerte impulso y energía frenética, mostrando una naturaleza activa y decidida en la búsqueda de objetivos.",
+            "iniciativa_y_liderazgo": "Toma la iniciativa y muestra liderazgo, destacándose por su valentía y determinación en situaciones desafiantes.",
+            "agresividad_en_el_combate_por_objetivos": "Muestra agresividad en el combate por objetivos, enfrentando desafíos con vigor y una actitud resuelta.",
+            "competitividad_y_deseo_de_logro_personal": "Es competitivo y tiene un fuerte deseo de logro personal, buscando destacar y superar sus propias metas constantemente.",
+            "exploración_de_la_energía_vital_y_la_autodeterminación": "Se aventura en la exploración de la energía vital y la autodeterminación, buscando desarrollar una identidad fuerte y enérgica a través de sus acciones."
+        }
+    },
+    "marte_en_tauro": {
+        "manifestaciones": {
+            "determinación_y_resistencia": "Manifiesta determinación y resistencia, mostrando una persistencia y enfoque constante en la consecución de metas a largo plazo.",
+            "practicidad_y_fuerza_física": "Es práctico y posee una fuerza física notable, abordando desafíos de manera metódica y demostrando resistencia física.",
+            "tenacidad_en_la_búsqueda_de_recursos": "Muestra tenacidad en la búsqueda de recursos, siendo perseverante en la obtención de bienes materiales y seguridad financiera.",
+            "firmeza_en_la_toma_de_decisiones": "Es firme en la toma de decisiones, mostrando una actitud reflexiva y cuidadosa al evaluar opciones antes de actuar.",
+            "exploración_de_la_energía_determinada_y_la_estabilidad_material": "Se aventura en la exploración de la energía determinada y la estabilidad material, buscando construir una base sólida y asegurar el bienestar material."
+        }
+    },
+    "marte_en_geminis": {
+        "manifestaciones": {
+            "versatilidad_y_agilidad_mental": "Manifiesta versatilidad y agilidad mental, mostrando habilidades para adaptarse rápidamente a nuevas situaciones y conceptos.",
+            "comunicación_directa_y_expresiva": "Se comunica de manera directa y expresiva, destacando por su habilidad para transmitir ideas y opiniones de forma clara y convincente.",
+            "curiosidad_y_busqueda_constante_de_conocimiento": "Muestra curiosidad y una búsqueda constante de conocimiento, explorando una variedad de temas con entusiasmo y energía.",
+            "inquietud_y_necesidad_de_estímulo_mental": "Experimenta inquietud y una necesidad de estímulo mental constante, buscando desafíos intelectuales y variedad en sus actividades.",
+            "exploración_de_la_energía_mental_y_la_adaptabilidad": "Se aventura en la exploración de la energía mental y la adaptabilidad, buscando desarrollar habilidades cognitivas y adaptarse fácilmente a diferentes entornos."
+        }
+    },
+    "marte_en_cancer": {
+        "manifestaciones": {
+            "impulso_protector_y_cuidadoso": "Manifiesta un impulso protector y cuidadoso, mostrando una dedicación especial hacia aquellos a quienes considera cercanos y queridos.",
+            "acción_motivada_por_emociones": "La acción está motivada por emociones profundas, respondiendo a estímulos emocionales con determinación y sensibilidad.",
+            "necesidad_de_seguridad_y_pertenencia": "Experimenta una fuerte necesidad de seguridad y pertenencia, orientando sus acciones hacia la construcción de un hogar y relaciones estables.",
+            "tenacidad_en_la_protección_de_ser_amado": "Muestra tenacidad en la protección del ser amado, defendiendo con firmeza a aquellos a quienes considera parte de su círculo íntimo.",
+            "exploración_de_la_energía_emocional_y_la_acción_nurturante": "Se aventura en la exploración de la energía emocional y la acción nurturante, buscando satisfacción a través de la conexión emocional y el cuidado hacia otros."
+        }
+    },
+    "marte_en_leo": {
+        "manifestaciones": {
+            "autoexpresión_y_confianza": "Manifiesta una fuerte autoexpresión y confianza, destacando por su presencia magnética y su capacidad para liderar con determinación.",
+            "acción_motivada_por_el_orgullo_y_el_entusiasmo": "La acción está motivada por el orgullo y el entusiasmo, buscando destacar y lograr reconocimiento a través de sus logros.",
+            "necesidad_de_afirmación_y_admiración": "Experimenta una fuerte necesidad de afirmación y admiración, orientando sus acciones hacia la obtención de reconocimiento y elogios.",
+            "determinación_en_la_búsqueda_de_logros_personales": "Muestra determinación en la búsqueda de logros personales, abordando desafíos con audacia y perseverancia.",
+            "exploración_de_la_energía_apasionada_y_la_autoafirmación": "Se aventura en la exploración de la energía apasionada y la autoafirmación, buscando expresar su individualidad con entusiasmo y autenticidad."
+        }
+    },
+    "marte_en_virgo": {
+        "manifestaciones": {
+            "acción_orientada_a_los_detalles_y_la_perfección": "Manifiesta acción orientada a los detalles y la perfección, mostrando meticulosidad y cuidado en cada tarea que emprende.",
+            "enfoque_práctico_y_análisis_detallado": "Tiene un enfoque práctico y realiza análisis detallados, abordando los desafíos con una mente lógica y analítica.",
+            "eficiencia_en_la_resolución_de_problemas": "Muestra eficiencia en la resolución de problemas, buscando soluciones prácticas y mejoras constantes en su entorno.",
+            "necesidad_de_ord_y_eficacia_en_la_acción": "Experimenta una fuerte necesidad de orden y eficacia en la acción, organizando sus actividades de manera precisa y eficiente.",
+            "exploración_de_la_energía_práctica_y_el_mejoramiento_constante": "Se aventura en la exploración de la energía práctica y el mejoramiento constante, buscando perfeccionar habilidades y contribuir al progreso continuo."
+        }
+    },
+    "marte_en_libra": {
+        "manifestaciones": {
+            "acción_motivada_por_la_armonía_y_la_justicia": "Manifiesta acción motivada por la armonía y la justicia, buscando equilibrio en sus relaciones y en la resolución de conflictos.",
+            "diplomacia_y_cooperación_en_la_toma_de_decisiones": "Aplica diplomacia y cooperación en la toma de decisiones, buscando consenso y considerando las necesidades de los demás.",
+            "impulso_hacia_la_belleza_y_el_estilo": "Siente un impulso hacia la belleza y el estilo, orientando sus acciones hacia la creación de entornos estéticos y relaciones equitativas.",
+            "necesidad_de_relaciones_armoniosas": "Experimenta una fuerte necesidad de relaciones armoniosas, evitando conflictos y trabajando hacia la construcción de conexiones pacíficas.",
+            "exploración_de_la_energía_colaborativa_y_la_búsqueda_del_equilibrio": "Se aventura en la exploración de la energía colaborativa y la búsqueda del equilibrio, buscando contribuir a relaciones armoniosas y justas."
+        }
+    },
+    "marte_en_escorpio": {
+        "manifestaciones": {
+            "acción_motivada_por_la_intensidad_y_la_transformación": "Manifiesta acción motivada por la intensidad y la transformación, buscando profundizar en las experiencias y renovarse constantemente.",
+            "determinación_en_la_búsqueda_de_objetivos_profundos": "Muestra determinación en la búsqueda de objetivos profundos, abordando desafíos con una intensidad y enfoque férreos.",
+            "resiliencia_y_capacidad_de_resurgir": "Tiene resiliencia y capacidad de resurgir, enfrentando crisis con valentía y transformando situaciones difíciles en oportunidades.",
+            "necesidad_de_conexiones_emocionales_profundas": "Experimenta una fuerte necesidad de conexiones emocionales profundas, buscando relaciones auténticas y significativas.",
+            "exploración_de_la_energía_apasionada_y_el_poder_transformador": "Se aventura en la exploración de la energía apasionada y el poder transformador, buscando canalizar la intensidad hacia la superación personal y el logro de metas significativas."
+        }
+    },
+    "marte_en_sagitario": {
+        "manifestaciones": {
+            "acción_motivada_por_la_aventura_y_la_amplitud": "Manifiesta acción motivada por la aventura y la amplitud, buscando experiencias emocionantes y ampliando constantemente sus horizontes.",
+            "entusiasmo_y_energía_optimista": "Tiene entusiasmo y energía optimista, abordando desafíos con una actitud positiva y un espíritu aventurero.",
+            "impulso_por_la_búsqueda_de_significado_y_la_verdad": "Siente un impulso por la búsqueda de significado y la verdad, orientando sus acciones hacia la comprensión profunda y la expansión de conocimientos.",
+            "necesidad_de_libertad_y_autodeterminación": "Experimenta una fuerte necesidad de libertad y autodeterminación, evitando restricciones y buscando la autonomía en sus acciones.",
+            "exploración_de_la_energía_aventurera_y_la_búsqueda_de_conocimiento": "Se aventura en la exploración de la energía aventurera y la búsqueda de conocimiento, buscando constantemente nuevos desafíos y oportunidades de aprendizaje."
+        }
+    },
+    "marte_en_capricornio": {
+        "manifestaciones": {
+            "acción_orientada_a_la_responsabilidad_y_el_logro": "Manifiesta acción orientada a la responsabilidad y el logro, mostrando disciplina y perseverancia en la consecución de metas a largo plazo.",
+            "determinación_en_la_búsqueda_de_estabilidad_material": "Muestra determinación en la búsqueda de estabilidad material, abordando desafíos con un enfoque práctico y estratégico.",
+            "resistencia_y_paciencia_en_la_adversidad": "Tiene resistencia y paciencia en la adversidad, enfrentando obstáculos con una actitud tenaz y la capacidad de superar dificultades.",
+            "necesidad_de_reconocimiento_y_autorrealización": "Experimenta una fuerte necesidad de reconocimiento y autorrealización, buscando destacar y alcanzar el éxito personal.",
+            "exploración_de_la_energía_responsable_y_el_logro_constante": "Se aventura en la exploración de la energía responsable y el logro constante, buscando construir una base sólida y alcanzar metas ambiciosas."
+        }
+    },
+    "marte_en_acuario": {
+        "manifestaciones": {
+            "acción_motivada_por_la_originalidad_y_la_innovación": "Manifiesta acción motivada por la originalidad y la innovación, buscando desafiar convenciones y contribuir a la evolución de ideas.",
+            "compromiso_con_la_causa_social_y_el_progreso": "Tiene compromiso con la causa social y el progreso, abordando desafíos con una perspectiva de cambio y justicia social.",
+            "independencia_y_resistencia_a_la_conformidad": "Muestra independencia y resistencia a la conformidad, buscando seguir su propio camino y expresar su individualidad.",
+            "necesidad_de_libertad_y_autodeterminación": "Experimenta una fuerte necesidad de libertad y autodeterminación, evitando restricciones y buscando la autonomía en sus acciones.",
+            "exploración_de_la_energía_innovadora_y_la_contribución_al_cambio_social": "Se aventura en la exploración de la energía innovadora y la contribución al cambio social, buscando impulsar transformaciones significativas en la sociedad."
+        }
+    },
+    "marte_en_piscis": {
+        "manifestaciones": {
+            "acción_motivada_por_la_sensibilidad_y_la_compasión": "Manifiesta acción motivada por la sensibilidad y la compasión, buscando ayudar y cuidar a otros con empatía y gentileza.",
+            "enfoque_creativo_y_artístico_en_la_resolución_de_problemas": "Tiene un enfoque creativo y artístico en la resolución de problemas, abordando desafíos con imaginación y sensibilidad estética.",
+            "adaptabilidad_y_fluidez_en_las_acciones": "Muestra adaptabilidad y fluidez en las acciones, respondiendo a situaciones de manera flexible y utilizando la intuición para guiar sus elecciones.",
+            "necesidad_de_conexiones_emocionales_profundas": "Experimenta una fuerte necesidad de conexiones emocionales profundas, buscando relaciones auténticas y significativas.",
+            "exploración_de_la_energía_sensible_y_la_búsqueda_de_conexiones_espirituales": "Se aventura en la exploración de la energía sensible y la búsqueda de conexiones espirituales, buscando satisfacción a través de la conexión emocional y espiritual con el entorno."
+        }
+    },
+    "marte_en_casa_1": {
+        "manifestaciones": {
+            "personalidad_enérgica,_competitiva_y_agresiva,_buscando_destacarse_y_liderar_en_todas_las_actividades_que_emprende": "La persona presenta una personalidad enérgica, competitiva y agresiva, buscando destacarse y liderar en todas las actividades que emprende, mostrando determinación y coraje en sus acciones.",
+            "tendencia_a_ser_impulsivo_y_vehemente_en_la_expresión_de_sus_deseos_y_opiniones,_lo_que_puede_generar_conflictos_o_problemas_de_impaciencia_y_falta_de_autodominio": "Tiene tendencia a ser impulsivo y vehemente en la expresión de sus deseos y opiniones, lo que puede generar conflictos o problemas de impaciencia y falta de autodominio, mostrando una actitud combativa y desafiante ante los obstáculos.",
+            "fuerte_necesidad_de_acción_y_movimiento,_buscando_la_realización_de_sus_objetivos_a_través_del_esfuerzo_personal_y_la_superación_de_desafíos": "Experimenta una fuerte necesidad de acción y movimiento, buscando la realización de sus objetivos a través del esfuerzo personal y la superación de desafíos, mostrando iniciativa y determinación en la consecución de sus metas.",
+            "propensión_a_la_ira_y_la_reactividad,_lo_que_puede_manifestarse_en_respuestas_rápidas_y_explosivas_a_situaciones_de_conflicto_o_restricción,_buscando_imponer_su_voluntad_con_fuerza_y_energía": "Presenta una propensión a la ira y la reactividad, lo que puede manifestarse en respuestas rápidas y explosivas a situaciones de conflicto o restricción, buscando imponer su voluntad con fuerza y energía, mostrando una actitud desafiante y confrontativa ante los desafíos.",
+            "determinación_y_voluntad_férreas,_buscando_alcanzar_sus_metas_con_pasión_y_entusiasmo,_sin_miedo_a_los_retos_o_la_adversidad": "Manifiesta determinación y voluntad férreas, buscando alcanzar sus metas con pasión y entusiasmo, sin miedo a los retos o la adversidad, mostrando una actitud valiente y decidida ante los obstáculos."
+        },
+        "manifestaciones_negativas": {
+            "agresividad excesiva": "La influencia de Marte en la casa 1 puede manifestarse como una agresividad excesiva. La persona puede ser impulsiva, impaciente y propensa a estallar en ira ante el más mínimo desafío o provocación.",
+            "comportamiento impulsivo e imprudente": "Marte en la casa 1 puede llevar a un comportamiento impulsivo e imprudente. La persona puede actuar sin pensar en las consecuencias, tomando riesgos innecesarios y siendo propensa a accidentes o confrontaciones.",
+            "conflictos y confrontaciones frecuentes": "La presencia de Marte en la casa 1 puede generar conflictos y confrontaciones frecuentes. La persona tiende a ser combativa y a buscar el enfrentamiento directo, lo que puede resultar en problemas interpersonales y dificultades en las relaciones."
+        }
+    },
+    "marte_en_casa_2": {
+        "manifestaciones": {
+            "necesidad_de_seguridad_y_estabilidad_financiera,_buscando_adquirir_recursos_materiales_y_financieros_para_sentirse_seguro_y_satisfecho": "Presenta una necesidad de seguridad y estabilidad financiera, buscando adquirir recursos materiales y financieros para sentirse seguro y satisfecho, mostrando determinación y perseverancia en la consecución de sus objetivos económicos.",
+            "perseverancia_y_dedicación_en_el_logro_de_sus_metas_económicas,_demostrando_una_actitud_práctica_y_prudente_en_la_administración_de_recursos": "Muestra perseverancia y dedicación en el logro de sus metas económicas, demostrando una actitud práctica y prudente en la administración de recursos, buscando maximizar sus ingresos y minimizar sus gastos para garantizar su estabilidad financiera.",
+            "tendencia_a_ser_estricto_y_disciplinado_en_la_búsqueda_de_logros_materiales_y_profesionales,_demostrando_una_actitud_ambiciosa_y_determinada_en_la_consecución_de_sus_objetivos": "Tiene tendencia a ser estricto y disciplinado en la búsqueda de logros materiales y profesionales, demostrando una actitud ambiciosa y determinada en la consecución de sus objetivos, mostrando persistencia y capacidad de sacrificio para alcanzar el éxito económico.",
+            "posibilidad_de_experimentar_tensiones_o_conflictos_en_el_ámbito_económico_o_profesional,_debido_a_la_necesidad_de_control_o_a_una_excesiva_ambición_por_el_logro": "Existe la posibilidad de experimentar tensiones o conflictos en el ámbito económico o profesional, debido a la necesidad de control o a una excesiva ambición por el logro, lo que puede generar obstáculos o desafíos en la consecución de sus metas financieras.",
+            "potencial_para_alcanzar_el_éxito_en_el_ámbito_profesional_o_laboral,_si_se_canaliza_de_manera_constructiva,_aprovechando_la_determinación_y_la_resiliencia_para_superar_desafíos": "Posee un potencial para alcanzar el éxito en el ámbito profesional o laboral, si se canaliza de manera constructiva, aprovechando la determinación y la resiliencia para superar desafíos, mostrando capacidad para enfrentar las adversidades con fortaleza y perseverancia."
+        },
+        "manifestaciones_negativas": {
+            "terquedad y obstinación": "La influencia de Marte en la casa 2 puede manifestarse como terquedad y obstinación. La persona puede ser posesiva con sus posesiones y recursos, mostrando una actitud inflexible y resistente al cambio.",
+            "gastos impulsivos y mal manejo financiero": "Marte en la casa 2 puede llevar a gastos impulsivos y mal manejo financiero. La persona puede ser derrochadora, gastando dinero de manera impulsiva y sin considerar las consecuencias a largo plazo.",
+            "conflictos relacionados con el dinero": "La presencia de Marte en la casa 2 puede generar conflictos relacionados con el dinero. La persona puede ser confrontativa en asuntos financieros, lo que puede resultar en disputas con socios comerciales o familiares."
+        }
+    },
+    "marte_en_casa_3": {
+        "manifestaciones": {
+            "energía_mental_activa_y_agresiva,_con_tendencia_a_la_comunicación_directa_y_firme,_expresando_opiniones_con_pasión_y_convicción": "Presenta una energía mental activa y agresiva, con tendencia a la comunicación directa y firme, expresando opiniones con pasión y convicción, lo que puede generar debates intensos y confrontaciones verbales.",
+            "interés_por_la_adquisición_de_conocimiento_y_el_aprendizaje,_mostrando_una_mentalidad_ambiciosa_y_determinada_para_alcanzar_sus_metas_intelectuales": "Muestra interés por la adquisición de conocimiento y el aprendizaje, mostrando una mentalidad ambiciosa y determinada para alcanzar sus metas intelectuales, buscando expandir sus habilidades mentales y adquirir nuevas destrezas.",
+            "tendencia_a_la_impulsividad_y_a_la_impaciencia_en_el_proceso_de_aprendizaje_o_en_la_comunicación,_lo_que_puede_generar_conflictos_o_disputas_con_otros": "Tiene tendencia a la impulsividad y a la impaciencia en el proceso de aprendizaje o en la comunicación, lo que puede generar conflictos o disputas con otros, especialmente si se siente cuestionado o contradicho en sus ideas.",
+            "capacidad_para_iniciar_proyectos_intelectuales_o_viajes_cortos_con_determinación_y_entusiasmo,_buscando_nuevas_experiencias_y_oportunidades_de_aprendizaje": "Posee capacidad para iniciar proyectos intelectuales o viajes cortos con determinación y entusiasmo, buscando nuevas experiencias y oportunidades de aprendizaje que le permitan expandir su horizonte mental y ampliar su perspectiva del mundo.",
+            "potencial_para_desarrollar_habilidades_de_comunicación_asertiva_y_liderazgo,_si_se_canaliza_de_manera_constructiva_y_se_controlan_impulsos_agresivos_o_discordantes": "Tiene potencial para desarrollar habilidades de comunicación asertiva y liderazgo, si se canaliza de manera constructiva y se controlan impulsos agresivos o discordantes, mostrando capacidad para influir positivamente en su entorno con su forma enérgica y persuasiva de expresarse."
+        },
+        "manifestaciones_negativas": {
+            "comunicación agresiva": "En la casa 3, Marte puede manifestarse como una comunicación agresiva. La persona puede ser impulsiva en sus palabras y acciones, lo que puede provocar conflictos con hermanos, vecinos o compañeros de estudio.",
+            "discusiones frecuentes": "La presencia de Marte en la casa 3 puede dar lugar a discusiones frecuentes y confrontaciones verbales. La persona puede tener dificultades para mantener la calma en situaciones de conflicto, lo que puede afectar sus relaciones interpersonales.",
+            "impulsividad en el aprendizaje": "Marte en la casa 3 puede generar impulsividad en el aprendizaje. La persona puede tener dificultades para concentrarse en el estudio y puede ser propensa a saltar de una idea a otra sin completar tareas."
+        }
+    },
+    "marte_en_casa_4": {
+        "manifestaciones": {
+            "fuerte_vínculo_emocional_con_la_familia_y_el_hogar,_manifestando_un_estilo_de_liderazgo_dominante_y_protector_en_el_ámbito_familiar": "Presenta un fuerte vínculo emocional con la familia y el hogar, manifestando un estilo de liderazgo dominante y protector en el ámbito familiar, donde tiende a tomar el control de las situaciones y a defender con firmeza a sus seres queridos.",
+            "predisposición_a_la_expresión_de_emociones_intensas_y_explosivas,_lo_que_puede_generar_conflictos_domésticos_o_discusiones_acaloradas": "Tiene predisposición a la expresión de emociones intensas y explosivas, lo que puede generar conflictos domésticos o discusiones acaloradas, especialmente si se siente desafiado en su autoridad o en la gestión de los asuntos del hogar.",
+            "necesidad_de_actuar_con_autoridad_y_determinación_en_el_ámbito_doméstico,_buscando_imponer_sus_normas_y_pautas_de_comportamiento": "Experimenta una necesidad de actuar con autoridad y determinación en el ámbito doméstico, buscando imponer sus normas y pautas de comportamiento, lo que puede generar tensiones con otros miembros de la familia que no compartan su visión o liderazgo.",
+            "dinamismo_y_actividad_constante_en_el_hogar,_mostrando_una_inquieta_búsqueda_de_cambios_o_reformas_que_favorezcan_un_ambiente_de_acción_y_progreso": "Manifiesta dinamismo y actividad constante en el hogar, mostrando una inquieta búsqueda de cambios o reformas que favorezcan un ambiente de acción y progreso, donde se sienta en control de la situación y pueda liderar iniciativas de mejora en el entorno familiar.",
+            "necesidad_de_espacios_privados_para_canalizar_la_energía_agresiva_o_la_impaciencia,_buscando_un_equilibrio_entre_la_dinámica_familiar_y_la_introspección_personal": "Experimenta la necesidad de espacios privados para canalizar la energía agresiva o la impaciencia, buscando un equilibrio entre la dinámica familiar y la introspección personal, donde pueda reflexionar y recargar sus energías de manera individual."
+        },
+        "manifestaciones_negativas": {
+            "conflictos familiares": "En la casa 4, Marte puede manifestarse como conflictos familiares y tensiones en el hogar. La persona puede tener dificultades para manejar la ira y puede expresar sus emociones de manera explosiva, lo que puede generar discordia en el ambiente familiar.",
+            "falta de armonía emocional": "La presencia de Marte en la casa 4 puede indicar una falta de armonía emocional en el hogar. La persona puede sentirse constantemente frustrada o irritada, lo que puede afectar su relación con los miembros de la familia y provocar desequilibrios en el ambiente doméstico.",
+            "actitudes dominantes": "Marte en la casa 4 puede dar lugar a actitudes dominantes o autoritarias dentro del hogar. La persona puede tratar de imponer su voluntad a los demás miembros de la familia, lo que puede generar conflictos y resentimientos."
+        }
+    },
+    "marte_en_casa_5": {
+        "manifestaciones": {
+            "fuerte_impulso_por_la_expresión_de_la_individualidad_y_la_creatividad,_buscando_destacarse_en_actividades_lúdicas,_artísticas_o_deportivas": "Presenta un fuerte impulso por la expresión de la individualidad y la creatividad, buscando destacarse en actividades lúdicas, artísticas o deportivas donde pueda brillar y mostrar su originalidad y talento.",
+            "tendencia_a_asumir_un_rol_de_liderazgo_en_el_ámbito_amoroso_y_en_las_relaciones_románticas,_mostrando_un_estilo_apasionado_y_enérgico_en_la_conquista_y_el_cortejo": "Muestra una tendencia a asumir un rol de liderazgo en el ámbito amoroso y en las relaciones románticas, mostrando un estilo apasionado y enérgico en la conquista y el cortejo, donde busca ser el centro de atención y conquistar el corazón de su pareja con determinación y carisma.",
+            "necesidad_de_emociones_fuertes_y_sensaciones_intensas_en_el_amor_y_en_el_ocio,_lo_que_puede_generar_relaciones_apasionadas_y_encuentros_emocionantes": "Experimenta la necesidad de emociones fuertes y sensaciones intensas en el amor y en el ocio, lo que puede generar relaciones apasionadas y encuentros emocionantes, donde busca vivir experiencias gratificantes y estimulantes a nivel emocional y creativo.",
+            "impulso_por_la_conquista_de_metas_y_objetivos_personales_en_el_ámbito_del_arte,_el_ocio_o_el_emprendimiento,_mostrando_un_enfoque_determinado_y_ambicioso_para_alcanzar_el_reconocimiento_y_el_éxito": "Siente un impulso por la conquista de metas y objetivos personales en el ámbito del arte, el ocio o el emprendimiento, mostrando un enfoque determinado y ambicioso para alcanzar el reconocimiento y el éxito en áreas donde pueda expresar su creatividad y originalidad.",
+            "necesidad_de_autonomía_y_libertad_para_explorar_sus_pasiones_y_proyectos_personales,_buscando_un_equilibrio_entre_la_expresión_individual_y_la_cooperación_con_otros": "Experimenta la necesidad de autonomía y libertad para explorar sus pasiones y proyectos personales, buscando un equilibrio entre la expresión individual y la cooperación con otros, donde pueda desarrollar su creatividad y liderazgo de manera independiente, pero también colaborativa cuando sea necesario."
+        },
+        "manifestaciones_negativas": {
+            "conflictos con la creatividad": "En la casa 5, Marte puede manifestarse como conflictos relacionados con la expresión creativa. La persona puede sentirse frustrada o bloqueada en sus esfuerzos creativos, lo que puede generar tensiones internas y dificultades para encontrar una salida constructiva para su energía.",
+            "comportamiento impulsivo": "La presencia de Marte en la casa 5 puede dar lugar a comportamientos impulsivos o arriesgados en el área de la creatividad y el romance. La persona puede actuar sin pensar en las consecuencias, lo que puede llevar a situaciones problemáticas o conflictivas.",
+            "egocentrismo excesivo": "Marte en la casa 5 puede indicar un egocentrismo excesivo o una necesidad de destacarse a toda costa. La persona puede tener dificultades para compartir el escenario con otros y puede actuar de manera egoísta o competitiva en sus relaciones románticas o creativas."
+        }
+    },
+    "marte_en_casa_6": {
+        "manifestaciones": {
+            "enfoque_detallado_y_preciso_en_la_realización_de_tareas_y_proyectos,_demostrando_una_gran_determinación_y_eficiencia_en_el_trabajo_diario": "Presenta un enfoque detallado y preciso en la realización de tareas y proyectos, demostrando una gran determinación y eficiencia en el trabajo diario, donde busca alcanzar sus objetivos con meticulosidad y disciplina.",
+            "propensión_a_enfrentar_conflictos_o_problemas_en_el_ámbito_laboral_o_en_las_relaciones_cotidianas,_mostrando_una_actitud_resolutiva_y_enérgica_para_superar_los_desafíos": "Muestra una propensión a enfrentar conflictos o problemas en el ámbito laboral o en las relaciones cotidianas, mostrando una actitud resolutiva y enérgica para superar los desafíos, donde busca tomar la iniciativa y liderar la resolución de situaciones complicadas.",
+            "tendencia_a_la_critica_o_la_exigencia_propia_y_ajena,_lo_que_puede_generar_un_ambiente_de_competencia_o_tensión_en_el_trabajo_o_en_las_actividades_diarias": "Presenta una tendencia a la crítica o la exigencia propia y ajena, lo que puede generar un ambiente de competencia o tensión en el trabajo o en las actividades diarias, donde busca mejorar constantemente y alcanzar la excelencia en todo lo que emprende.",
+            "necesidad_de_establecer_rutinas_o_hábitos_saludables_para_canalizar_su_energía_de_forma_constructiva_y_evitar_el_estrés_o_la_ansiedad": "Experimenta la necesidad de establecer rutinas o hábitos saludables para canalizar su energía de forma constructiva y evitar el estrés o la ansiedad, buscando mantener un equilibrio entre el trabajo y el cuidado personal, donde pueda mantenerse enfocado y productivo.",
+            "interés_por_el_servicio_a_otros_y_la_colaboración_en_el_ámbito_profesional_o_en_la_comunidad,_mostrando_una_actitud_proactiva_y_comprometida_con_el_bienestar_colectivo": "Muestra un interés por el servicio a otros y la colaboración en el ámbito profesional o en la comunidad, mostrando una actitud proactiva y comprometida con el bienestar colectivo, donde busca contribuir de manera significativa y hacer una diferencia positiva en su entorno."
+        },
+        "manifestaciones_negativas": {
+            "conflictos en el trabajo": "En la casa 6, Marte puede manifestarse como conflictos en el lugar de trabajo o en las rutinas diarias. La persona puede ser propensa a enfrentamientos con colegas o superiores, lo que puede afectar negativamente su ambiente laboral y su productividad.",
+            "impaciencia y frustración": "La presencia de Marte en la casa 6 puede generar impaciencia y frustración en relación con las tareas diarias y las responsabilidades laborales. La persona puede sentirse irritada fácilmente por los obstáculos o retrasos en su trabajo, lo que puede llevar a un ambiente tenso y estresante.",
+            "tendencia al perfeccionismo": "Marte en la casa 6 puede indicar una tendencia al perfeccionismo o a la autoexigencia extrema en el trabajo. La persona puede sentir la necesidad de controlar todos los aspectos de su entorno laboral y puede ser crítica consigo misma y con los demás."
+        }
+    },
+    "marte_en_casa_7": {
+        "manifestaciones": {
+            "propensión_a_la_colaboración_o_la_asociación_en_proyectos_o_actividades_compartidas,_donde_busca_imponer_su_voluntad_o_liderar_las_iniciativas_con_energía_y_determinación": "Muestra una propensión a la colaboración o la asociación en proyectos o actividades compartidas, donde busca imponer su voluntad o liderar las iniciativas con energía y determinación, asumiendo un papel activo en las relaciones de pareja o socios comerciales.",
+            "tendencia_a_la_discusión_o_la_confrontación_en_el_ámbito_de_las_relaciones_personales_o_laborales,_donde_puede_manifestar_una_actitud_beligerante_o_controladora_para_defender_sus_intereses": "Presenta una tendencia a la discusión o la confrontación en el ámbito de las relaciones personales o laborales, donde puede manifestar una actitud beligerante o controladora para defender sus intereses, buscando establecer acuerdos justos y equitativos.",
+            "necesidad_de_aprender_a_negociar_o_a_trabajar_en_equipo_con_otros,_desarrollando_habilidades_para_la_cooperación_y_el_compromiso_mutuo": "Experimenta la necesidad de aprender a negociar o a trabajar en equipo con otros, desarrollando habilidades para la cooperación y el compromiso mutuo, buscando superar los conflictos y alcanzar acuerdos beneficiosos para todas las partes involucradas.",
+            "interés_por_la_justicia_o_la_defensa_de_los_derechos,_mostrando_una_actitud_firme_y_apasionada_al_promover_la_equidad_y_la_igualdad_en_las_relaciones_personales_o_profesionales": "Muestra un interés por la justicia o la defensa de los derechos, mostrando una actitud firme y apasionada al promover la equidad y la igualdad en las relaciones personales o profesionales, donde busca establecer relaciones basadas en el respeto y la reciprocidad.",
+            "impulso_a_crear_o_mantener_relaciones_intensas_y_apasionadas,_donde_la_experiencia_del_amor_o_el_encuentro_con_otra_persona_puede_ser_una_fuente_de_transformación_personal_o_profesional": "Siente un impulso a crear o mantener relaciones intensas y apasionadas, donde la experiencia del amor o el encuentro con otra persona puede ser una fuente de transformación personal o profesional, buscando vivir experiencias emocionales profundas y significativas."
+        },
+        "manifestaciones_negativas": {
+            "conflictos en relaciones": "En la casa 7, Marte puede manifestarse como conflictos en las relaciones personales y románticas. La persona puede ser impulsiva y propensa a discutir o pelear con su pareja o socios comerciales, lo que puede llevar a tensiones y desacuerdos frecuentes.",
+            "dominación y confrontación": "La presencia de Marte en la casa 7 puede indicar una tendencia a dominar o controlar a los demás en las relaciones. La persona puede ser demasiado exigente o confrontativa, lo que dificulta la armonía y la colaboración en las asociaciones.",
+            "dificultades para comprometerse": "Marte en la casa 7 puede dificultar el compromiso en las relaciones. La persona puede tener dificultades para ceder o negociar, lo que puede provocar problemas de comunicación y dificultades para llegar a acuerdos con los demás."
+        }
+    },
+    "marte_en_casa_8": {
+        "manifestaciones": {
+            "tendencia_a_la_intensidad_emocional_y_la_pasión_en_las_relaciones_personales_o_sexuales,_donde_puede_manifestar_una_conducta_apasionada_o_controladora": "Se observa una tendencia a la intensidad emocional y la pasión en las relaciones personales o sexuales, donde puede manifestar una conducta apasionada o controladora, buscando experimentar una profunda conexión emocional con los demás.",
+            "necesidad_de_explorar_o_investigar_el_lado_oculto_de_las_cosas,_mostrando_interés_por_el_misterio,_la_intriga_o_el_riesgo": "Experimenta la necesidad de explorar o investigar el lado oculto de las cosas, mostrando interés por el misterio, la intriga o el riesgo, buscando comprender las motivaciones profundas detrás de las acciones humanas o las fuerzas ocultas que gobiernan el mundo.",
+            "propensión_a_la_transformación_personal_o_profesional,_donde_la_experiencia_de_la_crisis_o_el_conflicto_puede_ser_una_oportunidad_para_el_crecimiento_y_la_renovación": "Presenta una propensión a la transformación personal o profesional, donde la experiencia de la crisis o el conflicto puede ser una oportunidad para el crecimiento y la renovación, buscando liberarse de viejas estructuras y adoptar nuevas formas de ser y actuar.",
+            "interés_por_la_sexualidad_o_la_psicología_profunda,_donde_puede_manifestar_una_inclinación_por_la_terapia_o_la_sanación_emocional": "Muestra interés por la sexualidad o la psicología profunda, donde puede manifestar una inclinación por la terapia o la sanación emocional, buscando comprender y transformar las dinámicas inconscientes que influyen en su vida y sus relaciones.",
+            "impulso_a_afrontar_los_desafíos_o_los_cambios_con_determinación_y_coraje,_buscando_superar_los_obstáculos_con_resiliencia_y_voluntad_de_transformación": "Siente un impulso a afrontar los desafíos o los cambios con determinación y coraje, buscando superar los obstáculos con resiliencia y voluntad de transformación, adoptando una actitud valiente ante las adversidades y los retos de la vida."
+        },
+        "manifestaciones_negativas": {
+            "intensidad emocional": "En la casa 8, Marte puede manifestarse como una intensidad emocional abrumadora. La persona puede experimentar emociones poderosas y explosivas, lo que puede llevar a conflictos emocionales y enfrentamientos con los demás.",
+            "obsesiones y celos": "La presencia de Marte en la casa 8 puede indicar tendencias obsesivas y celosas en las relaciones. La persona puede sentirse posesiva o controladora con sus parejas, lo que puede generar desconfianza y problemas de confianza.",
+            "problemas financieros": "Marte en la casa 8 puede manifestarse como dificultades financieras relacionadas con asociaciones o herencias. La persona puede experimentar conflictos sobre el manejo del dinero compartido o enfrentarse a disputas legales relacionadas con bienes compartidos."
+        }
+    },
+    "marte_en_casa_9": {
+        "manifestaciones": {
+            "impulso_a_la_acción_directa_y_la_energía_física_orientada_hacia_la_búsqueda_de_la_verdad_o_la_exploración_de_nuevos_horizontes": "Existe un impulso a la acción directa y la energía física orientada hacia la búsqueda de la verdad o la exploración de nuevos horizontes, mostrando una disposición aventurera y entusiasta para enfrentar desafíos intelectuales o físicos.",
+            "tendencia_a_la_defensa_de_las_convicciones_o_la_ideología,_donde_puede_manifestar_un_carácter_apasionado_o_beligerante_en_la_defensa_de_sus_creencias": "Se observa una tendencia a la defensa de las convicciones o la ideología, donde puede manifestar un carácter apasionado o beligerante en la defensa de sus creencias, mostrando una firmeza inquebrantable en sus principios y valores.",
+            "energía_para_las_actividades_académicas,_el_viaje_o_la_exploración_cultural,_donde_puede_manifestar_una_actitud_entusiasta_hacia_el_aprendizaje_o_la_ampliación_de_horizontes": "Dispone de energía para las actividades académicas, el viaje o la exploración cultural, donde puede manifestar una actitud entusiasta hacia el aprendizaje o la ampliación de horizontes, buscando expandir su mente y su perspectiva a través de nuevas experiencias y conocimientos.",
+            "impulso_a_la_acción_en_la_búsqueda_de_la_justicia_o_el_cumplimiento_de_un_propósito_superior,_donde_puede_manifestar_una_actitud_activista_o_luchadora_por_la_causa_que_cree_justa": "Experimenta un impulso a la acción en la búsqueda de la justicia o el cumplimiento de un propósito superior, donde puede manifestar una actitud activista o luchadora por la causa que cree justa, mostrando una determinación incansable para defender los derechos humanos o promover cambios sociales significativos.",
+            "necesidad_de_manejar_la_energía_con_cautela_para_evitar_conflictos_o_accidentes_en_actividades_de_exploración_o_educativas": "Experimenta la necesidad de manejar la energía con cautela para evitar conflictos o accidentes en actividades de exploración o educativas, buscando canalizar su impulso hacia metas constructivas y evitar confrontaciones innecesarias."
+        },
+        "manifestaciones_negativas": {
+            "fanatismo": "En la casa 9, Marte puede manifestarse como un exceso de energía y entusiasmo que puede llevar a comportamientos fanáticos o extremistas. La persona puede ser impulsiva y actuar de manera imprudente, lo que puede causar conflictos en su búsqueda de aventuras o ideales.",
+            "conflictos legales": "La presencia de Marte en la casa 9 puede indicar conflictos legales relacionados con viajes, educación superior o asuntos extranjeros. La persona puede enfrentarse a disputas legales en el extranjero o problemas con la ley debido a comportamientos imprudentes o arriesgados.",
+            "rigidez mental": "Marte en la casa 9 puede manifestarse como una rigidez mental y una resistencia a aceptar puntos de vista diferentes. La persona puede ser obstinada en sus creencias y tener dificultades para adaptarse a nuevas ideas o filosofías, lo que puede provocar conflictos con otras personas."
+        }
+    },
+    "marte_en_casa_10": {
+        "manifestaciones": {
+            "impulso_a_la_acción_directa_y_la_energía_física_orientada_hacia_el_logro_de_metas_profesionales_o_el_liderazgo_en_el_ámbito_laboral": "Existe un impulso a la acción directa y la energía física orientada hacia el logro de metas profesionales o el liderazgo en el ámbito laboral, mostrando una determinación incansable para alcanzar el éxito y la prominencia en su carrera.",
+            "necesidad_de_dominio_y_control_en_el_ámbito_profesional,_donde_puede_manifestar_un_carácter_dominante_o_compulsivo_en_la_búsqueda_del_logro": "Experimenta una necesidad de dominio y control en el ámbito profesional, donde puede manifestar un carácter dominante o compulsivo en la búsqueda del logro, mostrando una gran ambición y una fuerte voluntad para superar cualquier obstáculo en su camino hacia el éxito.",
+            "tendencia_a_la_confrontación_o_la_competitividad_en_el_entorno_laboral,_donde_puede_manifestar_una_actitud_agresiva_o_rivalidad_con_colegas_o_superiores": "Se observa una tendencia a la confrontación o la competitividad en el entorno laboral, donde puede manifestar una actitud agresiva o rivalidad con colegas o superiores, mostrando una fuerte determinación para destacar y alcanzar posiciones de poder.",
+            "energía_para_las_actividades_de_liderazgo_o_las_negociaciones_comerciales,_donde_puede_manifestar_una_actitud_decidida_para_tomar_decisiones_importantes_o_negociar_con_éxito": "Dispone de energía para las actividades de liderazgo o las negociaciones comerciales, donde puede manifestar una actitud decidida para tomar decisiones importantes o negociar con éxito, mostrando habilidades de liderazgo y una capacidad innata para influir en los demás.",
+            "necesidad_de_manejar_la_energía_con_cautela_para_evitar_conflictos_o_confrontaciones_en_el_ámbito_profesional,_buscando_canalizar_su_impulso_hacia_el_logro_de_objetivos_comunes": "Experimenta la necesidad de manejar la energía con cautela para evitar conflictos o confrontaciones en el ámbito profesional, buscando canalizar su impulso hacia el logro de objetivos comunes y trabajar en colaboración con otros para alcanzar el éxito."
+        },
+        "manifestaciones_negativas": {
+            "conflictos laborales": "En la casa 10, Marte puede manifestarse como conflictos laborales debido a comportamientos agresivos o confrontaciones con autoridades. La persona puede tener dificultades para mantener relaciones armoniosas en el trabajo y puede enfrentarse a desafíos en su carrera debido a su actitud impulsiva.",
+            "ambición desmedida": "La presencia de Marte en la casa 10 puede indicar una ambición desmedida y una tendencia a buscar el éxito a cualquier costo. La persona puede ser impulsiva en la búsqueda de sus metas profesionales, lo que puede llevarla a tomar decisiones arriesgadas o poco éticas.",
+            "dominación": "Marte en la casa 10 puede manifestarse como un deseo de dominación y control en el ámbito profesional. La persona puede ser autoritaria y tener dificultades para trabajar en equipo, lo que puede generar conflictos con colegas o superiores."
+        }
+    },
+    "marte_en_casa_11": {
+        "manifestaciones": {
+            "impulso_a_la_acción_directa_y_la_energía_orientada_hacia_el_cumplimiento_de_metas_en_el_ámbito_de_las_amistades_o_en_grupos_sociales": "Se observa un impulso a la acción directa y la energía orientada hacia el cumplimiento de metas en el ámbito de las amistades o en grupos sociales, mostrando una determinación para liderar proyectos colectivos o causas sociales.",
+            "necesidad_de_afirmarse_y_destacar_en_el_entorno_amistoso,_donde_puede_manifestar_una_actitud_competitiva_o_dominante_para_alcanzar_posiciones_de_liderazgo": "Experimenta la necesidad de afirmarse y destacar en el entorno amistoso, donde puede manifestar una actitud competitiva o dominante para alcanzar posiciones de liderazgo o influencia entre sus amigos o en grupos sociales.",
+            "tendencia_a_la_actividad_física_o_deportiva_en_el_contexto_de_la_red_social,_donde_puede_participar_en_actividades_de_equipo_o_proyectos_que_requieren_un_alto_nivel_de_energía": "Muestra una tendencia a la actividad física o deportiva en el contexto de la red social, donde puede participar en actividades de equipo o proyectos que requieren un alto nivel de energía y determinación, buscando destacar y liderar en este ámbito.",
+            "energía_para_promover_causas_sociales_o_participar_en_movimientos_activistas,_donde_puede_manifestar_una_actitud_apasionada_y_comprometida_con_la_defensa_de_ideales": "Dispone de energía para promover causas sociales o participar en movimientos activistas, donde puede manifestar una actitud apasionada y comprometida con la defensa de ideales y la lucha por la justicia social, buscando influir positivamente en la comunidad y generar un cambio significativo.",
+            "necesidad_de_canalizar_la_energía_de_marte_de_forma_constructiva_para_evitar_conflictos_o_discusiones_en_el_ámbito_social,_buscando_impulsar_proyectos_colectivos_y_fomentar_el_trabajo_en_equipo": "Experimenta la necesidad de canalizar la energía de Marte de forma constructiva para evitar conflictos o discusiones en el ámbito social, buscando impulsar proyectos colectivos y fomentar el trabajo en equipo, con el objetivo de alcanzar metas comunes y fortalecer las relaciones sociales."
+        },
+        "manifestaciones_negativas": {
+            "conflictos_con_amistades": "En la casa 11, Marte puede manifestarse como conflictos con amistades o en grupos sociales. La persona puede tener tendencia a ser confrontativa o impulsiva en sus interacciones sociales, lo que puede generar fricciones y rupturas en las relaciones.",
+            "rebeldía": "La presencia de Marte en la casa 11 puede indicar una actitud rebelde o de desafío hacia las normas establecidas por la sociedad o el grupo. La persona puede buscar constantemente romper con las convenciones sociales o adoptar posturas radicales que generen controversia.",
+            "competencia excesiva": "Marte en la casa 11 puede manifestarse como una competencia excesiva dentro de grupos sociales o en actividades colectivas. La persona puede sentir la necesidad de destacarse o ser la mejor en todo, lo que puede generar rivalidades y tensiones con otros miembros del grupo."
+        }
+    },
+    "marte_en_casa_12": {
+        "manifestaciones": {
+            "necesidad_de_enfrentar_el_pasado_o_lidiar_con_asuntos_no_resueltos_que_pueden_generar_conflictos_internos_o_resentimientos": "Existe una necesidad de enfrentar el pasado o lidiar con asuntos no resueltos que pueden generar conflictos internos o resentimientos, lo que puede manifestarse a través de un impulso hacia la acción o la confrontación para resolver estas cuestiones.",
+            "energía_para_trabajar_en_privado_o_en_secreto_en_proyectos_personales_que_requieren_un_esfuerzo_sostenido_y_determinado": "Dispone de energía para trabajar en privado o en secreto en proyectos personales que requieren un esfuerzo sostenido y determinado, mostrando una capacidad para perseverar en la consecución de sus objetivos a pesar de las dificultades o la oposición.",
+            "tendencia_a_la_actividad_física_o_deportiva_en_la_intimidad,_donde_puede_buscar_una_forma_de_desahogar_tensiones_o_canalizar_emociones_reprimidas": "Muestra una tendencia a la actividad física o deportiva en la intimidad, donde puede buscar una forma de desahogar tensiones o canalizar emociones reprimidas, encontrando en el ejercicio físico una vía para liberar energía acumulada y mantener un equilibrio emocional.",
+            "necesidad_de_canalizar_la_energía_de_marte_de_forma_constructiva_para_evitar_conflictos_o_auto-sabotajes,_buscando_un_enfoque_más_consciente_y_direccional_de_sus_acciones": "Experimenta la necesidad de canalizar la energía de Marte de forma constructiva para evitar conflictos o auto-sabotajes, buscando un enfoque más consciente y direccional de sus acciones, donde pueda utilizar su determinación y fuerza de voluntad para superar obstáculos internos y avanzar en su desarrollo personal."
+        },
+        "manifestaciones_negativas": {
+            "auto sabotaje": "En la casa 12, Marte puede manifestarse como tendencia al auto sabotaje o a la autodestrucción. La persona puede experimentar dificultades para canalizar su energía de manera constructiva y puede enfrentarse a obstáculos internos que dificultan su progreso.",
+            "falta de motivación": "La presencia de Marte en la casa 12 puede indicar una falta de motivación o energía para tomar acción en la vida. La persona puede experimentar una sensación de apatía o desinterés por alcanzar sus objetivos, lo que puede llevar a la procrastinación o la inactividad.",
+            "confusión interna": "Marte en la casa 12 puede manifestarse como confusión interna o falta de claridad en cuanto a los deseos y objetivos personales. La persona puede sentirse perdida o desorientada en cuanto a su dirección en la vida, lo que dificulta la toma de decisiones y la acción."
+        }
+    }
+}

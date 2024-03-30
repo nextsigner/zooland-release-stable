@@ -1,0 +1,23 @@
+{
+"info": {
+    "diámetro": "206 km",
+    "tiempoDeOrbitaCompleta": {
+      "años": 50.42
+    },
+    "tiempoDeOrbitaPorSigno": {
+      "años": 50.42/12
+    },
+    "posición": "Entre Saturno y Urano",
+    "propiedadesFisicas": "Rocoso, frío",
+    "signoRegente": "Sagitario",
+    "nombreGriego": "Quirón",
+    "nombreRomano": "Quirón",
+    "simbologíaTeológica": "En la mitología griega, Quirón era un centauro sabio y bondadoso, conocido por su habilidad en la medicina y la enseñanza. Fue mentor de héroes como Aquiles y Jasón.",
+    "simbologíaMitológica": "Quirón simboliza la sabiduría, el conocimiento y la curación. También representa el dolor y la herida sanadora, ya que Quirón fue herido accidentalmente por una flecha envenenada.",
+    "significadoDelGlifo": "El glifo de Quirón se asemeja a una llave inglesa, que simboliza la capacidad de sanar y reparar. Representa la búsqueda del autoconocimiento y la integración de las heridas para la sanación.",
+    "polaridad": "Masculina",
+    "signoExaltación": "Virgo",
+    "signoCaída": "Piscis",
+    "signoExilio": "Géminis"
+  }
+}

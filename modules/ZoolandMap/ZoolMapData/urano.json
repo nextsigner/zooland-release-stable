@@ -1,0 +1,328 @@
+{
+"info": {
+    "diámetro": "50,724 km",
+    "tiempoDeOrbitaCompleta": {
+      "d": 30,685,
+      "m": 1,009.7,
+      "a": 84
+    },
+    "tiempoDeOrbitaPorSigno": {
+      "d": 30,685/12,
+      "m": 1,009.7/12,
+      "a": 84/12
+    },
+    "posición": 7,
+    "propiedadesFisicas": "Gaseoso, frío",
+    "signoRegente": "Acuario",
+    "nombreGriego": "Ouranos",
+    "nombreRomano": "Urano",
+    "simbologíaTeológica": "En la mitología griega, Urano era el dios del cielo, asociado con la creación y el orden cósmico. Era el padre de los titanes y gobernaba sobre el universo desde su trono en el cielo.",
+    "simbologíaMitológica": "Urano simboliza la innovación, la originalidad y la libertad. También representa la revolución y el cambio repentino, así como la búsqueda de nuevas formas de pensamiento y expresión.",
+    "significadoDelGlifo": "El glifo de Urano es una combinación de los símbolos del Sol y la Luna, con una cruz en el centro. Representa la energía creativa y el potencial ilimitado para la transformación y la renovación.",
+    "polaridad": "Masculina",
+    "signoExaltación": "Tauro",
+    "signoCaída": "Escorpio",
+    "signoExilio": "Leo"
+  },
+    "urano_en_aries": {
+        "manifestaciones": {
+            "busqueda_individualidad_destacada": "La persona tiende a buscar y resaltar su singularidad y individualidad, buscando destacar entre la multitud.",
+            "impulsividad_decisiones_audaces": "Se observa una inclinación hacia la toma de decisiones impulsivas y audaces, mostrando una actitud arriesgada en diversas situaciones.",
+            "busqueda_innovacion_originalidad": "Existe una constante búsqueda de la innovación y la originalidad en diferentes aspectos de la vida, desde ideas hasta formas de expresión personal.",
+            "rebelion_contra_normas": "La persona tiende a rebelarse contra las normas establecidas, mostrando una resistencia inherente a las convenciones sociales y un deseo de desafiar lo tradicional.",
+            "alto_nivel_energia_dinamismo": "Se caracteriza por niveles elevados de energía y dinamismo, lo que se refleja en la forma en que aborda proyectos y desafíos con entusiasmo y vitalidad."
+        }
+    },
+    "urano_en_tauro": {
+        "manifestaciones": {
+            "innovacion_resistencia_cambio": "A pesar de la naturaleza terrenal de Tauro, la persona busca la innovación y experimenta resistencia al cambio.",
+            "valores_originales": "Desarrollo de valores originales e inusuales, desafiando las convenciones establecidas en asuntos materiales y de seguridad.",
+            "estabilidad_inusual": "Busca estabilidad de una manera inusual, incorporando elementos impredecibles en la vida cotidiana.",
+            "autoexpresion_resistente": "Resistencia a ser influenciado por normas externas en la autoexpresión y la búsqueda de placeres sensoriales únicos.",
+            "transformacion_material": "Experimenta transformaciones inesperadas en asuntos materiales y financieros, impulsando cambios radicales en la seguridad económica."
+        }
+    },
+    "urano_en_geminis": {
+        "manifestaciones": {
+            "mente_innovadora": "Desarrollo de una mente innovadora y curiosa, buscando constantemente nuevas ideas y perspectivas.",
+            "comunicacion_inusual": "Estilo de comunicación inusual y original, con un enfoque en la expresión individual y la libertad de pensamiento.",
+            "relaciones_no_convencionales": "Tendencia a buscar relaciones no convencionales y amistades poco ortodoxas, valorando la diversidad en las conexiones interpersonales.",
+            "cambios_en_red": "Experimenta cambios rápidos y sorprendentes en redes sociales y entornos sociales, buscando conexiones estimulantes e inusuales.",
+            "aprendizaje_continuo": "Fomenta un enfoque de aprendizaje continuo, adaptándose rápidamente a nuevas ideas y conceptos sin miedo a la inestabilidad intelectual."
+        }
+    },
+    "urano_en_cancer": {
+        "manifestaciones": {
+            "emociones_innovadoras": "Experimenta y busca expresar emociones de manera innovadora, desafiando las convenciones en la expresión emocional.",
+            "cambio_en_el_hogar": "Experimenta cambios inusuales y repentinos en asuntos relacionados con el hogar y la familia, buscando una estructura doméstica poco convencional.",
+            "sensibilidad_independiente": "A pesar de la sensibilidad de Cáncer, busca la independencia emocional y la libertad personal en la toma de decisiones.",
+            "conexiones_familiares_no_convencionales": "Busca relaciones familiares no convencionales, valorando la diversidad y la individualidad dentro del núcleo familiar.",
+            "seguridad_innovadora": "Busca la seguridad de manera innovadora, incorporando elementos inusuales en la construcción de una base emocional sólida."
+        }
+    },
+    "urano_en_leo": {
+        "manifestaciones": {
+            "expresion_individual_destacada": "Busca y destaca en la expresión individual, mostrando una fuerte necesidad de ser reconocido y admirado.",
+            "creatividad_innovadora": "Desarrolla una creatividad innovadora y original, buscando destacar en campos artísticos y creativos de manera única.",
+            "liderazgo_no_convencional": "Ejerce el liderazgo de manera no convencional, desafiando las estructuras establecidas y buscando la autonomía en roles de liderazgo.",
+            "amor_propio_independiente": "Cultiva un sentido independiente de amor propio, basado en la autoexpresión auténtica y la individualidad.",
+            "relaciones_sociales_originales": "Busca relaciones sociales originales y únicas, valorando la diversidad y la singularidad en sus conexiones interpersonales."
+        }
+    },
+    "urano_en_virgo": {
+        "manifestaciones": {
+            "mente_analitica_innovadora": "Desarrolla una mente analítica innovadora, buscando soluciones originales y métodos poco convencionales en la resolución de problemas.",
+            "enfoque_sanitario_no_tradicional": "Adopta un enfoque no tradicional hacia la salud y el bienestar, experimentando con prácticas alternativas y métodos de curación innovadores.",
+            "rutinas_inusuales": "Crea rutinas diarias y hábitos poco convencionales, incorporando elementos inesperados en la organización y planificación cotidiana.",
+            "servicio_a_los_demas_innovador": "Brinda servicio a los demás de manera innovadora, buscando formas únicas de contribuir al bienestar de la comunidad.",
+            "perfeccionismo_libre": "A pesar del perfeccionismo de Virgo, busca la perfección de una manera libre y no estructurada, permitiendo la experimentación y la flexibilidad en sus estándares."
+        }
+    },
+    "urano_en_libra": {
+        "manifestaciones": {
+            "relaciones_no_convencionales": "Busca y valora relaciones no convencionales, desafiando las normas sociales en el ámbito romántico y amistoso.",
+            "justicia_innovadora": "Promueve la justicia de manera innovadora, buscando reformas y cambios en estructuras legales y sociales.",
+            "estilo_estetico_universal": "Desarrolla un estilo estético universal y poco convencional, apreciando la diversidad en la expresión artística y la moda.",
+            "compromiso_independiente": "A pesar de la naturaleza de compromiso de Libra, busca la independencia en las relaciones, permitiendo la autonomía y la individualidad.",
+            "equilibrio_social_inusual": "Busca un equilibrio social de manera inusual, incorporando elementos innovadores en la construcción de relaciones armoniosas."
+        }
+    },
+    "urano_en_escorpio": {
+        "manifestaciones": {
+            "transformacion_innovadora": "Experimenta y busca transformaciones personales y emocionales de manera innovadora, desafiando las convenciones en el proceso de cambio.",
+            "profundidad_mental_inusual": "Desarrolla una profundidad mental inusual, explorando temas tabú y buscando conocimiento en áreas poco convencionales.",
+            "relaciones_intensas_no_convencionales": "Busca y valora relaciones intensas y no convencionales, explorando la profundidad emocional y la conexión única con los demás.",
+            "autenticidad_sexual": "Busca la autenticidad sexual de manera única, explorando libremente la expresión sexual sin restricciones sociales.",
+            "investigacion_misteriosa": "Se involucra en la investigación y la exploración de misterios de manera innovadora, buscando descubrimientos en áreas poco convencionales."
+        }
+    },
+    "urano_en_sagitario": {
+        "manifestaciones": {
+            "búsqueda_innovadora_de_conocimiento": "Busca el conocimiento de manera innovadora, explorando diversas filosofías y perspectivas, desafiando las normas establecidas.",
+            "viajes_exploratorios_inusuales": "Realiza viajes y exploraciones inusuales, buscando experiencias únicas y desafiando las convenciones en la expansión personal.",
+            "creencias_originales": "Desarrolla creencias y valores originales, desafiando las tradiciones y explorando nuevas formas de comprensión espiritual.",
+            "comunicación_abierta_y_libre": "Se comunica de manera abierta y libre, promoviendo la expresión sin restricciones y desafiando las estructuras convencionales de comunicación.",
+            "aventuras_intelectuales": "Busca aventuras intelectuales inusuales, explorando nuevas ideas y conceptos con entusiasmo y un sentido de libertad intelectual."
+        }
+    },
+    "urano_en_capricornio": {
+        "manifestaciones": {
+            "innovacion_en_ambiciones_profesionales": "Busca la innovación en las ambiciones profesionales, desafiando las estructuras convencionales en la carrera y el logro de metas.",
+            "estructuras_sociales_alternativas": "Contribuye a la creación de estructuras sociales alternativas, desafiando las normas y buscando formas únicas de liderazgo y organización.",
+            "gestión_del_tiempo_inusual": "Adopta un enfoque de gestión del tiempo inusual, incorporando elementos innovadores en la planificación y organización de la vida diaria.",
+            "autoridad_independiente": "Busca la autoridad de manera independiente, desafiando las jerarquías establecidas y buscando autonomía en roles de liderazgo.",
+            "logro_de_metas_innovador": "Persigue el logro de metas de manera innovadora, explorando nuevas vías y estrategias para alcanzar el éxito personal y profesional."
+        }
+    },
+    "urano_en_acuario": {
+        "manifestaciones": {
+            "pensamiento_vanguardista": "Desarrolla un pensamiento vanguardista, buscando ideas y conceptos innovadores que desafíen las normas establecidas.",
+            "compromiso_con_la_comunidad": "Muestra un fuerte compromiso con la comunidad y la sociedad, buscando la innovación y el progreso en el ámbito social.",
+            "relaciones_interpersonales_originales": "Valora y busca relaciones interpersonales originales, apreciando la diversidad y la singularidad en las conexiones sociales.",
+            "activismo_innovador": "Participa en actividades activistas de manera innovadora, abogando por cambios sociales y luchando contra las injusticias de manera única.",
+            "liderazgo_colectivo": "Ejerce el liderazgo de manera colectiva, buscando la colaboración y la participación activa de la comunidad en la toma de decisiones."
+        }
+    },
+    "urano_en_piscis": {
+        "manifestaciones": {
+            "imaginación_innovadora": "Desarrolla una imaginación innovadora, explorando dimensiones creativas y conceptos fuera de lo convencional.",
+            "compasión_no_convencional": "Muestra compasión de manera no convencional, buscando formas únicas de contribuir al bienestar de los demás.",
+            "expresión_artística_inusual": "Expresa la creatividad de manera inusual, explorando formas de arte y expresión que desafían las normas establecidas.",
+            "espiritualidad_innovadora": "Busca la espiritualidad de manera innovadora, explorando y adoptando prácticas espirituales no tradicionales.",
+            "conexión_intuitiva_unica": "Desarrolla una conexión intuitiva única con el entorno, mostrando una sensibilidad especial hacia las dimensiones más sutiles de la vida."
+        }
+    },
+    "urano_en_casa_1": {
+        "manifestaciones": {
+            "originalidad_en_la_identidad_personal": "La originalidad en la identidad personal es prominente. La persona con Urano en la Casa 1 tiende a destacarse por su individualidad única y su forma poco convencional de expresarse.",
+            "innovación_en_la_autoimagen_y_la_apariencia": "Se busca la innovación en la autoimagen y la apariencia. Urano en la Casa 1 puede llevar a la persona a experimentar cambios repentinos en su estilo y apariencia, buscando reflejar su naturaleza vanguardista.",
+            "necesidad_de_libertad_y_autonomía_personal": "La necesidad de libertad y autonomía personal es fundamental. La persona puede resistirse a las limitaciones y restricciones, buscando vivir su vida de acuerdo con sus propias normas y valores.",
+            "atracción_hacia_la_exploración_de_nuevas_identidades": "Hay una atracción hacia la exploración de nuevas identidades. Urano en la Casa 1 puede despertar el interés en experimentar con diferentes aspectos de la personalidad y la identidad, buscando expandir los límites de lo convencional.",
+            "impacto_en_las_relaciones_personales": "Urano en la Casa 1 puede tener un impacto en las relaciones personales. La persona puede experimentar relaciones dinámicas e impredecibles, con una tendencia a desafiar las convenciones y buscar conexiones auténticas y estimulantes.",
+            "renacimiento_a_través_de_crisis_de_identidad": "El renacimiento a través de crisis de identidad es una posibilidad. Urano en la Casa 1 puede llevar a la persona a enfrentar desafíos en la definición de sí misma, resultando en una transformación profunda y una mayor autenticidad en la expresión personal.",
+            "búsqueda_continua_de_autenticidad_y_autonomía": "Se busca una búsqueda continua de autenticidad y autonomía. La persona puede estar en un viaje constante de autoexploración y autodeterminación, buscando vivir una vida alineada con su verdadero ser."
+        },
+        "manifestaciones_negativas": {
+            "rebelión excesiva": "Urano en la casa 1 puede manifestarse como una tendencia a la rebelión excesiva contra las normas sociales y las estructuras establecidas. La persona puede sentirse constantemente en conflicto con la autoridad y puede adoptar comportamientos rebeldes e impredecibles que pueden socavar su estabilidad y relaciones.",
+            "impulsividad": "La presencia de Urano en la casa 1 puede llevar a una gran impulsividad y falta de autocontrol. La persona puede actuar de manera repentina e inesperada, sin pensar en las consecuencias de sus acciones. Esto puede generar problemas en su vida personal y profesional, así como en sus relaciones interpersonales.",
+            "falta de estabilidad emocional": "Urano en la casa 1 puede generar una falta de estabilidad emocional y cambios bruscos de humor. La persona puede experimentar emociones intensas y volátiles, lo que dificulta mantener relaciones estables y duraderas. Puede tener dificultades para lidiar con sus propias emociones y para encontrar un equilibrio emocional."
+        }
+    },
+    "urano_en_casa_2": {
+        "manifestaciones": {
+            "necesidad_de_innovación_en_las_finanzas_y_los_recursos": "Existe una necesidad de innovación en las finanzas y los recursos. Urano en la Casa 2 puede llevar a la persona a buscar formas poco convencionales de ganar dinero y gestionar sus recursos, con una tendencia a experimentar cambios repentinos en su situación financiera.",
+            "originalidad_en_la_valoración_de_sí_mismo_y_los_bienes_materiales": "La originalidad en la valoración de sí mismo y los bienes materiales es prominente. La persona puede tener una percepción poco convencional de su propio valor y de la importancia de los bienes materiales en su vida.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_generar_ingresos": "Hay una atracción hacia la exploración de nuevas formas de generar ingresos. Urano en la Casa 2 puede despertar el interés en buscar oportunidades innovadoras de ganar dinero, con una mentalidad abierta a experimentar con diferentes fuentes de ingresos.",
+            "impulso_de_independencia_financiera_y_libertad_económica": "El impulso de independencia financiera y libertad económica es fuerte. La persona puede resistirse a depender de otros financieramente y puede buscar formas de asegurar su independencia económica, incluso si esto implica asumir riesgos o seguir un camino poco convencional.",
+            "impacto_en_el_valor_personal_y_la_autoestima": "Urano en la Casa 2 puede tener un impacto en el valor personal y la autoestima. La persona puede experimentar fluctuaciones en su autoestima en función de su situación financiera y material, buscando encontrar un sentido de valía más allá de los bienes materiales.",
+            "renacimiento_a_través_de_crisis_económicas_o_de_valoración_personal": "El renacimiento a través de crisis económicas o de valoración personal es una posibilidad. Urano en la Casa 2 puede llevar a la persona a enfrentar desafíos en su situación financiera o en su percepción de su propio valor, resultando en una transformación profunda y una mayor independencia financiera.",
+            "búsqueda_continua_de_autonomía_económica_y_valoración_personal": "Se busca una búsqueda continua de autonomía económica y valoración personal. La persona puede estar en un viaje constante de exploración financiera y desarrollo personal, buscando liberarse de las limitaciones financieras y encontrar su verdadero valor."
+        },
+        "manifestaciones_negativas": {
+            "inestabilidad financiera": "Urano en la casa 2 puede manifestarse como inestabilidad financiera. La persona puede experimentar cambios repentinos e impredecibles en sus ingresos y gastos, lo que dificulta la creación de una base financiera sólida. Puede tener dificultades para ahorrar o manejar sus recursos de manera responsable.",
+            "gastos impulsivos": "La presencia de Urano en la casa 2 puede llevar a gastos impulsivos e irregulares. La persona puede sentir la necesidad de experimentar y probar cosas nuevas, lo que puede resultar en compras impulsivas y poco planificadas. Esto puede generar problemas financieros y dificultades para mantener un presupuesto equilibrado.",
+            "inconsistencia en valores": "Urano en la casa 2 puede generar inconsistencia en los valores personales y en la forma en que la persona valora el dinero y los recursos. Puede experimentar cambios radicales en sus prioridades financieras y en lo que considera importante en términos de seguridad material. Esto puede dificultar la creación de una base financiera estable."
+        }
+    },
+    "urano_en_casa_3": {
+        "manifestaciones": {
+            "originalidad_en_el_pensamiento_y_la_comunicación": "La originalidad en el pensamiento y la comunicación es prominente. Urano en la Casa 3 puede llevar a la persona a tener ideas innovadoras y a comunicarse de manera poco convencional, buscando desafiar las normas establecidas en el intercambio de ideas.",
+            "necesidad_de_libertad_mental_y_autonomía_intelectual": "Existe una necesidad de libertad mental y autonomía intelectual. La persona puede resistirse a las estructuras mentales restrictivas y buscar explorar una variedad de perspectivas y conocimientos, con una mente abierta a nuevas ideas y conceptos.",
+            "atracción_hacia_la_exploración_de_nuevos_campos_del_conocimiento": "Hay una atracción hacia la exploración de nuevos campos del conocimiento. Urano en la Casa 3 puede despertar el interés en estudiar temas poco convencionales o en experimentar con diferentes formas de aprendizaje y comunicación.",
+            "impulso_de_independencia_en_la_comunicación_y_el_aprendizaje": "El impulso de independencia en la comunicación y el aprendizaje es fuerte. La persona puede buscar expresarse de manera auténtica y no convencional, y puede preferir aprender de manera independiente y a su propio ritmo.",
+            "impacto_en_las_relaciones_fraternales_y_la_interacción_diaria": "Urano en la Casa 3 puede tener un impacto en las relaciones fraternales y la interacción diaria. La persona puede experimentar relaciones con hermanos u otros familiares cercanos que sean dinámicas e impredecibles, con una tendencia a desafiar las convenciones en la comunicación y la interacción.",
+            "renacimiento_a_través_de_cambios_en_la_mentalidad_y_la_comunicación": "El renacimiento a través de cambios en la mentalidad y la comunicación es una posibilidad. Urano en la Casa 3 puede llevar a la persona a experimentar transformaciones profundas en su forma de pensar y comunicarse, resultando en una mayor libertad mental y una comunicación más auténtica.",
+            "búsqueda_continua_de_innovación_mental_y_expresión_auténtica": "Se busca una búsqueda continua de innovación mental y expresión auténtica. La persona puede estar en un viaje constante de exploración intelectual y desarrollo personal, buscando liberarse de las limitaciones mentales y expresar su verdadero yo de manera única."
+        },
+        "manifestaciones_negativas": {
+            "desconexión mental": "Urano en la casa 3 puede manifestarse como una desconexión mental o dificultades en la comunicación. La persona puede experimentar cambios repentinos en su forma de pensar y comunicarse, lo que dificulta la coherencia en sus ideas y expresiones. Esto puede generar problemas en el ámbito educativo o laboral, así como en las relaciones personales.",
+            "nerviosismo e impaciencia": "La presencia de Urano en la casa 3 puede llevar a nerviosismo e impaciencia en la comunicación. La persona puede sentir la necesidad de expresarse de manera rápida y poco convencional, lo que puede generar conflictos en las interacciones sociales. También puede experimentar dificultades para concentrarse y seguir un hilo de pensamiento.",
+            "conflictos con el entorno cercano": "Urano en la casa 3 puede generar conflictos con el entorno cercano, como hermanos, vecinos o compañeros de estudio o trabajo. La persona puede tener diferencias de opinión radicales o conflictos inesperados en la comunicación, lo que dificulta la armonía en estas relaciones."
+        }
+    },
+    "urano_en_casa_4": {
+        "manifestaciones": {
+            "originalidad_en_el_hogar_y_la_vida_familiar": "La originalidad en el hogar y la vida familiar es prominente. Urano en la Casa 4 puede llevar a la persona a buscar un entorno doméstico poco convencional y a experimentar cambios inesperados en la dinámica familiar.",
+            "necesidad_de_libertad_emocional_y_autenticidad_en_el_hogar": "Existe una necesidad de libertad emocional y autenticidad en el hogar. La persona puede resistirse a las expectativas familiares tradicionales y buscar crear un espacio donde pueda ser verdaderamente ella misma, sin restricciones ni limitaciones.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_seguridad_emocional": "Hay una atracción hacia la exploración de nuevas formas de seguridad emocional. Urano en la Casa 4 puede despertar el interés en buscar seguridad emocional a través de medios poco convencionales o en romper con patrones familiares arraigados para encontrar una mayor autonomía emocional.",
+            "impulso_de_independencia_en_el_ámbito_familiar_y_doméstico": "El impulso de independencia en el ámbito familiar y doméstico es fuerte. La persona puede buscar establecer límites claros con la familia y buscar formas de vivir de manera autónoma, incluso si esto implica alejarse de las normas familiares establecidas.",
+            "impacto_en_el_pasado_familiar_y_las_raíces_emocionales": "Urano en la Casa 4 puede tener un impacto en el pasado familiar y las raíces emocionales. La persona puede experimentar eventos inesperados en la historia familiar o desafíos en la conexión con sus raíces emocionales, lo que puede llevar a una reevaluación de la identidad y el sentido de pertenencia.",
+            "renacimiento_a_través_de_cambios_en_la_dinámica_familiar": "El renacimiento a través de cambios en la dinámica familiar es una posibilidad. Urano en la Casa 4 puede llevar a la persona a enfrentar desafíos en las relaciones familiares que resulten en una transformación profunda y una mayor libertad para establecer sus propias tradiciones y normas.",
+            "búsqueda_continua_de_autonomía_emocional_y_seguridad_en_el_hogar": "Se busca una búsqueda continua de autonomía emocional y seguridad en el hogar. La persona puede estar en un viaje constante de exploración de sus emociones y necesidades familiares, buscando encontrar un equilibrio entre la libertad individual y el apoyo emocional."
+        },
+        "manifestaciones_negativas": {
+            "inestabilidad emocional en el hogar": "Urano en la casa 4 puede manifestarse como inestabilidad emocional en el hogar. La persona puede experimentar cambios repentinos en el ambiente familiar, así como conflictos inesperados que perturban la armonía doméstica. Esto puede generar ansiedad y estrés en el entorno familiar.",
+            "rebelión contra las tradiciones familiares": "La presencia de Urano en la casa 4 puede llevar a una rebelión contra las tradiciones familiares y las normas establecidas. La persona puede sentir la necesidad de romper con las estructuras familiares existentes y buscar su propia independencia, lo que puede generar tensiones con los miembros de la familia.",
+            "falta de arraigo emocional": "Urano en la casa 4 puede generar una falta de arraigo emocional y dificultad para establecer vínculos emocionales estables. La persona puede sentirse desconectada de sus raíces familiares y tener dificultades para establecer un sentido de pertenencia. Esto puede llevar a cambios frecuentes de residencia o a buscar experiencias emocionales poco convencionales."
+        }
+    },
+    "urano_en_casa_5": {
+        "manifestaciones": {
+            "originalidad_en_la_expresión_creativa_y_la_autoexpresión": "La originalidad en la expresión creativa y la autoexpresión es prominente. Urano en la Casa 5 puede llevar a la persona a buscar formas únicas de expresarse a través del arte, el romance y las actividades recreativas, desafiando las convenciones establecidas.",
+            "necesidad_de_libertad_para_experimentar_en_el_amor_y_la_creación": "Existe una necesidad de libertad para experimentar en el amor y la creación. La persona puede resistirse a las normas sociales en el romance y buscar relaciones poco convencionales, así como explorar diferentes formas de expresión creativa sin restricciones.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_diversión_y_entretenimiento": "Hay una atracción hacia la exploración de nuevas formas de diversión y entretenimiento. Urano en la Casa 5 puede despertar el interés en actividades recreativas poco convencionales o en la creación de proyectos creativos innovadores.",
+            "impulso_de_independencia_en_la_autoexpresión_y_la_diversión": "El impulso de independencia en la autoexpresión y la diversión es fuerte. La persona puede buscar expresarse de manera auténtica en todas las áreas de su vida, incluidas las relaciones románticas y las actividades recreativas, y puede valorar la libertad para seguir sus propias pasiones y deseos.",
+            "impacto_en_la_relación_con_los_hijos_y_la_actitud_hacia_la_paternidad": "Urano en la Casa 5 puede tener un impacto en la relación con los hijos y la actitud hacia la paternidad. La persona puede tener una relación dinámica e impredecible con sus hijos, o puede desafiar las convenciones sociales en cuanto a roles parentales y expectativas.",
+            "renacimiento_a_través_de_la_autoexpresión_y_la_experiencia_amorosa": "El renacimiento a través de la autoexpresión y la experiencia amorosa es una posibilidad. Urano en la Casa 5 puede llevar a la persona a experimentar transformaciones profundas a través de relaciones románticas o proyectos creativos que desafíen sus percepciones y les permitan expresar su verdadero ser.",
+            "búsqueda_continua_de_autenticidad_en_la_autoexpresión_y_la_creatividad": "Se busca una búsqueda continua de autenticidad en la autoexpresión y la creatividad. La persona puede estar en un viaje constante de exploración artística y desarrollo personal, buscando liberarse de las expectativas sociales y encontrar su propia voz única en el mundo."
+        },
+        "manifestaciones_negativas": {
+            "inestabilidad en la creatividad": "Urano en la casa 5 puede manifestarse como inestabilidad en la creatividad. La persona puede experimentar cambios repentinos en sus intereses creativos y tener dificultades para mantener el enfoque en un proyecto creativo. Esto puede llevar a una falta de finalización de proyectos y frustración.",
+            "relaciones amorosas impredecibles": "La presencia de Urano en la casa 5 puede generar relaciones amorosas impredecibles y poco convencionales. La persona puede buscar experiencias emocionales excitantes y poco usuales en el amor, lo que puede llevar a relaciones caóticas y difíciles de sostener a largo plazo.",
+            "riesgo de embarazos no planificados": "Urano en la casa 5 puede aumentar el riesgo de embarazos no planificados o situaciones inesperadas relacionadas con los hijos. La persona puede enfrentar cambios repentinos en su vida debido a la llegada de un hijo no planeado o a eventos inesperados relacionados con la crianza de los hijos."
+        }
+    },
+    "urano_en_casa_6": {
+        "manifestaciones": {
+            "originalidad_en_el_trabajo_y_la_rutina_diaria": "La originalidad en el trabajo y la rutina diaria es prominente. Urano en la Casa 6 puede llevar a la persona a buscar métodos poco convencionales en su lugar de trabajo y a experimentar cambios inesperados en su rutina diaria.",
+            "necesidad_de_libertad_en_el_ámbito_laboral_y_la_salud": "Existe una necesidad de libertad en el ámbito laboral y la salud. La persona puede resistirse a las estructuras laborales tradicionales y buscar una mayor autonomía en su trabajo, así como explorar enfoques alternativos para mantener su bienestar físico y mental.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_servicio_y_productividad": "Hay una atracción hacia la exploración de nuevas formas de servicio y productividad. Urano en la Casa 6 puede despertar el interés en métodos innovadores de trabajo o en buscar oportunidades para contribuir de manera única al mundo.",
+            "impulso_de_independencia_en_la_autogestión_y_el_cuidado_personal": "El impulso de independencia en la autogestión y el cuidado personal es fuerte. La persona puede buscar formas de gestionar su vida diaria de manera autónoma, sin depender demasiado de las estructuras establecidas, y puede valorar la libertad para tomar decisiones sobre su salud y bienestar.",
+            "impacto_en_la_relación_con_los_compañeros_de_trabajo_y_la_actitud_hacia_el_servicio": "Urano en la Casa 6 puede tener un impacto en la relación con los compañeros de trabajo y la actitud hacia el servicio. La persona puede experimentar relaciones laborales dinámicas e impredecibles, o puede desafiar las convenciones en cuanto a su enfoque hacia el servicio y la contribución a la sociedad.",
+            "renacimiento_a_través_de_cambios_en_la_rutina_y_el_enfoque_del_trabajo": "El renacimiento a través de cambios en la rutina y el enfoque del trabajo es una posibilidad. Urano en la Casa 6 puede llevar a la persona a experimentar transformaciones profundas en su vida diaria y su enfoque hacia el trabajo, resultando en una mayor libertad y autenticidad en su forma de vivir y trabajar.",
+            "búsqueda_continua_de_innovación_en_la_productividad_y_el_bienestar_personal": "Se busca una búsqueda continua de innovación en la productividad y el bienestar personal. La persona puede estar en un viaje constante de experimentación con diferentes métodos de trabajo y autocuidado, buscando formas de mejorar continuamente su eficiencia y su calidad de vida."
+        },
+        "manifestaciones_negativas": {
+            "desorden y caos en el trabajo": "Urano en la casa 6 puede manifestarse como desorden y caos en el trabajo. La persona puede experimentar cambios repentinos en su rutina laboral, dificultad para mantener la concentración y tendencia a romper con las normas establecidas en el entorno laboral.",
+            "problemas de salud imprevistos": "La presencia de Urano en la casa 6 puede generar problemas de salud imprevistos y accidentes laborales. La persona puede sufrir lesiones repentinas o enfermedades inesperadas que interrumpan su capacidad para llevar a cabo sus responsabilidades laborales de manera efectiva.",
+            "conflictos con colegas o subordinados": "Urano en la casa 6 puede provocar conflictos con colegas o subordinados en el lugar de trabajo. La persona puede tener dificultades para adaptarse a las estructuras jerárquicas o para seguir las reglas establecidas, lo que puede generar tensiones en el ambiente laboral."
+        }
+    },
+    "urano_en_casa_7": {
+        "manifestaciones": {
+            "originalidad_en_las_relaciones_y_asociaciones": "La originalidad en las relaciones y asociaciones es prominente. Urano en la Casa 7 puede llevar a la persona a buscar relaciones poco convencionales y a experimentar cambios inesperados en sus asociaciones.",
+            "necesidad_de_libertad_en_el_matrimonio_y_las_asociaciones": "Existe una necesidad de libertad en el matrimonio y las asociaciones. La persona puede resistirse a las convenciones tradicionales en las relaciones y buscar una mayor autonomía en su vida amorosa y sus asociaciones, así como explorar nuevas formas de compromiso y colaboración.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_cooperación_y_colaboración": "Hay una atracción hacia la exploración de nuevas formas de cooperación y colaboración. Urano en la Casa 7 puede despertar el interés en relaciones y asociaciones innovadoras, así como en buscar soluciones creativas a través del trabajo en equipo.",
+            "impulso_de_independencia_en_la_partnership_y_el_equilibrio": "El impulso de independencia en la partnership y el equilibrio es fuerte. La persona puede valorar la libertad para ser auténtica en sus relaciones y buscar un equilibrio entre la autonomía individual y la colaboración con los demás.",
+            "impacto_en_la_relación_con_el_cónyuge_y_la_actitud_hacia_el_compromiso": "Urano en la Casa 7 puede tener un impacto en la relación con el cónyuge y la actitud hacia el compromiso. La persona puede experimentar relaciones matrimoniales dinámicas e impredecibles, o puede desafiar las convenciones en cuanto a las expectativas de compromiso y colaboración en pareja.",
+            "renacimiento_a_través_de_cambios_en_el_matrimonio_y_las_asociaciones": "El renacimiento a través de cambios en el matrimonio y las asociaciones es una posibilidad. Urano en la Casa 7 puede llevar a la persona a experimentar transformaciones profundas en sus relaciones personales y profesionales, resultando en una mayor autenticidad y libertad en sus asociaciones.",
+            "búsqueda_continua_de_innovación_en_el_ámbito_relacional_y_la_cooperación": "Se busca una búsqueda continua de innovación en el ámbito relacional y la cooperación. La persona puede estar en un viaje constante de exploración de nuevas formas de relacionarse y colaborar con los demás, buscando relaciones que le permitan crecer y evolucionar de manera individual y mutua."
+        },
+        "manifestaciones_negativas": {
+            "inestabilidad en relaciones sentimentales": "Urano en la casa 7 puede manifestarse como inestabilidad en las relaciones sentimentales. La persona puede experimentar cambios repentinos en sus relaciones, dificultad para comprometerse emocionalmente o para mantener relaciones a largo plazo debido a su necesidad de libertad e independencia.",
+            "rupturas y divorcios repentinos": "La presencia de Urano en la casa 7 puede llevar a rupturas y divorcios repentinos en las relaciones. La persona puede sentir la necesidad repentina de liberarse de compromisos que percibe como restrictivos o poco estimulantes, lo que puede provocar cambios bruscos en su vida amorosa.",
+            "conflictos y tensiones en asociaciones": "Urano en la casa 7 puede generar conflictos y tensiones en asociaciones y sociedades. La persona puede tener dificultades para comprometerse con otros en proyectos compartidos o puede buscar constantemente cambios y novedades en sus relaciones profesionales o personales, lo que puede generar fricciones y desacuerdos."
+        }
+    },
+    "urano_en_casa_8": {
+        "manifestaciones": {
+            "originalidad_en_la_transformación_y_la_intimidad": "La originalidad en la transformación y la intimidad es prominente. Urano en la Casa 8 puede llevar a la persona a buscar formas poco convencionales de abordar la transformación personal y a experimentar cambios inesperados en su vida íntima.",
+            "necesidad_de_libertad_en_el_ámbito_emocional_y_psicológico": "Existe una necesidad de libertad en el ámbito emocional y psicológico. La persona puede resistirse a las normas sociales en cuanto a las emociones y la intimidad, y puede buscar una mayor autonomía en su proceso de autodescubrimiento y sanación emocional.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_transmutación_y_regeneración": "Hay una atracción hacia la exploración de nuevas formas de transmutación y regeneración. Urano en la Casa 8 puede despertar el interés en prácticas de transformación personal poco convencionales o en buscar experiencias que desafíen su comprensión del mundo.",
+            "impulso_de_independencia_en_la_exploración_de_lo_oculto_y_lo_profundo": "El impulso de independencia en la exploración de lo oculto y lo profundo es fuerte. La persona puede valorar la libertad para explorar aspectos de su psique y del mundo invisible sin restricciones externas, y puede buscar su propia verdad más allá de las convenciones establecidas.",
+            "impacto_en_la_relación_con_la_pareja_y_la_actitud_hacia_la_intimidad": "Urano en la Casa 8 puede tener un impacto en la relación con la pareja y la actitud hacia la intimidad. La persona puede experimentar relaciones íntimas dinámicas e impredecibles, o puede desafiar las normas sociales en cuanto a la apertura emocional y la entrega en la relación de pareja.",
+            "renacimiento_a_través_de_cambios_en_la_transformación_personal_y_la_conexión_interna": "El renacimiento a través de cambios en la transformación personal y la conexión interna es una posibilidad. Urano en la Casa 8 puede llevar a la persona a experimentar transformaciones profundas en su psique y su relación con el mundo invisible, resultando en una mayor autenticidad y libertad en su vida emocional y espiritual.",
+            "búsqueda_continua_de_innovación_en_el_ámbito_psicológico_y_la_regeneración_personal": "Se busca una búsqueda continua de innovación en el ámbito psicológico y la regeneración personal. La persona puede estar en un viaje constante de autodescubrimiento y sanación emocional, buscando formas de liberarse de los patrones limitantes y conectar con su verdadero ser más profundo."
+        },
+        "manifestaciones_negativas": {
+            "crisis emocionales y traumas": "Urano en la casa 8 puede manifestarse como crisis emocionales y traumas repentinos e inesperados. La persona puede experimentar cambios bruscos en su vida emocional, enfrentando situaciones traumáticas que alteran su estabilidad emocional y psicológica.",
+            "inestabilidad financiera": "La presencia de Urano en la casa 8 puede generar inestabilidad financiera repentina. La persona puede enfrentarse a cambios drásticos en su situación económica debido a eventos imprevistos, pérdidas financieras repentinas o decisiones financieras impulsivas.",
+            "problemas en la intimidad": "Urano en la casa 8 puede causar problemas en la intimidad y en las relaciones sexuales. La persona puede experimentar dificultades para establecer vínculos emocionales profundos o para confiar en sus parejas, lo que puede generar conflictos y rupturas en las relaciones íntimas."
+        }
+    },
+    "urano_en_casa_9": {
+        "manifestaciones": {
+            "originalidad_en_la_búsqueda_de_significado_y_la_exploración_mental": "La originalidad en la búsqueda de significado y la exploración mental es prominente. Urano en la Casa 9 puede llevar a la persona a cuestionar las creencias establecidas y a buscar nuevas perspectivas en su búsqueda de la verdad.",
+            "necesidad_de_libertad_en_la_exploración_de_la_filosofía_y_la_experiencia": "Existe una necesidad de libertad en la exploración de la filosofía y la experiencia. La persona puede resistirse a las normas sociales en cuanto a la religión y la espiritualidad, y puede buscar una mayor autonomía en su búsqueda de significado y propósito en la vida.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_conocimiento_y_expansión_mental": "Hay una atracción hacia la exploración de nuevas formas de conocimiento y expansión mental. Urano en la Casa 9 puede despertar el interés en la experimentación intelectual y en buscar experiencias que amplíen su comprensión del mundo.",
+            "impulso_de_independencia_en_la_búsqueda_de_la_verdad_y_la_exploración_cultural": "El impulso de independencia en la búsqueda de la verdad y la exploración cultural es fuerte. La persona puede valorar la libertad para formar sus propias creencias y valores, y puede buscar su propia aventura intelectual sin restricciones externas.",
+            "impacto_en_la_relación_con_la_educación_superior_y_la_actitud_hacia_la_exploración": "Urano en la Casa 9 puede tener un impacto en la relación con la educación superior y la actitud hacia la exploración. La persona puede experimentar un enfoque único hacia la educación superior, buscando experiencias educativas poco convencionales o desafiando las normas en cuanto a la adquisición de conocimiento.",
+            "renacimiento_a_través_de_cambios_en_la_visión_del_mundo_y_la_búsqueda_de_sentido": "El renacimiento a través de cambios en la visión del mundo y la búsqueda de sentido es una posibilidad. Urano en la Casa 9 puede llevar a la persona a experimentar transformaciones profundas en su comprensión del universo y su lugar en él, resultando en una mayor autenticidad y libertad en su búsqueda espiritual.",
+            "búsqueda_continua_de_innovación_en_la_búsqueda_de_sentido_y_la_expansión_mental": "Se busca una búsqueda continua de innovación en la búsqueda de sentido y la expansión mental. La persona puede estar en un viaje constante de exploración intelectual y espiritual, buscando comprender el mundo de manera única y desafiando constantemente sus propias creencias y percepciones."
+        },
+        "manifestaciones_negativas": {
+            "rebeldía intelectual extrema": "Urano en la casa 9 puede manifestarse como una rebeldía intelectual extrema, donde la persona desafía constantemente las normas sociales, culturales y religiosas establecidas. Puede tener dificultades para aceptar autoridades intelectuales o para comprometerse con sistemas de creencias tradicionales.",
+            "conflictos con la educación superior": "La presencia de Urano en la casa 9 puede generar conflictos con la educación superior o con las instituciones académicas. La persona puede experimentar interrupciones inesperadas en sus estudios, cambios frecuentes de carreras o problemas para adaptarse a estructuras educativas convencionales.",
+            "viajes imprevistos y disruptivos": "Urano en la casa 9 puede provocar viajes imprevistos y disruptivos. La persona puede verse involucrada en viajes repentinos o aventuras que interrumpan sus planes académicos o sus creencias filosóficas, llevándola a enfrentar situaciones inesperadas y desafiantes durante sus desplazamientos."
+        }
+    },
+    "urano_en_casa_10": {
+        "manifestaciones": {
+            "originalidad_en_la_carrera_y_la_realización_profesional": "La originalidad en la carrera y la realización profesional es prominente. Urano en la Casa 10 puede llevar a la persona a buscar caminos poco convencionales en su carrera y a desafiar las normas establecidas en su búsqueda de éxito y reconocimiento.",
+            "necesidad_de_libertad_en_el_logro_de_objetivos_y_la_autorrealización": "Existe una necesidad de libertad en el logro de objetivos y la autorrealización. La persona puede resistirse a las estructuras jerárquicas en el trabajo y puede buscar una mayor autonomía en su búsqueda de éxito y satisfacción personal.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_status_y_logro": "Hay una atracción hacia la exploración de nuevas formas de estatus y logro. Urano en la Casa 10 puede despertar el interés en desafiar las convenciones sociales en cuanto a lo que constituye el éxito y la posición en la sociedad.",
+            "impulso_de_independencia_en_la_construcción_de_la_carrera_y_el_reconocimiento": "El impulso de independencia en la construcción de la carrera y el reconocimiento es fuerte. La persona puede valorar la libertad para seguir su propio camino profesional y puede buscar formas únicas de destacarse en su campo.",
+            "impacto_en_la_relación_con_la_autoridad_y_la_actitud_hacia_el_logro": "Urano en la Casa 10 puede tener un impacto en la relación con la autoridad y la actitud hacia el logro. La persona puede experimentar una relación única con figuras de autoridad y puede desafiar las normas en cuanto a la definición de éxito y liderazgo.",
+            "renacimiento_a_través_de_cambios_en_la_carrera_y_la_identidad_profesional": "El renacimiento a través de cambios en la carrera y la identidad profesional es una posibilidad. Urano en la Casa 10 puede llevar a la persona a experimentar transformaciones profundas en su trayectoria profesional y su sentido de identidad, resultando en una mayor autenticidad y libertad en su vida laboral.",
+            "búsqueda_continua_de_innovación_en_la_búsqueda_de_logro_y_la_contribución_social": "Se busca una búsqueda continua de innovación en la búsqueda de logro y la contribución social. La persona puede estar en un viaje constante de búsqueda de nuevas formas de hacer una diferencia en el mundo y de destacarse en su campo profesional."
+        },
+        "manifestaciones_negativas": {
+            "inestabilidad laboral": "Urano en la casa 10 puede manifestarse como inestabilidad laboral, donde la persona experimenta cambios repentinos en su carrera profesional. Puede haber dificultades para mantener un empleo estable o para seguir una trayectoria profesional coherente debido a eventos inesperados o decisiones impulsivas.",
+            "conflictos con la autoridad": "La presencia de Urano en la casa 10 puede generar conflictos con la autoridad y las estructuras jerárquicas en el trabajo. La persona puede resistirse a seguir las normas establecidas por sus superiores o puede desafiar las expectativas tradicionales de su profesión, lo que podría resultar en tensiones y confrontaciones en el entorno laboral.",
+            "reputación pública inestable": "Urano en la casa 10 puede llevar a una reputación pública inestable o controvertida. La persona puede ser percibida como excéntrica, impredecible o poco convencional en su forma de desempeñarse profesionalmente, lo que podría afectar su imagen pública y su capacidad para progresar en su carrera."
+        }
+    },
+    "urano_en_casa_11": {
+        "manifestaciones": {
+            "originalidad_en_las_amistades_y_la_pertenencia_a_grupos_sociales": "La originalidad en las amistades y la pertenencia a grupos sociales es prominente. Urano en la Casa 11 puede llevar a la persona a relacionarse con individuos poco convencionales y a buscar comunidades que valoren la singularidad y la diversidad.",
+            "necesidad_de_libertad_expresiva_de_la_individualidad_y_pertenencia": "Existe una necesidad de libertad en la expresión de la individualidad y la pertenencia. La persona puede resistirse a las normas sociales en cuanto a la conformidad y puede buscar entornos donde pueda ser auténtica y aceptada tal como es.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_pertenencia_y_colaboración": "Hay una atracción hacia la exploración de nuevas formas de pertenencia y colaboración. Urano en la Casa 11 puede despertar el interés en comunidades progresistas y en la colaboración en proyectos innovadores y de vanguardia.",
+            "impulso_de_independencia_en_la_construcción_de_redes_sociales_y_la_afiliación": "El impulso de independencia en la construcción de redes sociales y la afiliación es fuerte. La persona puede valorar la libertad para elegir sus propias amistades y asociaciones, y puede buscar relaciones que fomenten el crecimiento personal y la autoexpresión.",
+            "impacto_en_la_relación_con_la_sociedad_y_la_actitud_hacia_la_colectividad": "Urano en la Casa 11 puede tener un impacto en la relación con la sociedad y la actitud hacia la colectividad. La persona puede experimentar una conexión única con el espíritu de la época y puede desafiar las normas en cuanto a la participación cívica y el activismo social.",
+            "renacimiento_a_través_de_cambios_en_la_pertenencia_a_grupos_y_la_afiliación": "El renacimiento a través de cambios en la pertenencia a grupos y la afiliación es una posibilidad. Urano en la Casa 11 puede llevar a la persona a experimentar transformaciones profundas en su identidad social y su sentido de pertenencia, resultando en una mayor autenticidad y libertad en sus relaciones sociales.",
+            "búsqueda_continua_de_innovación_en_la_búsqueda_de_la_comunidad_y_el_activismo": "Se busca una búsqueda continua de innovación en la búsqueda de la comunidad y el activismo. La persona puede estar en un viaje constante de búsqueda de nuevas formas de contribuir al bienestar colectivo y de desafiar las estructuras sociales establecidas."
+        },
+        "manifestaciones_negativas": {
+            "relaciones interpersonales conflictivas": "Urano en la casa 11 puede manifestarse como relaciones interpersonales conflictivas o rupturas repentinas en el círculo social. La persona puede experimentar cambios inesperados en sus amistades o enfrentarse a situaciones donde se siente alienada o incomprendida por su grupo de amigos.",
+            "rebeldía y tendencia a la rebelión": "La presencia de Urano en la casa 11 puede llevar a una actitud de rebeldía y una tendencia a desafiar las normas sociales establecidas. La persona puede sentirse incómoda con las convenciones sociales y buscar constantemente formas de romper con las expectativas tradicionales de la sociedad, lo que podría generar conflictos con su entorno.",
+            "desconexión emocional": "Urano en la casa 11 puede provocar una desconexión emocional o distanciamiento de las relaciones sociales. La persona puede preferir mantener una distancia emocional con los demás o puede sentirse inadaptada a los grupos sociales convencionales, lo que podría dificultar la formación de vínculos sólidos y duraderos."
+        }
+    },
+    "urano_en_casa_12": {
+        "manifestaciones": {
+            "originalidad_en_el_mundo_interior_y_el_autoconocimiento": "La originalidad en el mundo interior y el autoconocimiento es prominente. Urano en la Casa 12 puede llevar a la persona a explorar dimensiones poco convencionales de su psique y a buscar la libertad emocional y espiritual.",
+            "necesidad_de_libertad_en_la_exploración_de_la_conciencia_y_el_autoentendimiento": "Existe una necesidad de libertad en la exploración de la conciencia y el autoentendimiento. La persona puede resistirse a las limitaciones impuestas por la sociedad en cuanto a la expresión de sus emociones más profundas y su conexión con lo trascendental.",
+            "atracción_hacia_la_exploración_de_nuevas_formas_de_espiritualidad_y_conciencia": "Hay una atracción hacia la exploración de nuevas formas de espiritualidad y conciencia. Urano en la Casa 12 puede despertar el interés en prácticas espirituales poco convencionales y en la búsqueda de la iluminación a través de experiencias de trascendencia.",
+            "impulso_de_independencia_en_la_búsqueda_de_la_paz_interior_y_la_sanación": "El impulso de independencia en la búsqueda de la paz interior y la sanación es fuerte. La persona puede valorar la libertad para seguir su propio camino de crecimiento personal y puede buscar métodos poco convencionales de autodescubrimiento y curación.",
+            "impacto_en_la_relación_con_el_inconsciente_y_la_actitud_hacia_la_espiritualidad": "Urano en la Casa 12 puede tener un impacto en la relación con el inconsciente y la actitud hacia la espiritualidad. La persona puede experimentar una conexión única con el mundo invisible y puede desafiar las normas en cuanto a la experiencia mística y la conexión con lo divino.",
+            "renacimiento_a_través_de_cambios_en_la_conciencia_y_el_despertar_espiritual": "El renacimiento a través de cambios en la conciencia y el despertar espiritual es una posibilidad. Urano en la Casa 12 puede llevar a la persona a experimentar transformaciones profundas en su mundo interior, resultando en una mayor conexión con su ser esencial y una mayor comprensión del universo.",
+            "búsqueda_continua_de_innovación_en_la_exploración_del_mundo_interior_y_la_conexión_espiritual": "Se busca una búsqueda continua de innovación en la exploración del mundo interior y la conexión espiritual. La persona puede estar en un viaje constante de descubrimiento de nuevas prácticas y filosofías que alimenten su alma y amplíen su comprensión del universo."
+        },
+        "manifestaciones_negativas": {
+            "ansiedad e inestabilidad emocional": "Urano en la casa 12 puede manifestarse como ansiedad e inestabilidad emocional oculta o subyacente. La persona puede experimentar cambios repentinos en su estado de ánimo o sentir una sensación de inquietud interna sin una causa aparente.",
+            "tendencia a la evasión y escapismo": "La presencia de Urano en la casa 12 puede llevar a una tendencia a la evasión y al escapismo. La persona puede buscar formas poco saludables de evitar enfrentar la realidad o puede tener dificultades para lidiar con sus emociones, lo que podría llevar a comportamientos adictivos o de evasión.",
+            "confusión mental y falta de claridad": "Urano en la casa 12 puede provocar confusión mental y falta de claridad en la vida. La persona puede tener dificultades para entender sus propias motivaciones o para tomar decisiones claras y definidas. Esto puede generar un sentido de desconcierto o desorientación en la vida."
+        }
+    },
+    "chatgpt": "¿Según la astrología tradicional, no védica, dime una lista de 5 maneras diferentes de cómo se manifiesta la influencia astrológica de Urano en Aries en una persona nacida bajo contexto?. Dime la respuesta en formato JSON."
+}

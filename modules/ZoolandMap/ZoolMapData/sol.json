@@ -1,0 +1,277 @@
+{
+"info": {
+   "diámetro": "1,391,000 km",
+   "tiempoDeOrbitaCompleta": {
+     "d": 365.25,
+     "m": 12,
+     "a": 1
+   },
+   "tiempoDeOrbitaPorSigno": {
+     "d": 30.44,
+     "m": 1,
+     "a": 0.08
+   },
+   "posición": "Estrella central",
+   "propiedadesFisicas": "Gaseoso, caliente",
+   "signoRegente": "Leo",
+   "nombreGriego": "Helios",
+   "nombreRomano": "Sol",
+   "simbologíaTeológica": "El Sol es considerado una deidad en muchas culturas antiguas y se asocia con la vida, la energía, la iluminación y el poder creativo. Es el centro de nuestro sistema solar y provee luz y calor a todos los planetas.",
+   "simbologíaMitológica": "El Sol simboliza la fuerza vital, el poder y la autoridad. En la mitología griega, Helios era el dios del Sol, que viajaba a través del cielo en un carro dorado tirado por caballos alados.",
+   "significadoDelGlifo": "El glifo del Sol representa la imagen de un círculo con un punto en el centro, que simboliza el núcleo brillante y ardiente del Sol. Es un símbolo de energía, vitalidad y poder creativo.",
+   "polaridad": "Masculina",
+   "signoExaltación": "Aries",
+   "signoCaída": "Libra",
+   "signoExilio": "Acuario"
+ },
+    "sol_en_aries": {
+        "manifestaciones": {
+            "fuerte_voluntad_y_determinación": "Demuestra una fuerte voluntad y determinación en la búsqueda de sus objetivos, siendo valiente y decidido en la toma de decisiones.",
+            "naturaleza_pionera_y_liderazgo": "Posee una naturaleza pionera y de liderazgo, disfrutando de tomar la iniciativa y liderar proyectos y equipos.",
+            "energía_activa_y_entusiasta": "Irradia una energía activa y entusiasta, mostrando una actitud dinámica y apasionada hacia la vida y sus desafíos.",
+            "independencia_y_autenticidad": "Valora la independencia y la autenticidad, buscando destacar por ser fiel a sí mismo y a sus convicciones.",
+            "impulso_a_la_acción_y_la_espontaneidad": "Siente un fuerte impulso a la acción y la espontaneidad, prefiriendo la acción directa y la resolución inmediata de problemas."
+        }
+    },
+    "sol_en_tauro": {
+        "manifestaciones": {
+            "persistencia_y_estabilidad": "Se caracteriza por su persistencia y deseo de estabilidad, buscando construir bases sólidas en su vida y en sus relaciones.",
+            "disfrute_de_sensaciones_y_comodidades": "Disfruta de las sensaciones y comodidades de la vida, apreciando la belleza en su entorno y valorando las experiencias sensoriales.",
+            "determinación_y_enfoque_práctico": "Muestra determinación y un enfoque práctico en la consecución de metas, siendo capaz de trabajar de manera constante y enfocada.",
+            "lealtad_y_confianza": "Es leal y valora la confianza en las relaciones, construyendo vínculos sólidos y duraderos con aquellos en quienes confía.",
+            "conexión_con_la_naturaleza_y_el_mundo_material": "Siente una conexión especial con la naturaleza y el mundo material, disfrutando de la estabilidad que ofrecen y buscando la armonía en su entorno."
+        }
+    },
+    "sol_en_geminis": {
+        "manifestaciones": {
+            "versatilidad_y_adaptabilidad": "Demuestra versatilidad y adaptabilidad, siendo capaz de cambiar de enfoque con facilidad y disfrutando de la variedad en la vida.",
+            "curiosidad_intelectual_y_mentalidad_abierta": "Muestra una curiosidad intelectual y una mentalidad abierta, buscando constantemente aprender y explorar nuevos conceptos y ideas.",
+            "comunicación_efectiva_y_encanto": "Destaca en la comunicación efectiva y tiene un encanto natural, siendo capaz de conectar fácilmente con los demás y expresar sus ideas de manera persuasiva.",
+            "inquietud_mental_y_necesidad_de_estímulo": "Experimenta inquietud mental y tiene una necesidad constante de estímulo, buscando mantenerse mentalmente activo y entretenido.",
+            "dualidad_y_ambivalencia": "Experimenta dualidad y ambivalencia en su personalidad, mostrando diferentes facetas de sí mismo en distintas situaciones y disfrutando de la variedad de experiencias."
+        }
+    },
+    "sol_en_cancer": {
+        "manifestaciones": {
+            "sensibilidad_emocional_y_empatía": "Se caracteriza por su sensibilidad emocional y empatía, siendo capaz de conectarse profundamente con las emociones propias y ajenas.",
+            "protección_y_cuidado_hacia_los_serios_queridos": "Muestra un instinto natural de protección y cuidado hacia los seres queridos, buscando crear un ambiente seguro y acogedor para quienes le rodean.",
+            "intuición_aguda_y_conexión_con_el_pasado": "Posee una intuición aguda y una conexión especial con el pasado, valorando la tradición y la memoria.",
+            "ciclos_emocionales_y_cambio_constante": "Experimenta ciclos emocionales y busca el cambio constante, adaptándose a las mareas emocionales y a las transformaciones en su entorno.",
+            "vínculo_fuerte_con_el_hogar_y_la_familia": "Mantiene un vínculo fuerte con el hogar y la familia, considerándolos fundamentales en su vida y encontrando seguridad en esos lazos afectivos."
+        }
+    },
+    "sol_en_leo": {
+        "manifestaciones": {
+            "carisma_y_presencia_magnética": "Irradia carisma y tiene una presencia magnética, destacando en situaciones sociales y atrayendo la atención de los demás.",
+            "autoexpresión_y_creatividad": "Busca la autoexpresión y la creatividad, disfrutando de destacar en actividades artísticas y encontrar formas únicas de expresar su identidad.",
+            "confianza_en_sí_mismo_y_afirmación_personal": "Tiene confianza en sí mismo y busca la afirmación personal, buscando reconocimiento y aprecio por sus logros y habilidades.",
+            "generosidad_y_afecto": "Es generoso y afectuoso, compartiendo con gusto con los demás y mostrando un corazón cálido y solidario.",
+            "necesidad_de_reconocimiento_y_brillo_personal": "Experimenta la necesidad de reconocimiento y brillo personal, buscando ser el centro de atención y destacar en su entorno."
+        }
+    },
+    "sol_en_virgo": {
+        "manifestaciones": {
+            "meticulosidad_y_atención_a_los_detalles": "Se caracteriza por su meticulosidad y atención a los detalles, buscando la perfección en sus actividades y tareas.",
+            "enfoque_práctico_y_servicial": "Muestra un enfoque práctico y servicial, siendo capaz de analizar problemas y ofrecer soluciones concretas, así como brindar ayuda a los demás de manera práctica.",
+            "organización_y_disciplina": "Valora la organización y la disciplina, buscando establecer estructuras sólidas y mantener un orden en su vida y entorno.",
+            "cuidado_por_la_salud_y_el_bienestar": "Tiene un cuidado especial por la salud y el bienestar, adoptando hábitos saludables y prestando atención a la nutrición y el ejercicio.",
+            "sentido_del_deber_y_la_responsabilidad": "Posee un fuerte sentido del deber y la responsabilidad, cumpliendo con sus compromisos y buscando contribuir al bienestar de su comunidad."
+        }
+    },
+    "sol_en_libra": {
+        "manifestaciones": {
+            "búsqueda_de_armonía_y_equilibrio": "Busca la armonía y el equilibrio en todas las áreas de la vida, valorando la paz y la estética en sus relaciones y entorno.",
+            "diplomacia_y_habilidad_para_la_negociación": "Muestra diplomacia y habilidad para la negociación, buscando resolver conflictos de manera equitativa y promoviendo la colaboración.",
+            "afinidad_por_el_arte_y_la_belleza": "Siente afinidad por el arte y la belleza, disfrutando de la expresión estética y buscando rodearse de entornos estéticamente agradables.",
+            "relaciones_armoniosas_y_colaborativas": "Prioriza las relaciones armoniosas y colaborativas, buscando asociaciones equitativas y construyendo conexiones basadas en la igualdad y la cooperación.",
+            "justicia_y_firmeza_en_los_valores_personales": "Valora la justicia y la firmeza en los valores personales, buscando actuar con integridad y abogar por lo que considera correcto."
+        }
+    },
+    "sol_en_escorpio": {
+        "manifestaciones": {
+            "intensidad_emocional_y_profundidad": "Se caracteriza por su intensidad emocional y su búsqueda de la profundidad en las experiencias, buscando entender las motivaciones más allá de la superficie.",
+            "determinación_y_resiliencia": "Muestra determinación y resiliencia en la consecución de metas, enfrentando los desafíos con coraje y transformando las adversidades en oportunidades de crecimiento.",
+            "capacidad_para_la_transformación_personal": "Tiene la capacidad de la transformación personal, enfrentando las sombras internas y buscando la evolución constante de su ser.",
+            "reserva_y_misterio": "Es reservado y lleva consigo un aura de misterio, revelando selectivamente aspectos de sí mismo y manteniendo una cierta privacidad.",
+            "lealtad_profunsa_y_conexiones_emocionales_intensas": "Muestra lealtad profunda y forma conexiones emocionales intensas, valorando las relaciones auténticas y comprometiéndose profundamente con aquellos en quienes confía."
+        }
+    },
+    "sol_en_sagitario": {
+        "manifestaciones": {
+            "entusiasmo_y_espíritu_aventurero": "Se caracteriza por su entusiasmo y espíritu aventurero, buscando constantemente nuevas experiencias y expandiendo sus horizontes.",
+            "optimismo_y_fe_en_el_futuro": "Muestra optimismo y fe en el futuro, manteniendo una actitud positiva incluso en medio de los desafíos y las adversidades.",
+            "búsqueda_de_significado_y_conocimiento": "Tiene una profunda búsqueda de significado y conocimiento, explorando filosofías de vida y expandiendo su comprensión del mundo.",
+            "honestidad_y_sinceridad": "Valora la honestidad y la sinceridad, expresando sus pensamientos y opiniones de manera directa y buscando la verdad en todas las situaciones.",
+            "independencia_y_espíritu_libre": "Es independiente y tiene un espíritu libre, resistiendo las restricciones y buscando la libertad para seguir su propio camino."
+        }
+    },
+    "sol_en_capricornio": {
+        "manifestaciones": {
+            "ambición_y_enfoque_en_el_logro": "Se caracteriza por su ambición y enfoque en el logro de metas a largo plazo, trabajando con determinación para alcanzar el éxito.",
+            "disciplina_y_responsabilidad": "Muestra disciplina y responsabilidad en todas sus acciones, abordando las tareas con seriedad y comprometiéndose con la excelencia.",
+            "prudencia_y_planificación": "Valora la prudencia y la planificación, tomando decisiones cuidadosas y considerando las consecuencias a largo plazo de sus acciones.",
+            "resistencia_y_capacidad_de_superación": "Tiene resistencia y capacidad de superación, enfrentando los desafíos con paciencia y perseverancia, y aprendiendo de las experiencias difíciles.",
+            "conexión_con_la_tradición_y_el_estatus": "Siente una conexión con la tradición y el estatus, buscando construir una base sólida y obtener reconocimiento en la sociedad."
+        }
+    },
+    "sol_en_acuario": {
+        "manifestaciones": {
+            "originalidad_y_mentalidad_vanguardista": "Se destaca por su originalidad y mentalidad vanguardista, buscando innovar y romper con las convenciones establecidas.",
+            "humanitarismo_y_preocupación_por_el_colectivo": "Muestra un fuerte sentido de humanitarismo y preocupación por el bienestar colectivo, buscando contribuir a causas sociales y promover la igualdad.",
+            "pensamiento_independiente_y_aversión_a_la_conformidad": "Tiene un pensamiento independiente y una aversión a la conformidad, valorando la libertad de expresión y resistiéndose a las normas restrictivas.",
+            "amistad_y_relaciones_con_un_toque_único": "Valora la amistad y las relaciones con un toque único, construyendo conexiones basadas en la autenticidad y la aceptación de la individualidad.",
+            "mentalidad_abierta_y_adaptabilidad": "Posee una mentalidad abierta y una gran adaptabilidad, siendo receptivo a nuevas ideas y capaz de ajustarse a diferentes circunstancias."
+        }
+    },
+    "sol_en_piscis": {
+        "manifestaciones": {
+            "sensibilidad_y_empatía_profunda": "Se caracteriza por su sensibilidad y empatía profunda, sintiendo intensamente las emociones propias y ajenas.",
+            "imaginación_creativa_y_mundo_interior_rico": "Posee una imaginación creativa y un mundo interior rico, explorando la espiritualidad y buscando significado en las experiencias más allá de lo tangible.",
+            "compasión_y_amor_incondicional": "Muestra compasión y amor incondicional hacia los demás, buscando ayudar y brindar apoyo sin esperar nada a cambio.",
+            "intuición_aguda_y_conexión_con_lo_transcendental": "Tiene una intuición aguda y una conexión con lo transcendental, confiando en sus corazonadas y explorando la espiritualidad en su vida cotidiana.",
+            "necesidad_de_escapismo_y_recogimiento": "Experimenta la necesidad de escapismo y recogimiento, buscando momentos de tranquilidad y soledad para recargar energías y conectar consigo mismo."
+        }
+    },
+    "sol_en_casa_1": {
+        "manifestaciones": {
+            "identidad_y_autoexpresión": "La persona tiende a identificarse fuertemente con su Sol, expresando una personalidad marcada y un deseo de destacar.",
+            "apariencia_exterior": "La apariencia física y la forma de presentarse al mundo son aspectos importantes, con una preocupación por proyectar una imagen segura.",
+            "confianza_en_sí_mismo": "Hay una fuerte confianza en uno mismo y una autoafirmación natural, sintiéndose cómodo siendo el centro de atención.",
+            "vitalidad_y_energía": "La energía vital y la vitalidad suelen ser altas, con una conexión fuerte entre la identidad y la fuente de energía interna.",
+            "liderazgo_natural": "Existe una propensión hacia el liderazgo natural, asumiendo roles de liderazgo y disfrutando de guiar a otros.",
+            "enfoque_en_el_yo": "El enfoque se centra en el desarrollo personal y la expresión del yo auténtico, con un fuerte impulso hacia la autorreflexión.",
+            "impacto_en_las_relaciones": "La identidad y la personalidad tienen un impacto significativo en las relaciones, con una necesidad de ser reconocido y apreciado por quien es."
+        }
+    },
+    "sol_en_casa_2": {
+        "manifestaciones": {
+            "valores_personales_y_autoestima": "La autoestima y la percepción de uno mismo están fuertemente vinculadas a los valores personales, buscando seguridad y estabilidad a través de la posesión de bienes materiales.",
+            "enfoque_en_la_seguridad_financiera": "Existe un fuerte énfasis en la seguridad financiera y el logro de estabilidad material, con un deseo de acumular riqueza y recursos como fuente de seguridad.",
+            "habilidad_para_generar_ingresos": "La posición del Sol indica una habilidad innata para generar ingresos y crear abundancia material, con talento para las finanzas o los negocios.",
+            "relacion_con_el_dinero": "La relación con el dinero se vuelve central, con una conexión emocional fuerte con la posesión de bienes y una tendencia a asociar el valor personal con el éxito material.",
+            "deseo_de_autenticidad_en_la_vida_financiera": "Busca vivir de acuerdo con sus propios valores auténticos en el ámbito financiero, evitando comprometer sus principios.",
+            "generosidad_y_compartir_recursos": "A pesar del deseo de acumular, también puede haber una inclinación hacia la generosidad y compartir recursos con aquellos en quienes confía.",
+            "inversion_en_el_desarrollo_personal": "Puede invertir en su propio desarrollo personal y educación, viendo estos aspectos como una vía para aumentar su valor y contribuir a su seguridad financiera."
+        }
+    },
+    "sol_en_casa_3": {
+        "manifestaciones": {
+            "comunicacion_expresiva": "La comunicación es expresiva y vital, siendo elocuente, persuasiva y disfrutando de compartir ideas con los demás.",
+            "interes_en_el_conocimiento": "Hay un fuerte interés en el conocimiento y el aprendizaje continuo, disfrutando de explorar una variedad de temas y teniendo una mente curiosa.",
+            "habilidades_de_comunicacion_clara": "La capacidad de expresar ideas de manera clara y efectiva es destacada, siendo un comunicador hábil tanto verbal como por escrito.",
+            "relacion_con_hermanos_y_vecinos": "La relación con hermanos y vecinos puede ser especialmente importante, con un vínculo cercano y una comunicación abierta con estas personas.",
+            "viajes_cortos_y_desplazamientos": "Puede disfrutar de viajes cortos y desplazamientos frecuentes, considerando la movilidad y la variedad en la rutina diaria como importantes.",
+            "mente_analitica": "Tiende a tener una mente analítica y puede sobresalir en la resolución de problemas, destacándose por la agudeza mental y la rapidez de pensamiento.",
+            "interes_en_medios_de_comunicacion": "Puede sentirse atraído por los medios de comunicación, la escritura, la tecnología y las formas modernas de comunicación.",
+            "aprendizaje_a_traves_de_la_experiencia_directa": "La persona puede aprender mejor a través de la experiencia directa y la participación activa en lugar de solo teorías abstractas."
+        }
+    },
+    "sol_en_casa_4": {
+        "manifestaciones": {
+            "raices_y_familia": "La identidad y el sentido de pertenencia están fuertemente vinculados a las raíces familiares y el hogar. La familia y el entorno hogareño son aspectos centrales de la identidad.",
+            "necesidad_de_seguridad_emocional": "Existe una profunda necesidad de seguridad emocional y estabilidad. El hogar se percibe como un refugio seguro y protector.",
+            "influencia_familiar_en_la_identidad": "La influencia de la familia y la crianza tiene un impacto significativo en la formación de la identidad. Los valores familiares son fundamentales.",
+            "deseo_de_construir_un_hogar": "Hay un fuerte deseo de construir y mantener un hogar sólido. La creación de una base segura es una prioridad importante.",
+            "vínculo_intenso_con_el_pasado": "El pasado y las tradiciones familiares tienen un vínculo intenso. Puede haber una fuerte conexión con la historia familiar y las raíces ancestrales.",
+            "cuidado_y_proteccion_hacia_los_ser_queridos": "Se muestra un instinto natural de cuidado y protección hacia los seres queridos. El bienestar de la familia es una prioridad.",
+            "necesidad_de_privacidad": "La privacidad y el tiempo a solas son esenciales para recargar energías. Puede haber una necesidad de retirarse periódicamente para la reflexión y la introspección.",
+            "importancia_de_la_tradicion": "Las tradiciones familiares y culturales son valoradas y pueden desempeñar un papel fundamental en la vida. La continuidad de las costumbres familiares es significativa."
+        }
+    },
+    "sol_en_casa_5": {
+        "manifestaciones": {
+            "expresion_creativa": "La expresión creativa es una parte integral de la identidad. La persona puede destacarse en campos artísticos, teatrales o creativos, buscando constantemente formas de expresar su individualidad.",
+            "deseo_de_destacarse": "Hay un fuerte deseo de destacarse y ser reconocido por las propias habilidades y logros. La persona puede buscar la atención y apreciación por su singularidad.",
+            "placer_en_el_juego_y_el_entretenimiento": "Se experimenta placer y alegría en actividades lúdicas, juegos y entretenimiento. La diversión y la creatividad son elementos importantes en la vida diaria.",
+            "afinidad_con_los_hijos": "Existe una afinidad natural con los hijos o con el lado joven de la vida. La relación con los niños puede ser especialmente significativa y gratificante.",
+            "deseo_de_amor_y_romance": "El amor y el romance son aspectos cruciales de la vida. Puede haber un deseo constante de experiencias románticas y relaciones apasionadas.",
+            "riesgo_y_aventura": "Se siente atraído por el riesgo y la aventura. Puede buscar experiencias emocionantes y no convencionales para sentirse vivo y estimulado.",
+            "creacion_de_un_legado_personal": "La creación de un legado personal es importante. Puede haber un deseo de dejar una huella duradera a través de logros creativos o proyectos significativos.",
+            "autoexpresion_autentica": "La autenticidad en la autoexpresión es clave. Se busca ser fiel a uno mismo y a las pasiones individuales, incluso si eso significa destacarse del resto."
+        }
+    },
+    "sol_en_casa_6": {
+        "manifestaciones": {
+            "enfoque_en_el_trabajo_y_el_servicio": "El trabajo y el servicio son aspectos centrales de la identidad. La persona encuentra realización personal a través del servicio a los demás y un enfoque dedicado en sus responsabilidades laborales.",
+            "importancia_de_la_eficiencia": "Se valora la eficiencia y la organización en todas las áreas de la vida. La persona busca la perfección y la mejora continua en sus tareas diarias.",
+            "salud_como_prioridad": "La salud es una prioridad importante. Puede haber un enfoque consciente en mantener un estilo de vida saludable y en abordar las necesidades de bienestar físico y mental.",
+            "necesidad_de_estructura": "La estructura y la rutina son esenciales. La persona se siente más cómoda y segura cuando hay un orden claro en su entorno y en sus actividades diarias.",
+            "autoexigencia_y_altas_expectativas": "Existe una tendencia a la autoexigencia y a establecer expectativas elevadas para sí mismo. Puede esforzarse constantemente por superar estándares y lograr metas ambiciosas.",
+            "dedicacion_al_servicio_a_los_demas": "La dedicación al servicio a los demás se manifiesta en diversas áreas, desde el trabajo hasta la asistencia a aquellos que lo necesitan en su entorno.",
+            "sentido_del_deber": "El sentido del deber y la responsabilidad son fuertes. La persona puede sentir una obligación moral de cumplir con sus responsabilidades y ayudar a otros.",
+            "bienestar_como_logro_personal": "El bienestar personal se percibe como un logro significativo. La persona puede experimentar satisfacción al mantener una vida organizada y saludable."
+        }
+    },
+    "sol_en_casa_7": {
+        "manifestaciones": {
+            "importancia_de_las_relaciones": "Las relaciones personales son fundamentales para la identidad. La persona busca la asociación y la conexión significativa con los demás para encontrar equilibrio y realización personal.",
+            "necesidad_de_colaboracion": "La colaboración y el trabajo en equipo son aspectos importantes en la vida. Se valora la participación igualitaria y la toma de decisiones conjunta en las relaciones.",
+            "busqueda_de_la_armonia": "La búsqueda de la armonía y la equidad es constante. La persona se esfuerza por mantener relaciones equilibradas y evitar conflictos innecesarios.",
+            "atencion_a_la_pareja": "La atención y el compromiso con la pareja son esenciales. Puede haber un fuerte sentido de lealtad y dedicación hacia la relación romántica o la asociación principal.",
+            "reflejo_en_el_otro": "La identidad personal puede estar influenciada por las percepciones y reflejos de los demás. La persona puede buscar comprenderse a sí misma a través de las relaciones cercanas.",
+            "capacidad_para_negociar": "La capacidad para negociar y encontrar compromisos es una habilidad destacada. La persona puede ser diplomática y buscar soluciones justas en situaciones conflictivas.",
+            "busqueda_de_asociaciones_significativas": "Se busca activamente asociaciones significativas en todos los aspectos de la vida, ya sea en relaciones personales, colaboraciones profesionales o asociaciones creativas.",
+            "exploracion_del_amor_y_la_compania": "Explora continuamente el amor y la compañía como fuentes de crecimiento personal. La búsqueda de relaciones positivas es una constante en su vida."
+        }
+    },
+    "sol_en_casa_8": {
+        "manifestaciones": {
+            "profundidad_emocional": "La vida emocional se vive con una intensidad y profundidad significativas. La persona puede experimentar emociones fuertes y transformadoras, explorando constantemente las capas más profundas de la psique.",
+            "interes_en_el_misterio_y_lo_oculto": "Existe un fuerte interés en el misterio, lo oculto y las verdades esotéricas. La persona puede buscar comprender aspectos más profundos de la existencia y la psique humana.",
+            "transformacion_personal_continua": "La transformación personal continua es una parte esencial de la identidad. La persona puede experimentar cambios significativos y evolución a lo largo de la vida.",
+            "capacidad_para_resurgir": "La capacidad para resurgir de las cenizas después de las dificultades es destacada. La persona puede enfrentar desafíos con resiliencia y renacer más fuerte después de las adversidades.",
+            "herencia_y_recursos_compartidos": "Las relaciones pueden involucrar una conexión profunda con los recursos compartidos, ya sea financieros, emocionales o psicológicos. Se valora la colaboración estrecha en la gestión de recursos compartidos.",
+            "exploracion_de_lo_oculto_en_las_relaciones": "En las relaciones cercanas, la persona puede explorar aspectos más profundos y ocultos de la psique de los demás y fomentar una conexión íntima a través de la vulnerabilidad.",
+            "capacidad_para_observar_lo_invisible": "Hay una capacidad para percibir lo invisible y captar las sutilezas emocionales y energéticas en las interacciones. La intuición y la percepción son agudas.",
+            "interes_en_el_ciclo_de_la_vida": "Se puede mostrar un interés significativo en el ciclo de la vida, la muerte y la regeneración. La comprensión de los procesos de transformación es una parte integral de la identidad."
+        }
+    },
+    "sol_en_casa_9": {
+        "manifestaciones": {
+            "búsqueda_de_significado": "La búsqueda de significado y propósito en la vida es una fuerza impulsora. La persona puede estar constantemente explorando filosofías, creencias y culturas en busca de una comprensión más amplia.",
+            "sed_de_conocimiento": "Hay una sed insaciable de conocimiento y experiencia. La persona puede buscar activamente oportunidades de aprendizaje, viajes y exposición a diversas perspectivas.",
+            "exploración_de_otras_culturas": "La exploración y aprecio de otras culturas son destacados. Puede haber una atracción por viajar y sumergirse en entornos culturales diversos para ampliar la perspectiva personal.",
+            "filosofía_de_vida_expansiva": "La filosofía de vida es expansiva y abierta. La persona puede adoptar creencias y valores que fomenten el crecimiento personal y la comprensión global.",
+            "amor_por_la_aventura": "Existe un amor innato por la aventura y la exploración. La persona puede disfrutar de desafíos emocionantes y nuevas experiencias que amplíen los límites personales.",
+            "enseñanza_como_vocación": "La enseñanza y compartir conocimientos pueden ser vocaciones importantes. La persona puede sentirse llamada a transmitir sabiduría y experiencia a otros en un esfuerzo por inspirar y educar.",
+            "creencia_en_la_liberación": "Se puede abrazar la creencia en la liberación y la expansión constante. La persona puede buscar liberarse de limitaciones y restricciones para vivir una vida más plena y significativa.",
+            "comprensión_del_concepto_de_justicia": "La comprensión del concepto de justicia y equidad es central. La persona puede abogar por valores éticos y principios que promuevan un mundo más justo y equitativo."
+        }
+    },
+    "sol_en_casa_10": {
+        "manifestaciones": {
+            "enfoque_en_el_logro_profesional": "El logro profesional y el reconocimiento público son aspectos fundamentales de la identidad. La persona puede dedicar tiempo y esfuerzo significativos para avanzar en su carrera y alcanzar metas profesionales ambiciosas.",
+            "búsqueda_de_respeto_y_status": "La búsqueda de respeto y status en la sociedad es constante. La persona puede estar motivada por el deseo de ser reconocida y admirada por sus logros profesionales.",
+            "liderazgo_y_responsabilidad": "Las posiciones de liderazgo y responsabilidad son atractivas. La persona puede destacarse en roles de liderazgo y asumir responsabilidades importantes en su entorno laboral y social.",
+            "integridad_en_el_campo_profesional": "La integridad y la ética en el campo profesional son aspectos clave. La persona puede esforzarse por mantener altos estándares éticos en todas las actividades laborales.",
+            "enfoque_en_la_imagen_publica": "La imagen pública y la reputación son consideraciones importantes. Se presta atención a cómo se percibe la persona en el ámbito público y se trabaja para construir una imagen positiva.",
+            "éxito_como_expresión_personal": "El éxito en la carrera se percibe como una expresión significativa de la identidad personal. La persona puede sentir que sus logros profesionales reflejan su valía y competencia.",
+            "impacto_en_la_sociedad": "El deseo de tener un impacto positivo en la sociedad puede ser fuerte. La persona puede buscar contribuir al bienestar social y dejar un legado significativo a través de sus logros profesionales.",
+            "equilibrio_entre_vida_profesional_y_personal": "Encontrar un equilibrio entre la vida profesional y personal es esencial. La persona puede esforzarse por integrar con éxito sus objetivos profesionales con sus necesidades personales y familiares."
+        }
+    },
+    "sol_en_casa_11": {
+        "manifestaciones": {
+            "énfasis_en_la_comunidad": "El sentido de comunidad y pertenencia a un grupo es fundamental. La persona puede estar involucrada activamente en comunidades, ya sea a nivel local o global, y valorar las conexiones sociales.",
+            "búsqueda_de_ideales_colectivos": "Existe una búsqueda de ideales colectivos y contribuciones a causas más grandes. La persona puede estar comprometida con la promoción de cambios positivos a nivel social o humanitario.",
+            "redes_sociales_amplias": "La construcción de redes sociales amplias y diversificadas es destacada. La persona puede disfrutar de la interacción con una amplia gama de personas y buscar conexiones significativas en su red.",
+            "amistades_como_familia_escogida": "Las amistades son consideradas como parte integral de la familia escogida. La persona puede desarrollar vínculos fuertes y duraderos con amigos que comparten sus valores y aspiraciones.",
+            "colaboración_y_colectivismo": "La colaboración y el colectivismo son valores importantes. La persona puede estar abierta a trabajar en equipo y colaborar con otros para lograr metas compartidas y contribuir al bien común.",
+            "interés_en_tecnología_y_innovación": "El interés en la tecnología, la innovación y las tendencias futuristas es evidente. La persona puede estar conectada con avances tecnológicos y buscar formas de aplicar la tecnología para el beneficio colectivo.",
+            "visión_de_un_futuro_mejor": "La visión de un futuro mejor y más equitativo impulsa las acciones. La persona puede estar comprometida con la creación de un impacto positivo a largo plazo en la sociedad y en la consecución de metas compartidas.",
+            "celebración_de_la_diversidad": "La diversidad y la inclusividad son celebradas. La persona puede valorar y promover la diversidad en todas sus formas, reconociendo la riqueza que aporta a la comunidad."
+        }
+    },
+    "sol_en_casa_12": {
+        "manifestaciones": {
+            "profundidad_psicológica": "La profundidad psicológica y la introspección son aspectos destacados. La persona puede tener una rica vida interior y estar constantemente explorando los rincones más profundos de su psique.",
+            "naturaleza_mística_o_espiritual": "Existe una conexión con la naturaleza mística o espiritual de la existencia. La persona puede tener experiencias espirituales significativas y buscar comprender la dimensión más allá de lo material.",
+            "procesos_de_sanación_interior": "Los procesos de sanación interior y la superación de patrones inconscientes son partes integrales del viaje personal. La persona puede trabajar activamente en la resolución de problemas emocionales y psicológicos.",
+            "retiro_y_recogimiento": "El retiro y el recogimiento son importantes para el equilibrio. La persona puede encontrar renovación y rejuvenecimiento en momentos de soledad y desconexión del bullicio del mundo exterior.",
+            "compromiso_con_la_servicialidad": "El compromiso con la servicialidad y el servicio desinteresado puede ser una expresión de la identidad. La persona puede sentirse llamada a ayudar a los demás de maneras que van más allá de lo convencional.",
+            "comprensión_intuitiva": "La comprensión intuitiva y la percepción más allá de las apariencias son destacadas. La persona puede confiar en su intuición y tener una capacidad aguda para captar las sutilezas de las situaciones.",
+            "búsqueda_de_la_unión_cosmica": "La búsqueda de la unión cósmica y la conexión con lo divino es un aspecto central. La persona puede experimentar momentos de éxtasis espiritual y sentirse parte de un todo más amplio.",
+            "transformación_a_través_del_autoconocimiento": "La transformación personal a través del autoconocimiento y la espiritualidad es un viaje constante. La persona puede experimentar cambios profundos y evolución a lo largo de la vida."
+        }
+    }
+}

@@ -1,0 +1,295 @@
+{
+"info": {
+    "diámetro": "2,377 km",
+    "tiempoDeOrbitaCompleta": {
+      "d": 90,560,
+      "m": 2,996.73,
+      "a": 248
+    },
+    "tiempoDeOrbitaPorSigno": {
+      "d": 90,560/12,
+      "m": 2,996.73/12,
+      "a": 248/12
+    },
+    "posición": "Enana",
+    "propiedadesFisicas": "Rocoso, frío",
+    "signoRegente": "Escorpio",
+    "nombreGriego": "Plutón",
+    "nombreRomano": "Plutón",
+    "simbologíaTeológica": "Plutón era el dios del inframundo en la mitología romana, asociado con la muerte, la transformación y la riqueza oculta. Gobernaba sobre las almas de los muertos y los tesoros enterrados.",
+    "simbologíaMitológica": "Plutón simboliza la regeneración, la renovación y el poder transformador de la muerte. También representa el inconsciente colectivo y los aspectos ocultos de la psique humana.",
+    "significadoDelGlifo": "El glifo de Plutón se asemeja a la letra 'P' con una línea adicional que representa la prolongación de la regeneración. Es un símbolo de transformación, renacimiento y poder oculto.",
+    "polaridad": "Femenina",
+    "signoExaltación": "Aries",
+    "signoCaída": "Tauro",
+    "signoExilio": "Libra"
+  },
+    "pluton_en_aries": {
+        "manifestaciones": {
+            "transformacion_personal_intensa": "Experimenta transformaciones personales intensas y profundas, marcadas por un fuerte impulso de renacimiento y autodescubrimiento.",
+            "poder_individual": "Busca y ejerce el poder de manera individual, mostrando una voluntad fuerte y una determinación inquebrantable en la consecución de metas personales.",
+            "reformas_sociales_radicales": "Contribuye a reformas sociales radicales, buscando cambios profundos y transformaciones en la estructura social y política.",
+            "innovacion_en_la_autoexpresion": "Desarrolla formas innovadoras de autoexpresión, explorando nuevas dimensiones de la identidad y la creatividad personal.",
+            "lucha_por_la_autonomia": "Lucha por la autonomía y la independencia, desafiando cualquier forma de control externo y buscando la autoridad personal."
+        }
+    },
+    "pluton_en_tauro": {
+        "manifestaciones": {
+            "transformacion_material_profunda": "Experimenta transformaciones materiales profundas, marcadas por cambios significativos en la seguridad financiera y la estabilidad.",
+            "renovacion_de_recursos_naturales": "Contribuye a la renovación de recursos naturales y prácticas sostenibles, buscando cambios profundos en la relación con la tierra.",
+            "poder_economico_influencial": "Busca y ejerce poder económico de manera influyente, mostrando una capacidad para transformar las estructuras financieras.",
+            "cambios_en_valores_personales": "Experimenta cambios significativos en los valores personales, explorando nuevas perspectivas y dimensiones éticas.",
+            "búsqueda_de_seguridad_auténtica": "Busca una seguridad auténtica, desafiando las convenciones sobre qué significa la estabilidad y la seguridad en la vida."
+        }
+    },
+    "pluton_en_geminis": {
+        "manifestaciones": {
+            "transformacion_mental_profunda": "Experimenta transformaciones mentales profundas, marcadas por cambios significativos en la forma de pensar y comunicarse.",
+            "renovacion_del_conocimiento": "Contribuye a la renovación del conocimiento y la información, buscando cambios profundos en la manera en que la sociedad accede y comparte información.",
+            "influencia_en_medios_de_comunicacion": "Ejerce influencia en los medios de comunicación, mostrando una capacidad para transformar las estructuras de la información y la comunicación.",
+            "cambios_en_creencias_y_opiniones": "Experimenta cambios significativos en las creencias y opiniones, explorando nuevas perspectivas y desafiando las convenciones intelectuales.",
+            "búsqueda_de_conexiones_profundas": "Busca conexiones profundas en la comunicación, desafiando la superficialidad y explorando temas más intensos y significativos."
+        }
+    },
+    "pluton_en_cancer": {
+        "manifestaciones": {
+            "transformacion_emocional_profunda": "Experimenta transformaciones emocionales profundas, marcadas por cambios significativos en la forma de experimentar y expresar las emociones.",
+            "renovacion_en_el_hogar_y_la_familia": "Contribuye a la renovación en el hogar y la familia, buscando cambios profundos en las dinámicas familiares y la vivienda.",
+            "influencia_en_cuestiones_femeninas": "Ejerce influencia en cuestiones femeninas, mostrando una capacidad para transformar las estructuras que afectan a las mujeres y las dinámicas familiares.",
+            "cambios_en_las_relaciones_emocionales": "Experimenta cambios significativos en las relaciones emocionales, explorando nuevas formas de conexión íntima y compromiso emocional.",
+            "búsqueda_de_seguridad_emocional_auténtica": "Busca una seguridad emocional auténtica, desafiando las convenciones sobre qué significa la estabilidad emocional en la vida."
+        }
+    },
+    "pluton_en_leo": {
+        "manifestaciones": {
+            "transformacion_creativa_profunda": "Experimenta transformaciones creativas profundas, marcadas por cambios significativos en la expresión artística y la creatividad personal.",
+            "renovacion_en_el_arte_y_el_espectaculo": "Contribuye a la renovación en el arte y el espectáculo, buscando cambios profundos en la forma en que la sociedad disfruta y valora la expresión artística.",
+            "influencia_en_las_industrias_creativas": "Ejerce influencia en las industrias creativas, mostrando una capacidad para transformar las estructuras que afectan a artistas y creativos.",
+            "cambios_en_la_autoexpresion_individual": "Experimenta cambios significativos en la autoexpresión individual, explorando nuevas formas de destacar y expresar la identidad única.",
+            "búsqueda_de_reconocimiento_auténtico": "Busca un reconocimiento auténtico, desafiando las convenciones sobre qué significa la celebridad y el éxito en la vida."
+        }
+    },
+    "pluton_en_virgo": {
+        "manifestaciones": {
+            "transformacion_del_trabajo_y_la_salud": "Experimenta transformaciones profundas en el ámbito laboral y de la salud, marcadas por cambios significativos en la forma de abordar el trabajo y el bienestar físico.",
+            "renovacion_en_practicas_sanitarias": "Contribuye a la renovación en las prácticas sanitarias, buscando cambios profundos en la atención médica y el enfoque hacia la salud.",
+            "influencia_en_asuntos_laborales": "Ejerce influencia en asuntos laborales, mostrando una capacidad para transformar las estructuras que afectan a los trabajadores y las condiciones de trabajo.",
+            "cambios_en_los_hábitos_diarios": "Experimenta cambios significativos en los hábitos diarios, explorando nuevas formas de organización y eficiencia en la vida cotidiana.",
+            "búsqueda_de_perfección_práctica": "Busca la perfección práctica, desafiando las convenciones sobre qué significa la eficiencia y el perfeccionismo en la vida."
+        }
+    },
+    "pluton_en_libra": {
+        "manifestaciones": {
+            "transformacion_en_relaciones_profundas": "Experimenta transformaciones profundas en las relaciones, marcadas por cambios significativos en la dinámica interpersonal y la conexión emocional.",
+            "renovacion_en_el_arte_relacional": "Contribuye a la renovación en el arte relacional, buscando cambios profundos en la forma en que la sociedad valora y entiende las relaciones.",
+            "influencia_en_asuntos_legales_y_justicia": "Ejerce influencia en asuntos legales y de justicia, mostrando una capacidad para transformar las estructuras que afectan a la equidad y la legalidad.",
+            "cambios_en_la_estética_social": "Experimenta cambios significativos en la estética social, explorando nuevas formas de equilibrio y armonía en la interacción humana.",
+            "búsqueda_de_relaciones_auténticas": "Busca relaciones auténticas, desafiando las convenciones sobre qué significa la armonía y la colaboración en la vida."
+        }
+    },
+    "pluton_en_escorpio": {
+        "manifestaciones": {
+            "transformacion_emocional_profunda": "Experimenta transformaciones emocionales profundas y poderosas, marcadas por cambios significativos en la forma de experimentar y expresar las emociones.",
+            "renovacion_en_la_intimidad": "Contribuye a la renovación en la intimidad y la profundidad emocional, buscando cambios profundos en la forma en que la sociedad aborda la conexión emocional y la sexualidad.",
+            "influencia_en_asuntos_psíquicos": "Ejerce influencia en asuntos psíquicos y espirituales, mostrando una capacidad para transformar las estructuras que afectan al mundo de la psique y la espiritualidad.",
+            "cambios_en_las_relaciones_intensas": "Experimenta cambios significativos en las relaciones intensas, explorando nuevas formas de conexión íntima y compromiso emocional.",
+            "búsqueda_de_la_verdad_oculta": "Busca la verdad oculta, desafiando las convenciones sobre qué significa la profundidad y la autenticidad en la vida."
+        }
+    },
+    "pluton_en_sagitario": {
+        "manifestaciones": {
+            "transformacion_en_creencias_profundas": "Experimenta transformaciones profundas en las creencias y filosofías de vida, marcadas por cambios significativos en la forma de entender el mundo y la verdad.",
+            "renovacion_en_la_espiritualidad": "Contribuye a la renovación en la espiritualidad y la búsqueda del significado, buscando cambios profundos en la forma en que la sociedad se relaciona con lo trascendental.",
+            "influencia_en_asuntos_filosoficos": "Ejerce influencia en asuntos filosóficos y educativos, mostrando una capacidad para transformar las estructuras que afectan al conocimiento y la comprensión del mundo.",
+            "cambios_en_la_exploracion_cultural": "Experimenta cambios significativos en la exploración cultural, explorando nuevas formas de comprender y apreciar la diversidad en la sociedad.",
+            "búsqueda_de_la_sabiduría_superior": "Busca la sabiduría superior, desafiando las convenciones sobre qué significa la expansión de la mente y la búsqueda del conocimiento en la vida."
+        }
+    },
+    "pluton_en_capricornio": {
+        "manifestaciones": {
+            "transformacion_en_estructuras_sociales": "Experimenta transformaciones profundas en las estructuras sociales y políticas, marcadas por cambios significativos en la forma de organización y autoridad.",
+            "renovacion_en_el_poder_economico": "Contribuye a la renovación en el poder económico y las estructuras financieras, buscando cambios profundos en la distribución de recursos y riqueza.",
+            "influencia_en_asuntos_gubernamentales": "Ejerce influencia en asuntos gubernamentales y de liderazgo, mostrando una capacidad para transformar las estructuras que afectan a la gobernanza y la autoridad.",
+            "cambios_en_la_organizacion_empresarial": "Experimenta cambios significativos en la organización empresarial, explorando nuevas formas de liderazgo y gestión en el mundo laboral.",
+            "búsqueda_de_la_estabilidad_auténtica": "Busca la estabilidad auténtica, desafiando las convenciones sobre qué significa la seguridad y la estabilidad en la vida."
+        }
+    },
+    "pluton_en_acuario": {
+        "manifestaciones": {
+            "transformacion_en_la_sociedad": "Experimenta transformaciones profundas en la sociedad y la cultura, marcadas por cambios significativos en la forma en que la humanidad se organiza y colabora.",
+            "renovacion_en_la_innovacion_tecnologica": "Contribuye a la renovación en la innovación tecnológica y científica, buscando cambios profundos en la relación de la sociedad con la tecnología.",
+            "influencia_en_asuntos_humanitarios": "Ejerce influencia en asuntos humanitarios y de justicia social, mostrando una capacidad para transformar las estructuras que afectan a la igualdad y los derechos humanos.",
+            "cambios_en_la_exploracion_del_espacio": "Experimenta cambios significativos en la exploración del espacio, explorando nuevas formas de comprender el cosmos y la existencia humana.",
+            "búsqueda_de_la_igualdad_global": "Busca la igualdad global, desafiando las convenciones sobre qué significa la colaboración y la equidad en la vida."
+        }
+    },
+    "pluton_en_piscis": {
+        "manifestaciones": {
+            "transformacion_en_la_espiritualidad": "Experimenta transformaciones profundas en la espiritualidad y la conexión con dimensiones más allá de lo material, marcadas por cambios significativos en la búsqueda del significado trascendental.",
+            "renovacion_en_la_conciencia_colectiva": "Contribuye a la renovación en la conciencia colectiva y la compasión, buscando cambios profundos en la forma en que la humanidad se relaciona con el sufrimiento y la empatía.",
+            "influencia_en_asuntos_artisticos": "Ejerce influencia en asuntos artísticos y creativos, mostrando una capacidad para transformar las estructuras que afectan a la expresión artística y la imaginación colectiva.",
+            "cambios_en_la_experiencia_emocional": "Experimenta cambios significativos en la experiencia emocional colectiva, explorando nuevas formas de comprender y procesar las emociones a nivel global.",
+            "búsqueda_de_la_unidad_espiritual": "Busca la unidad espiritual, desafiando las convenciones sobre qué significa la conexión espiritual y la comprensión profunda en la vida."
+        }
+    },
+    "pluton_en_casa_1": {
+        "manifestaciones": {
+            "intensidad_en_la_presencia_personal": "Existe una intensidad en la presencia personal. La persona con Plutón en la Casa 1 puede proyectar una energía magnética y poderosa, captando la atención de los demás con facilidad.",
+            "transformación_personal_profunda": "Se experimenta una transformación personal profunda. Plutón en la Casa 1 puede llevar a la persona a enfrentarse y superar sus propios miedos e inseguridades, emergiendo más fuerte y empoderada.",
+            "necesidad_de_control_sobre_la_imagen_personal": "La necesidad de control sobre la imagen personal es fundamental. La persona puede sentir la necesidad de manejar cuidadosamente su presentación externa, buscando controlar la percepción que los demás tienen de ella.",
+            "atracción_hacia_lo_oculto_y_lo_misterioso": "Hay una atracción hacia lo oculto y lo misterioso. Plutón en la Casa 1 puede despertar el interés de la persona en temas tabú, misterios de la vida y exploración de lo desconocido.",
+            "impacto_profundo_en_las_relaciones_interpersonales": "Plutón en la Casa 1 puede tener un impacto profundo en las relaciones interpersonales. La persona puede experimentar relaciones intensas y transformadoras, marcadas por la pasión y la profundidad emocional.",
+            "renacimiento_personal_a_través_de_crises": "El renacimiento personal a través de crisis es una posibilidad. Plutón en la Casa 1 puede llevar a la persona a enfrentar situaciones difíciles que resultan en un proceso de renacimiento y transformación personal.",
+            "autoexploración_y_autotransformación_constante": "Se busca la autoexploración y autotransformación constante. La persona puede estar en un viaje continuo de descubrimiento y cambio personal, buscando evolucionar constantemente en todos los aspectos de su vida."
+        },
+        "manifestaciones_negativas": {
+            "control_excesivo": "Puede haber una tendencia a ejercer un control excesivo sobre uno mismo y los demás, lo que puede llevar a manipulaciones o a situaciones de poder desequilibradas.",
+            "obsesión": "Existe el riesgo de obsesionarse con el poder, la transformación o el control, lo que puede llevar a comportamientos compulsivos o destructivos.",
+            "intensidad emocional": "Puede haber una intensificación de las emociones, lo que puede resultar abrumador y dificultar las relaciones interpersonales."
+        }
+    },
+    "pluton_en_casa_2": {
+        "manifestaciones": {
+            "intensidad_en_las_finanzas_y_los_recursos_personales": "Existe una intensidad en las finanzas y los recursos personales. La persona con Plutón en la Casa 2 puede experimentar una relación profunda y transformadora con el dinero, los valores y los recursos personales.",
+            "transformación_profunda_en_la_autoestima": "Se experimenta una transformación profunda en la autoestima. Plutón en la Casa 2 puede llevar a la persona a confrontar y superar patrones autodestructivos, emergiendo con una autoestima más fuerte y empoderada.",
+            "necesidad_de_control_y_poder_en_asuntos_financieros": "La necesidad de control y poder en asuntos financieros es fundamental. La persona puede sentir la necesidad de tener un control meticuloso sobre sus recursos y puede ser intensamente protectora de su seguridad financiera.",
+            "atracción_hacia_la_investigación_y_los_misterios_económicos": "Hay una atracción hacia la investigación y los misterios económicos. Plutón en la Casa 2 puede despertar el interés en comprender en profundidad las dinámicas económicas y la gestión de recursos, buscando el poder a través del conocimiento.",
+            "impacto_profundo_en_la_relación_con_la_propiedad": "Plutón en la Casa 2 puede tener un impacto profundo en la relación con la propiedad y posesiones. La persona puede experimentar cambios significativos en su percepción y gestión de bienes materiales a lo largo de la vida.",
+            "renacimiento_a_través_de_crisis_financieras": "El renacimiento a través de crisis financieras es una posibilidad. Plutón en la Casa 2 puede llevar a la persona a enfrentar desafíos financieros que resultan en una transformación profunda en su enfoque hacia el dinero y los recursos.",
+            "autocontrol_y_autotransformación_constante_en_lo_material": "Se busca el autocontrol y la autotransformación constante en lo material. La persona puede estar en un proceso continuo de examen y cambio en su relación con los recursos materiales, buscando evolucionar y empoderarse constantemente en esta área."
+        },
+        "manifestaciones_negativas": {
+            "posesividad_material": "Puede haber una tendencia a aferrarse demasiado a los bienes materiales o a la seguridad financiera, lo que puede llevar a comportamientos posesivos o manipuladores en relación con el dinero y los recursos.",
+            "miedo a la pérdida": "Existe el riesgo de desarrollar un miedo excesivo a la pérdida, lo que puede llevar a comportamientos de control o avaricia en relación con los recursos financieros.",
+            "transformación de valores": "Puede haber una lucha interna por transformar los valores personales, lo que puede llevar a conflictos internos o a crisis de identidad relacionadas con el sentido de seguridad y autoestima."
+        }
+    },
+    "pluton_en_casa_3": {
+        "manifestaciones": {
+            "intensidad_en_la_comunicacion_y_el_aprendizaje": "Existe una intensidad en la comunicación y el aprendizaje. La persona con Plutón en la Casa 3 puede tener un enfoque profundo y transformador en la forma en que se comunica y absorbe conocimiento.",
+            "transformación_en_el_pensamiento_y_las_creencias": "Se experimenta una transformación en el pensamiento y las creencias. Plutón en la Casa 3 puede llevar a la persona a cuestionar y transformar sus creencias fundamentales, buscando una comprensión más profunda y significativa del mundo.",
+            "necesidad_de_control_en_la_expresion_y_comunicacion": "La necesidad de control en la expresión y comunicación es fundamental. La persona puede ser intensa en la forma en que se expresa y puede buscar tener un impacto significativo en su entorno a través de la comunicación.",
+            "atracción_hacia_la_investigación_y_el_misterio_mental": "Hay una atracción hacia la investigación y el misterio mental. Plutón en la Casa 3 puede despertar el interés en explorar temas profundos y desconocidos, buscando desentrañar misterios a través del aprendizaje.",
+            "impacto_profundo_en_relaciones_con_hermanos_y_vecinos": "Plutón en la Casa 3 puede tener un impacto profundo en las relaciones con hermanos y vecinos. La persona puede experimentar relaciones intensas y transformadoras en su entorno cercano.",
+            "renacimiento_a_través_de_crisis_mentales_o_comunicativas": "El renacimiento a través de crisis mentales o comunicativas es una posibilidad. Plutón en la Casa 3 puede llevar a la persona a enfrentar desafíos en la comunicación o el pensamiento, resultando en una transformación significativa en la forma de expresarse y comprender el mundo.",
+            "autoexploración_y_autotransformación_constante_en_el_pensamiento": "Se busca la autoexploración y autotransformación constante en el pensamiento. La persona puede estar en un viaje continuo de examen y cambio en su forma de pensar, buscando evolucionar y profundizar constantemente en su comprensión del mundo."
+        },
+        "manifestaciones_negativas": {
+            "obsesión con el conocimiento": "Puede haber una tendencia a obsesionarse con el conocimiento o la búsqueda de la verdad, lo que puede llevar a comportamientos extremistas o a la manipulación de la información para obtener poder o control.",
+            "tendencia a la manipulación mental": "Existe el riesgo de manipular mentalmente a otros o de ser manipulado por ellos, lo que puede conducir a relaciones interpersonales problemáticas o a conflictos de poder en el ámbito intelectual.",
+            "miedo al cambio": "Puede haber un miedo intenso al cambio o a la transformación personal, lo que puede llevar a resistirse a nuevas ideas o experiencias, limitando así el crecimiento personal y la evolución mental."
+        }
+    },
+    "pluton_en_casa_4": {
+        "manifestaciones": {
+            "intensidad_en_la_vida_familiar_y_el_hogar": "Existe una intensidad en la vida familiar y el hogar. La persona con Plutón en la Casa 4 puede experimentar dinámicas familiares profundas y transformadoras, con emociones intensas y cambios significativos en el hogar.",
+            "transformación_emocional_profunda": "Se experimenta una transformación emocional profunda. Plutón en la Casa 4 puede llevar a la persona a enfrentar y transformar patrones emocionales arraigados, emergiendo con una comprensión más profunda de sus propias emociones.",
+            "necesidad_de_control_en_asuntos_domésticos": "La necesidad de control en asuntos domésticos es fundamental. La persona puede ser intensa en la gestión y control del hogar, buscando crear un ambiente seguro y transformador.",
+            "atracción_hacia_la_investigación_y_el_misterio_emocional": "Hay una atracción hacia la investigación y el misterio emocional. Plutón en la Casa 4 puede despertar el interés en explorar las raíces emocionales y los patrones familiares, buscando comprender y transformar las dinámicas subyacentes.",
+            "impacto_profundo_en_las_relaciones_familiares": "Plutón en la Casa 4 puede tener un impacto profundo en las relaciones familiares. La persona puede experimentar relaciones familiares intensas y transformadoras, con cambios significativos en la dinámica familiar a lo largo del tiempo.",
+            "renacimiento_a_través_de_crisis_familiares": "El renacimiento a través de crisis familiares es una posibilidad. Plutón en la Casa 4 puede llevar a la persona a enfrentar desafíos en la familia que resultan en una transformación profunda en la dinámica familiar y en la relación con el hogar.",
+            "autoexploración_y_autotransformación_constante_en_el_ámbito_familiar": "Se busca la autoexploración y autotransformación constante en el ámbito familiar. La persona puede estar en un viaje continuo de examen y cambio en las dinámicas familiares, buscando evolucionar y sanar las raíces emocionales."
+        },
+        "manifestaciones_negativas": {
+            "obsesión con el control emocional": "Puede haber una tendencia a obsesionarse con el control emocional, lo que puede manifestarse en comportamientos manipuladores o en el intento de dominar emocionalmente a los demás, creando así relaciones disfuncionales.",
+            "miedo a la vulnerabilidad": "Existe el riesgo de desarrollar un miedo intenso a la vulnerabilidad emocional, lo que puede llevar a evitar situaciones emocionales difíciles o a reprimir las emociones, lo que a su vez puede causar problemas de salud mental o dificultades en las relaciones personales.",
+            "necesidad de poder doméstico": "Puede haber una necesidad excesiva de controlar el entorno doméstico o familiar, lo que puede llevar a conflictos de poder dentro del hogar o a dinámicas familiares tóxicas."
+        }
+    },
+    "pluton_en_casa_5": {
+        "manifestaciones": {
+            "intensidad emocional": "Las emociones tienden a ser intensas y profundas, lo que puede llevar a una conexión emocional poderosa en las relaciones personales y creativas.",
+            "transformación a través del amor": "El amor y las relaciones románticas pueden ser una fuente de transformación profunda y crecimiento personal, permitiendo el desarrollo de una mayor autoconciencia y empoderamiento.",
+            "creatividad profunda": "Se puede experimentar una creatividad intensa y transformadora, que puede surgir de la exploración de los aspectos más oscuros y profundos del ser."
+        },
+        "manifestaciones_negativas": {
+            "control sobre los hijos": "Puede haber una tendencia a ejercer un control excesivo sobre los hijos, lo que puede resultar en problemas de autoridad y en la supresión de la individualidad y la autonomía de los niños.",
+            "obsesión con la creatividad": "Puede surgir una obsesión poco saludable con la creatividad o el rendimiento artístico, lo que puede llevar a la autoexigencia extrema o al desprecio por el trabajo creativo que no cumple con los estándares muy altos.",
+            "manipulación emocional en el romance": "Existe el riesgo de manipular emocionalmente a las parejas románticas o de ejercer un control excesivo sobre ellas, lo que puede llevar a relaciones amorosas intensas pero destructivas."
+        }
+    },
+    "pluton_en_casa_6": {
+        "manifestaciones": {
+            "profundización del trabajo": "Se puede experimentar una intensificación en el ámbito laboral, con una tendencia a involucrarse en trabajos que involucren la investigación, la psicología, la sanación o la transformación personal.",
+            "crisis de salud": "Puede haber una tendencia a enfrentar crisis de salud intensas que llevan a una transformación profunda y cambios en el estilo de vida y la rutina diaria.",
+            "búsqueda de perfección": "Existe una búsqueda intensa de la perfección y la eficiencia en el trabajo y en la vida cotidiana, lo que puede llevar a una autoevaluación crítica y un deseo de mejorar constantemente."
+        },
+        "manifestaciones_negativas": {
+            "obsesión por el trabajo": "Puede haber una tendencia a obsesionarse con el trabajo o las responsabilidades laborales, lo que puede llevar a un agotamiento físico y emocional.",
+            "manipulación en el entorno laboral": "Existe el riesgo de manipular o ejercer poder sobre los colegas o subordinados en el entorno laboral, lo que puede crear tensiones y conflictos en el trabajo.",
+            "tendencia a los secretos oscuros": "Puede haber una tendencia a mantener secretos oscuros o a involucrarse en actividades clandestinas en el entorno laboral, lo que puede socavar la confianza y la cohesión en el lugar de trabajo."
+        }
+    },
+    "pluton_en_casa_7": {
+        "manifestaciones": {
+            "transformación en las relaciones": "Plutón en la casa 7 puede llevar a transformaciones profundas en las relaciones personales y en el matrimonio. Puede haber una tendencia a experimentar relaciones intensas y poderosas que desafían y transforman la identidad individual.",
+            "atracción hacia parejas intensas": "Hay una atracción hacia parejas que son intensas, misteriosas y poderosas. Las relaciones pueden ser marcadas por el poder, el control y la profundidad emocional.",
+            "renovación de compromisos": "Puede haber una tendencia a renovar y transformar los compromisos existentes en las relaciones, llevando a una mayor profundidad y autenticidad en las conexiones interpersonales."
+        },
+        "manifestaciones_negativas": {
+            "relaciones dominantes": "Puede haber tendencias hacia relaciones dominantes o controladoras, donde una parte intenta ejercer un poder excesivo sobre la otra, lo que puede conducir a conflictos y tensiones en las relaciones.",
+            "manipulación emocional": "Existe el riesgo de manipulación emocional en las relaciones, donde una parte puede utilizar la culpa, el miedo o la intimidación para controlar a la otra, lo que puede ser perjudicial para la salud emocional de ambas partes.",
+            "celos y obsesiones en las relaciones": "Puede haber celos intensos y obsesiones en las relaciones, lo que puede llevar a comportamientos posesivos y destructivos que socavan la confianza y la intimidad."
+        }
+    },
+    "pluton_en_casa_8": {
+        "manifestaciones": {
+            "profundización del inconsciente": "Plutón en la casa 8 puede intensificar el acceso al inconsciente y a los aspectos más profundos de la psique. Puede haber una mayor conciencia de los impulsos subyacentes y de los procesos psicológicos ocultos.",
+            "transformación de los recursos compartidos": "Hay una tendencia a experimentar transformaciones significativas en las finanzas compartidas, en las asociaciones financieras y en los recursos compartidos con otros. Estas transformaciones pueden ser tanto materiales como emocionales.",
+            "exploración de la muerte y la transformación": "Plutón en esta casa puede llevar a una profunda exploración de los temas de la muerte, el renacimiento y la transformación. Puede haber una fascinación por lo oculto y lo misterioso, así como una intensificación de las experiencias psíquicas y espirituales."
+        },
+        "manifestaciones_negativas": {
+            "intensidad emocional extrema": "Puede haber una intensidad emocional extrema en áreas como la sexualidad, las relaciones íntimas y los recursos compartidos, lo que puede llevar a conflictos y crisis emocionales intensas.",
+            "control financiero": "Existe el riesgo de un control financiero excesivo por parte de otros, manipulando recursos compartidos o utilizando el poder financiero como una herramienta de manipulación o coerción.",
+            "miedo al cambio": "Puede haber un miedo intenso al cambio o a la transformación, lo que puede llevar a resistencias o comportamientos autodestructivos en lugar de abrazar oportunidades de crecimiento y evolución personal."
+        }
+    },
+    "pluton_en_casa_9": {
+        "manifestaciones": {
+            "búsqueda de la verdad profunda": "Plutón en la casa 9 puede impulsar una intensa búsqueda de la verdad profunda y significados más amplios en la vida. Puede haber un interés en explorar filosofías, religiones o prácticas espirituales que aborden temas de poder, transformación y renacimiento.",
+            "transformación a través de los viajes y la educación": "Las experiencias de viaje y educación pueden llevar a transformaciones significativas en la vida de una persona con Plutón en esta casa. Pueden surgir oportunidades para expandir la conciencia y profundizar en el conocimiento a través de viajes o estudios profundos.",
+            "intensificación de la búsqueda de experiencias extremas": "Hay una tendencia a buscar experiencias extremas y profundas que desafíen los límites personales y sociales. Puede haber una atracción por la aventura, el riesgo y la exploración de territorios desconocidos, tanto física como emocionalmente."
+        },
+        "manifestaciones_negativas": {
+            "fanatismo ideológico": "Puede haber una tendencia al fanatismo ideológico o religioso, lo que puede llevar a conflictos intensos con personas que tienen creencias diferentes.",
+            "necesidad de controlar la verdad": "Existe una tendencia a querer controlar la verdad o imponer puntos de vista personales sobre los demás, lo que puede llevar a confrontaciones y falta de apertura mental.",
+            "resistencia al cambio": "Puede haber una resistencia intensa al cambio en las creencias o en la forma de ver el mundo, lo que puede llevar a estancamiento y falta de evolución en el pensamiento."
+        }
+    },
+    "pluton_en_casa_10": {
+        "manifestaciones": {
+            "ambición y poder": "Plutón en la casa 10 puede intensificar la ambición y el deseo de poder en el ámbito profesional. La persona puede esforzarse por alcanzar posiciones de autoridad y control en su carrera, y puede estar dispuesta a hacer grandes sacrificios para lograr sus objetivos.",
+            "transformación de la carrera": "Las experiencias profesionales pueden llevar a transformaciones significativas en la vida de la persona. Puede haber momentos de crisis que conduzcan a una reevaluación de la dirección de la carrera y a cambios profundos en la trayectoria profesional.",
+            "impacto público": "Plutón en la casa 10 puede dar lugar a un impacto público significativo. La persona puede tener una presencia magnética y ejercer una influencia poderosa en la sociedad a través de su trabajo o posición en la comunidad. Sin embargo, también puede enfrentar escrutinio y críticas intensas."
+        },
+        "manifestaciones_negativas": {
+            "obsesión por el éxito": "Puede haber una obsesión por el éxito y el poder, llevando a manipulaciones y ambiciones desmedidas que pueden generar conflictos con autoridades o figuras de poder.",
+            "miedo al fracaso": "Existe un miedo intenso al fracaso y a la pérdida de control, lo que puede llevar a comportamientos autoritarios y a utilizar el poder de manera coercitiva.",
+            "manipulación de figuras de autoridad": "Se puede tender a manipular a figuras de autoridad o a utilizar métodos poco éticos para alcanzar metas profesionales, lo que puede generar conflictos y rupturas en el ámbito laboral."
+        }
+    },
+    "pluton_en_casa_11": {
+        "manifestaciones": {
+            "transformación de la red social": "Plutón en la casa 11 puede implicar transformaciones profundas en las amistades y en la red social de la persona. Puede experimentar cambios drásticos en sus círculos sociales, con la pérdida y la adquisición de nuevos amigos que tengan un impacto significativo en su vida.",
+            "influencia en grupos y organizaciones": "La persona puede tener una influencia poderosa en grupos, organizaciones o movimientos sociales. Puede estar involucrada en actividades de transformación social o en causas que buscan el cambio y la renovación.",
+            "búsqueda de autenticidad y verdad": "Plutón en la casa 11 puede llevar a una búsqueda profunda de la autenticidad y la verdad en las relaciones con los demás y en la participación en grupos sociales. La persona puede sentir una fuerte necesidad de conectar con otros de manera genuina y significativa."
+        },
+        "manifestaciones_negativas": {
+            "poder sobre grupos": "Puede haber un deseo de ejercer poder sobre grupos o comunidades, lo que puede llevar a comportamientos manipuladores o coercitivos para imponer ideas o agendas personales.",
+            "control obsesivo de ideologías": "Existe una tendencia a controlar de manera obsesiva las ideologías o creencias del grupo, lo que puede generar conflictos y divisiones dentro de la comunidad.",
+            "transformación radical de grupos": "Se puede buscar una transformación radical de los grupos o movimientos a los que se pertenece, lo que puede generar tensiones y conflictos internos debido a la resistencia al cambio."
+        }
+    },
+    "pluton_en_casa_12": {
+        "manifestaciones": {
+            "profundidad emocional": "Plutón en la casa 12 puede dar lugar a una profunda intensidad emocional, donde los sentimientos más oscuros y profundos pueden surgir desde el subconsciente. La persona puede experimentar una intensa transformación interior y enfrentarse a sus miedos más profundos.",
+            "renovación espiritual": "La posición de Plutón en la casa 12 puede llevar a una renovación espiritual profunda, donde la persona se sumerge en un viaje de autoexploración y transformación espiritual. Puede haber una necesidad de confrontar y trascender el pasado para encontrar la paz interior.",
+            "procesamiento de traumas pasados": "Plutón en la casa 12 puede implicar el procesamiento y la sanación de traumas pasados y heridas emocionales profundas. La persona puede enfrentarse a sus demonios internos y trabajar en liberarse de patrones destructivos del pasado."
+        },
+        "manifestaciones_negativas": {
+            "represión emocional profunda": "Puede haber una tendencia a reprimir profundamente las emociones, lo que puede llevar a problemas emocionales no resueltos y a una lucha interna intensa.",
+            "miedo al cambio interno": "Existe un miedo profundo al cambio interno y a enfrentar las propias sombras, lo que puede manifestarse en evasión, adicciones o comportamientos autodestructivos.",
+            "obsesión por el autocontrol": "Se puede desarrollar una obsesión por el autocontrol y la manipulación de las propias emociones, lo que puede generar una sensación de opresión y falta de libertad interna."
+        }
+    }
+}

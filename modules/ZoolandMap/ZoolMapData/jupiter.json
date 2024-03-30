@@ -1,0 +1,296 @@
+{
+"info": {
+    "diámetro": "139,820 km",
+    "tiempoDeOrbitaCompleta": {
+      "d": 4,333,
+      "m": 142.9,
+      "a": 11.86
+    },
+    "tiempoDeOrbitaPorSigno": {
+      "d": 142.9/12,
+      "m": 11.86/12,
+      "a": 11.86/1
+    },
+    "posición": 5,
+    "propiedadesFisicas": "Gaseoso, frío",
+    "signoRegente": "Sagitario y Piscis",
+    "nombreGriego": "Zeus",
+    "nombreRomano": "Júpiter",
+    "simbologíaTeológica": "En la mitología romana, Júpiter era el rey de los dioses, asociado con el poder, la autoridad y la justicia. Era el padre de los dioses y gobernaba el cielo desde su trono en el Monte Olimpo.",
+    "simbologíaMitológica": "Júpiter simboliza la expansión, la abundancia y la sabiduría. También representa la protección y el liderazgo benevolente, así como la capacidad de alcanzar metas elevadas y aspiraciones espirituales.",
+    "significadoDelGlifo": "El glifo de Júpiter se asemeja a un número '4' estilizado, con una cruz encima. Representa el rayo del trueno y el cetro del poder divino. Es un símbolo de expansión, crecimiento y fortuna.",
+    "polaridad": "Masculina",
+    "signoExaltación": "Cáncer",
+    "signoCaída": "Capricornio",
+    "signoExilio": "Géminis"
+  },
+    "jupiter_en_aries": {
+        "manifestaciones": {
+            "expansión_en_la_energía": "Experimenta una expansión en la energía y la vitalidad, buscando ampliar los límites y desafiar constantemente los obstáculos.",
+            "búsqueda_de_oportunidades_pioneras": "Busca oportunidades pioneras de manera única, explorando nuevos territorios y liderando con entusiasmo y coraje.",
+            "optimismo_y_confianza_en_acción": "Desarrolla un optimismo y confianza en la acción, explorando nuevas formas de abordar los desafíos con valentía y determinación.",
+            "compasión_por_la_autenticidad_personal": "Muestra compasión por la autenticidad personal, liderando con empatía y comprensión en la expresión individual y la autodeterminación.",
+            "exploracion_en_el_desarrollo_personal": "Se aventura en la exploración del desarrollo personal, buscando crecimiento y expansión a través de desafíos y nuevas experiencias."
+        }
+    },
+    "jupiter_en_tauro": {
+        "manifestaciones": {
+            "expansión_en_la_abundancia": "Experimenta una expansión en la abundancia y los recursos materiales, buscando ampliar la prosperidad y la estabilidad financiera.",
+            "búsqueda_de_oportunidades_en_la_tierra": "Busca oportunidades en la tierra de manera única, explorando nuevos territorios y liderando con paciencia y perseverancia.",
+            "optimismo_y_confianza_en_la_estabilidad": "Desarrolla un optimismo y confianza en la estabilidad, explorando nuevas formas de construir bases sólidas y duraderas.",
+            "compasión_por_la_naturaleza_y_los_recursos": "Muestra compasión por la naturaleza y los recursos, liderando con empatía y comprensión en la preservación del medio ambiente y el uso sostenible de los recursos.",
+            "exploracion_en_el_crecimiento_sostenible": "Se aventura en la exploración del crecimiento sostenible, buscando expandirse de manera equilibrada y armoniosa en todas las áreas de la vida."
+        }
+    },
+    "jupiter_en_geminis": {
+        "manifestaciones": {
+            "expansión_en_el_conocimiento": "Experimenta una expansión en el conocimiento y la comunicación, buscando ampliar la comprensión y explorar múltiples perspectivas.",
+            "búsqueda_de_oportunidades_en_el_aprendizaje": "Busca oportunidades en el aprendizaje de manera única, explorando nuevos territorios intelectuales y liderando con curiosidad y adaptabilidad.",
+            "optimismo_y_confianza_en_la_comunicación": "Desarrolla un optimismo y confianza en la comunicación, explorando nuevas formas de expresarse y conectarse con los demás.",
+            "compasión_por_la_variedad_de_pensamiento": "Muestra compasión por la variedad de pensamiento, liderando con empatía y comprensión en la diversidad de ideas y opiniones.",
+            "exploracion_en_el_desarrollo_intelectual": "Se aventura en la exploración del desarrollo intelectual, buscando crecimiento a través del intercambio de ideas y la adquisición de conocimiento."
+        }
+    },
+    "jupiter_en_cancer": {
+        "manifestaciones": {
+            "expansión_en_la_emotividad": "Experimenta una expansión en la emotividad y la conexión emocional, buscando ampliar la comprensión y expresión de los sentimientos.",
+            "búsqueda_de_oportunidades_en_el_hogar": "Busca oportunidades en el hogar de manera única, explorando nuevas formas de seguridad y liderando con sensibilidad y protección.",
+            "optimismo_y_confianza_en_las_relaciones_familiares": "Desarrolla un optimismo y confianza en las relaciones familiares, explorando nuevas formas de nutrir y apoyar a los seres queridos.",
+            "compasión_por_la_nostalgia_y_la_tradición": "Muestra compasión por la nostalgia y la tradición, liderando con empatía y comprensión en la preservación de las raíces culturales y familiares.",
+            "exploracion_en_el_crecimiento_emocional": "Se aventura en la exploración del crecimiento emocional, buscando expandirse a través del entendimiento y la conexión emocional profunda."
+        }
+    },
+    "jupiter_en_leo": {
+        "manifestaciones": {
+            "expansión_en_la_autoexpresión": "Experimenta una expansión en la autoexpresión y la creatividad, buscando ampliar la confianza y destacar en la escena.",
+            "búsqueda_de_oportunidades_en_la_autoafirmación": "Busca oportunidades en la autoafirmación de manera única, explorando nuevas formas de liderazgo y destacando con entusiasmo y carisma.",
+            "optimismo_y_confianza_en_la_autoconfianza": "Desarrolla un optimismo y confianza en la autoconfianza, explorando nuevas formas de expresar el yo auténtico con orgullo.",
+            "compasión_por_la_expresión_individual": "Muestra compasión por la expresión individual y la autenticidad, liderando con empatía y comprensión en la promoción de la creatividad y la originalidad.",
+            "exploracion_en_el_crecimiento_personal_creativo": "Se aventura en la exploración del crecimiento personal creativo, buscando expandirse a través de la expresión única y el desarrollo artístico."
+        }
+    },
+    "jupiter_en_virgo": {
+        "manifestaciones": {
+            "expansión_en_la_precision": "Experimenta una expansión en la precisión y la atención a los detalles, buscando ampliar la eficiencia y la perfección en las tareas diarias.",
+            "búsqueda_de_oportunidades_en_el_servicio": "Busca oportunidades en el servicio de manera única, explorando nuevas formas de ayudar a los demás y liderando con humildad y dedicación.",
+            "optimismo_y_confianza_en_la_perfección_práctica": "Desarrolla un optimismo y confianza en la perfección práctica, explorando nuevas formas de perfeccionar habilidades y contribuir de manera concreta.",
+            "compasión_por_la_salud_y_el_bienestar": "Muestra compasión por la salud y el bienestar, liderando con empatía y comprensión en la promoción de hábitos saludables y el cuidado personal.",
+            "exploracion_en_el_crecimiento_profesional_y_práctico": "Se aventura en la exploración del crecimiento profesional y práctico, buscando expandirse a través del desarrollo de habilidades útiles y prácticas."
+        }
+    },
+    "jupiter_en_libra": {
+        "manifestaciones": {
+            "expansión_en_la_armonía": "Experimenta una expansión en la armonía y las relaciones interpersonales, buscando ampliar la cooperación y la justicia en las interacciones sociales.",
+            "búsqueda_de_oportunidades_en_la_colaboración": "Busca oportunidades en la colaboración de manera única, explorando nuevas formas de promover la equidad y liderando con diplomacia y conciliación.",
+            "optimismo_y_confianza_en_la_justicia_social": "Desarrolla un optimismo y confianza en la justicia social, explorando nuevas formas de contribuir a la igualdad y la equidad.",
+            "compasión_por_la_belleza_y_el_equilibrio": "Muestra compasión por la belleza y el equilibrio, liderando con empatía y comprensión en la apreciación estética y la creación de armonía.",
+            "exploracion_en_el_crecimiento_relacional": "Se aventura en la exploración del crecimiento relacional, buscando expandirse a través del entendimiento mutuo y la promoción de relaciones saludables."
+        }
+    },
+    "jupiter_en_escorpio": {
+        "manifestaciones": {
+            "expansión_en_la_intensidad_emocional": "Experimenta una expansión en la intensidad emocional y la profundidad psicológica, buscando ampliar la comprensión de los aspectos más oscuros de la existencia.",
+            "búsqueda_de_oportunidades_en_la_transformación": "Busca oportunidades en la transformación de manera única, explorando nuevas formas de renacer y liderando con poder de regeneración.",
+            "optimismo_y_confianza_en_la_autenticidad_emocional": "Desarrolla un optimismo y confianza en la autenticidad emocional, explorando nuevas formas de expresar y confrontar las emociones.",
+            "compasión_por_la_regeneración_y_el_cambio": "Muestra compasión por la regeneración y el cambio, liderando con empatía y comprensión en la transformación personal y social.",
+            "exploracion_en_el_crecimiento_emocional_profundo": "Se aventura en la exploración del crecimiento emocional profundo, buscando expandirse a través del entendimiento de las emociones más intensas y transformadoras."
+        }
+    },
+    "jupiter_en_sagitario": {
+        "manifestaciones": {
+            "expansión_en_la_mente_abierta": "Experimenta una expansión en la mente abierta y la búsqueda del significado, buscando ampliar la comprensión a través de la exploración de ideas y filosofías.",
+            "búsqueda_de_oportunidades_en_la_aventura": "Busca oportunidades en la aventura de manera única, explorando nuevos horizontes y liderando con entusiasmo y optimismo.",
+            "optimismo_y_confianza_en_la_búsqueda_del_conocimiento": "Desarrolla un optimismo y confianza en la búsqueda del conocimiento, explorando nuevas formas de aprender y enseñar.",
+            "compasión_por_la_libertad_y_la_justicia": "Muestra compasión por la libertad y la justicia, liderando con empatía y comprensión en la promoción de valores éticos y la equidad.",
+            "exploracion_en_el_crecimiento_espiritual": "Se aventura en la exploración del crecimiento espiritual, buscando expandirse a través de la conexión con lo trascendental y la expansión de la conciencia."
+        }
+    },
+    "jupiter_en_capricornio": {
+        "manifestaciones": {
+            "expansión_en_la_disciplina": "Experimenta una expansión en la disciplina y el logro práctico, buscando ampliar la eficiencia y la responsabilidad en la consecución de metas.",
+            "búsqueda_de_oportunidades_en_el_logro_profesional": "Busca oportunidades en el logro profesional de manera única, explorando nuevos horizontes y liderando con perseverancia y determinación.",
+            "optimismo_y_confianza_en_el_cumplimiento_de_objetivos": "Desarrolla un optimismo y confianza en el cumplimiento de objetivos, explorando nuevas formas de alcanzar el éxito de manera estructurada.",
+            "compasión_por_la_integridad_y_la_autoridad": "Muestra compasión por la integridad y la autoridad, liderando con empatía y comprensión en la gobernanza y la responsabilidad social.",
+            "exploracion_en_el_crecimiento_profesional_y_personal": "Se aventura en la exploración del crecimiento profesional y personal, buscando expandirse a través del desarrollo de habilidades y el logro de metas significativas."
+        }
+    },
+    "jupiter_en_acuario": {
+        "manifestaciones": {
+            "expansión_en_la_innovación": "Experimenta una expansión en la innovación y la originalidad, buscando ampliar la comprensión a través de ideas vanguardistas y la exploración de lo inusual.",
+            "búsqueda_de_oportunidades_en_la_colaboración_comunitaria": "Busca oportunidades en la colaboración comunitaria de manera única, explorando nuevos horizontes y liderando con enfoque en el bienestar colectivo.",
+            "optimismo_y_confianza_en_la_vanguardia_social": "Desarrolla un optimismo y confianza en la vanguardia social, explorando nuevas formas de contribuir a la igualdad y la justicia social.",
+            "compasión_por_la_humanidad_y_la_inclusión": "Muestra compasión por la humanidad y la inclusión, liderando con empatía y comprensión en la promoción de valores humanitarios y la diversidad.",
+            "exploracion_en_el_crecimiento_colectivo": "Se aventura en la exploración del crecimiento colectivo, buscando expandirse a través de la conexión con la comunidad y la contribución al bienestar global."
+        }
+    },
+    "jupiter_en_piscis": {
+        "manifestaciones": {
+            "expansión_en_la_espiritualidad": "Experimenta una expansión en la espiritualidad y la conexión con dimensiones más allá de lo material, buscando ampliar la conexión trascendental y la comprensión espiritual.",
+            "búsqueda_de_oportunidades_en_la_compasión_universal": "Busca oportunidades en la compasión universal de manera única, explorando nuevos horizontes y liderando con empatía y comprensión hacia todos los seres.",
+            "optimismo_y_confianza_en_la_intuición": "Desarrolla un optimismo y confianza en la intuición, explorando nuevas formas de guiarse por la sabiduría interior y la conexión espiritual.",
+            "compasión_por_todos_los_ser_es_y_la_trascendencia": "Muestra compasión por todos los seres y la trascendencia, liderando con empatía y comprensión en la promoción de la paz y la unidad espiritual.",
+            "exploracion_en_el_crecimiento_espiritual_profundo": "Se aventura en la exploración del crecimiento espiritual profundo, buscando expandirse a través del entendimiento de las verdades universales y la conexión con lo divino."
+        }
+    },
+    "jupiter_en_casa_1": {
+        "manifestaciones": {
+            "actitud_optimista_y_entusiasta_hacia_la_vida_y_los_desafíos_personales,_mostrando_confianza_en_sus_capacidades_y_en_el_futuro": "Se manifiesta una actitud optimista y entusiasta hacia la vida y los desafíos personales, mostrando confianza en sus capacidades y en el futuro, lo que puede impulsarlo a tomar riesgos calculados y buscar nuevas oportunidades con una mentalidad expansiva y positiva.",
+            "capacidad_para_inspirar_y_motivar_a_otros,_convirtiéndose_en_un_líder_carismático_que_guía_a_aquéllos_que_lo_rodean_hacia_la_superación_personal_y_el_crecimiento": "Desarrolla la capacidad para inspirar y motivar a otros, convirtiéndose en un líder carismático que guía a aquéllos que lo rodean hacia la superación personal y el crecimiento, siendo reconocido por su generosidad y por su capacidad para elevar el ánimo de los demás.",
+            "búsqueda_de_expansión_personal_y_auto-mejora,_donde_puede_buscar_nuevas_experiencias,_conocimientos_y_horizontes,_así_como_la_realización_de_sus_aspiraciones_y_metas_personales": "Se observa una búsqueda de expansión personal y auto-mejora, donde puede buscar nuevas experiencias, conocimientos y horizontes, así como la realización de sus aspiraciones y metas personales, mostrando una inclinación hacia el crecimiento interior y la exploración de nuevas posibilidades.",
+            "tendencia_a_exagerar_o_a_ser_excesivamente_optimista,_lo_que_puede_llevarlo_a_asumir_más_de_lo_que_puede_gestionar_o_a_ser_poco_realista_en_sus_expectativas": "Puede manifestar una tendencia a exagerar o a ser excesivamente optimista, lo que puede llevarlo a asumir más de lo que puede gestionar o a ser poco realista en sus expectativas, necesitando aprender a mantener un equilibrio entre su entusiasmo y la realidad para evitar decepciones o excesos."
+        },
+        "manifestaciones_negativas": {
+            "sobreconfianza y exceso de optimismo": "La presencia de Júpiter en la casa 1 puede llevar a una sobreconfianza y exceso de optimismo. La persona puede tener una visión exageradamente positiva de sí misma y de sus capacidades, lo que podría llevarla a subestimar los riesgos y las dificultades.",
+            "falta de límites y exceso de indulgencia": "Júpiter en la casa 1 puede provocar una falta de límites personales y un exceso de indulgencia. La persona puede tener dificultades para establecer límites claros en sus relaciones y actividades, lo que podría llevar a comportamientos indulgentes o excesivos.",
+            "falta de autocontrol y exceso de impulsividad": "La influencia de Júpiter en la casa 1 puede conducir a una falta de autocontrol y un exceso de impulsividad. La persona puede actuar de manera impulsiva sin considerar las consecuencias a largo plazo, lo que podría generar problemas en su vida personal y profesional."
+        }
+    },
+    "jupiter_en_casa_2": {
+        "manifestaciones": {
+            "búsqueda_de_abundancia_y_seguridad_material,_así_como_la_adquisición_de_recursos_y_bienes_materiales,_mostrando_una_habilidad_natural_para_gestionar_y_aumentar_su_riqueza": "Se observa una búsqueda de abundancia y seguridad material, así como la adquisición de recursos y bienes materiales, mostrando una habilidad natural para gestionar y aumentar su riqueza, lo que puede llevarlo a disfrutar de comodidades y placeres materiales.",
+            "generosidad_y_aptitud_para_invertir_o_compartir_sus_recursos_con_otros,_buscando_el_bienestar_no_sólo_para_sí_mismo_sino_también_para_su_entorno_más_cercano": "Desarrolla generosidad y aptitud para invertir o compartir sus recursos con otros, buscando el bienestar no sólo para sí mismo sino también para su entorno más cercano, siendo reconocido por su actitud altruista y su capacidad para apoyar a quienes lo rodean.",
+            "interés_en_temas_financieros,_inversiones_y_negocios,_donde_puede_destacar_por_su_intuición_para_detectar_oportunidades_y_su_capacidad_para_lograr_el_éxito_en_emprendimientos_comerciales": "Muestra interés en temas financieros, inversiones y negocios, donde puede destacar por su intuición para detectar oportunidades y su capacidad para lograr el éxito en emprendimientos comerciales, demostrando habilidades para tomar decisiones financieras acertadas.",
+            "posibilidad_de_tendencias_excesivas_o_descontroladas_en_el_gasto_o_en_la_búsqueda_de_placeres,_lo_que_puede_generar_desafíos_en_el_manejo_de_sus_recursos_o_en_la_creación_de_una_estabilidad_financiera_a_largo_plazo": "Existe la posibilidad de tendencias excesivas o descontroladas en el gasto o en la búsqueda de placeres, lo que puede generar desafíos en el manejo de sus recursos o en la creación de una estabilidad financiera a largo plazo, necesitando aprender a mantener un equilibrio entre disfrutar de las comodidades y asegurar su futuro económico."
+        },
+        "manifestaciones_negativas": {
+            "derroche y exceso de gastos": "La presencia de Júpiter en la casa 2 puede llevar a un derroche y exceso de gastos. La persona puede tener dificultades para controlar sus finanzas y tender a gastar más de lo que puede permitirse, lo que podría generar problemas económicos.",
+            "falta de planificación financiera": "Júpiter en la casa 2 puede provocar una falta de planificación financiera. La persona puede no tener un enfoque disciplinado hacia sus finanzas y tomar decisiones impulsivas en lugar de establecer un plan financiero sólido.",
+            "riesgo de pérdidas financieras": "La influencia de Júpiter en la casa 2 puede aumentar el riesgo de pérdidas financieras. La persona puede ser demasiado optimista en sus inversiones o tomar decisiones financieras arriesgadas sin evaluar adecuadamente los riesgos involucrados."
+        }
+    },
+    "jupiter_en_casa_3": {
+        "manifestaciones": {
+            "amplio_interés_en_el_aprendizaje_y_la_adquisición_de_conocimiento,_así_como_en_las_interacciones_sociales,_donde_puede_destacar_por_su_eloquencia_y_su_capacidad_para_comunicar_sus_ideas_con_entusiasmo_y_optimismo": "Manifiesta un amplio interés en el aprendizaje y la adquisición de conocimiento, así como en las interacciones sociales, donde puede destacar por su eloquencia y su capacidad para comunicar sus ideas con entusiasmo y optimismo, lo que le permite establecer conexiones significativas con su entorno cercano.",
+            "búsqueda_de_expansión_mental_a_través_de_la_exploración_de_nuevas_ideas,_filosofías_o_culturas,_buscando_ampliar_sus_horizontes_mentales_y_buscar_nuevas_oportunidades_de_crecimiento": "Busca la expansión mental a través de la exploración de nuevas ideas, filosofías o culturas, buscando ampliar sus horizontes mentales y buscar nuevas oportunidades de crecimiento, lo que puede llevarlo a viajar, estudiar o buscar experiencias que enriquezcan su visión del mundo.",
+            "habilidad_para_llevar_a_cabo_proyectos_de_comunicación_o_escritura,_donde_puede_destacar_por_su_creatividad_y_su_capacidad_para_inspirar_a_otros_con_su_mensaje": "Posee habilidad para llevar a cabo proyectos de comunicación o escritura, donde puede destacar por su creatividad y su capacidad para inspirar a otros con su mensaje, pudiendo incursionar en áreas como la enseñanza, la escritura o el periodismo, donde puede compartir su visión y conocimientos con el mundo.",
+            "tendencia_a_la_sobreestimación_o_exageración_en_la_comunicación,_lo_que_puede_llevar_a_problemas_de_entendimiento_o_a_generar_confusión_entre_sus_interlocutores": "Puede presentar una tendencia a la sobreestimación o exageración en la comunicación, lo que puede llevar a problemas de entendimiento o a generar confusión entre sus interlocutores, necesitando aprender a ser más objetivos y precisos en la transmisión de sus ideas para evitar malentendidos.",
+            "interés_en_el_aprendizaje_autodidacta_y_en_la_búsqueda_de_la_verdad,_donde_puede_destacar_por_su_mentalidad_abierta_y_su_búsqueda_constante_de_conocimiento,_buscando_comprender_el_mundo_que_lo_rodea_desde_diversas_perspectivas": "Muestra interés en el aprendizaje autodidacta y en la búsqueda de la verdad, donde puede destacar por su mentalidad abierta y su búsqueda constante de conocimiento, buscando comprender el mundo que lo rodea desde diversas perspectivas, lo que le permite desarrollar una mente crítica y analítica."
+        },
+        "manifestaciones_negativas": {
+            "exceso de confianza en las creencias": "La presencia de Júpiter en la casa 3 puede llevar a un exceso de confianza en las creencias y opiniones de uno mismo. La persona puede ser dogmática en sus puntos de vista y rechazar opiniones alternativas sin considerarlas adecuadamente.",
+            "tendencia a la exageración": "Júpiter en la casa 3 puede provocar una tendencia a la exageración en la comunicación. La persona puede inflar la verdad o exagerar sus logros, lo que puede llevar a malentendidos o conflictos en las interacciones sociales.",
+            "falta de atención a los detalles": "La influencia de Júpiter en la casa 3 puede resultar en una falta de atención a los detalles. La persona puede descuidar los aspectos prácticos de la comunicación y la planificación, lo que podría llevar a errores o malentendidos en la información transmitida."
+        }
+    },
+    "jupiter_en_casa_4": {
+        "manifestaciones": {
+            "búsqueda_de_estabilidad_y_seguridad_en_el_hogar_y_la_familia,_donde_puede_manifestarse_como_un_apoyo_emocional_para_los_miembros_de_su_familia_y_un_líder_en_la_resolución_de_conflictos": "Busca estabilidad y seguridad en el hogar y la familia, donde puede manifestarse como un apoyo emocional para los miembros de su familia y un líder en la resolución de conflictos, mostrando una actitud comprensiva y generosa hacia aquellos que lo rodean.",
+            "interés_en_la_tradición,_la_historia_familiar_y_la_transmisión_de_valores,_buscando_fortalecer_los_vínculos_afectivos_y_las_raíces_culturales_de_su_familia": "Muestra interés en la tradición, la historia familiar y la transmisión de valores, buscando fortalecer los vínculos afectivos y las raíces culturales de su familia, lo que puede llevarlo a participar activamente en eventos familiares o a preservar tradiciones y costumbres ancestrales.",
+            "búsqueda_de_realización_personal_a_través_del_establecimiento_de_un_hogar_sólido_y_una_base_emocional_segura,_donde_pueda_desarrollar_su_sentido_de_pertenencia_y_afirmar_su_identidad": "Busca realización personal a través del establecimiento de un hogar sólido y una base emocional segura, donde pueda desarrollar su sentido de pertenencia y afirmar su identidad, encontrando satisfacción en la creación de un ambiente familiar armonioso y acogedor.",
+            "tendencia_a_la_sobreprotección_o_el_control_hacia_los_miembros_de_su_familia_o_el_entorno_doméstico,_lo_que_puede_generar_dependencia_o_conflictos_de_poder_dentro_del_núcleo_familiar": "Puede presentar una tendencia a la sobreprotección o el control hacia los miembros de su familia o el entorno doméstico, lo que puede generar dependencia o conflictos de poder dentro del núcleo familiar, necesitando aprender a establecer límites saludables y fomentar la autonomía de sus seres queridos.",
+            "necesidad_de_creación_de_un_espacio_personal_dentro_del_hogar,_donde_pueda_retirarse_para_reflexionar,_descansar_o_desarrollar_sus_proyectos_personales": "Siente la necesidad de crear un espacio personal dentro del hogar, donde pueda retirarse para reflexionar, descansar o desarrollar sus proyectos personales, buscando equilibrar su vida familiar con su crecimiento individual y su búsqueda de logros personales."
+        },
+        "manifestaciones_negativas": {
+            "falta de moderación emocional": "La influencia de Júpiter en la casa 4 puede llevar a una falta de moderación emocional. La persona puede experimentar cambios de humor extremos o reacciones exageradas a situaciones emocionales, lo que puede afectar negativamente su estabilidad emocional y la armonía en el hogar.",
+            "exceso de indulgencia": "Júpiter en la casa 4 puede provocar un exceso de indulgencia en las comodidades del hogar. La persona puede tener dificultades para establecer límites en el ámbito doméstico, lo que podría llevar a un desorden o a una falta de disciplina en el hogar.",
+            "tendencia a la irresponsabilidad familiar": "La presencia de Júpiter en la casa 4 puede llevar a una tendencia a la irresponsabilidad familiar. La persona puede no tomar suficiente responsabilidad en asuntos domésticos o familiares, dejando que otros asuman la carga de las responsabilidades."
+        }
+    },
+    "jupiter_en_casa_5": {
+        "manifestaciones": {
+            "expansión_de_la_creatividad_y_la_autoexpresión,_buscando_la_realización_a_través_del_arte,_la_actuación,_la_escritura_o_cualquier_actividad_que_fomente_su_creatividad_y_autoexpresión": "Experimenta una expansión de la creatividad y la autoexpresión, buscando la realización a través del arte, la actuación, la escritura o cualquier actividad que fomente su creatividad y autoexpresión, mostrando un entusiasmo contagioso por sus proyectos creativos y un deseo de compartir sus talentos con los demás.",
+            "interés_en_la_educación_superior,_los_viajes,_la_filosofía_o_la_espiritualidad,_buscando_ampliar_sus_horizontes_mentales_y_buscar_sentido_a_la_vida_a_través_del_conocimiento_y_la_experiencia": "Muestra interés en la educación superior, los viajes, la filosofía o la espiritualidad, buscando ampliar sus horizontes mentales y buscar sentido a la vida a través del conocimiento y la experiencia, lo que puede llevarlo a embarcarse en viajes de descubrimiento personal o a explorar diferentes perspectivas filosóficas y espirituales.",
+            "necesidad_de_autoexpresión_auténtica_y_auténtica,_sin_restricciones,_buscando_vivir_la_vida_con_entusiasmo_y_alegría,_y_fomentar_relaciones_amorosas_que_promuevan_su_crecimiento_personal": "Experimenta la necesidad de autoexpresión auténtica y sin restricciones, buscando vivir la vida con entusiasmo y alegría, y fomentar relaciones amorosas que promuevan su crecimiento personal, buscando conectarse con otros de manera genuina y compartir experiencias significativas.",
+            "tendencia_a_la_exageración_o_la_sobreconfianza_en_sus_propias_habilidades_o_proyectos,_lo_que_puede_llevar_a_asumir_riesgos_o_comprometer_su_integridad": "Puede presentar una tendencia a la exageración o la sobreconfianza en sus propias habilidades o proyectos, lo que puede llevarlo a asumir riesgos o comprometer su integridad, necesitando cultivar un sentido de moderación y responsabilidad en sus acciones.",
+            "búsqueda_de_la_felicidad_a_través_de_la_autoexpresión_y_la_diversión,_y_un_deseo_de_compartir_esta_felicidad_con_otros,_buscando_inspirar_aquello_que_lo_rodea_y_generar_un_impacto_positivo_en_el_mundo": "Busca la felicidad a través de la autoexpresión y la diversión, y un deseo de compartir esta felicidad con otros, buscando inspirar aquello que lo rodea y generar un impacto positivo en el mundo, mostrando una actitud optimista y generosa hacia la vida y aquellos que lo rodean."
+        },
+        "manifestaciones_negativas": {
+            "sobreestimación de habilidades": "La presencia de Júpiter en la casa 5 puede llevar a una sobreestimación de las propias habilidades y capacidades. Esto puede conducir a tomar riesgos innecesarios o a adoptar una actitud arrogante en la expresión creativa o en la búsqueda de placer, lo que puede resultar en decepciones o fracasos.",
+            "exceso de gasto en entretenimiento": "Júpiter en la casa 5 puede generar un exceso de gasto en entretenimiento y actividades recreativas. La persona puede tener dificultades para controlar sus impulsos de gasto en actividades lúdicas o de ocio, lo que puede afectar negativamente su situación financiera.",
+            "falta de compromiso en relaciones amorosas": "La influencia de Júpiter en la casa 5 puede manifestarse como una falta de compromiso en las relaciones amorosas. La persona puede buscar constantemente nuevas experiencias románticas o aventuras emocionantes, sin dedicarse completamente a una relación estable."
+        }
+    },
+    "jupiter_en_casa_6": {
+        "manifestaciones": {
+            "búsqueda_de_significado_y_propósito_en_el_trabajo_diario,_buscando_una_labor_que_les_apasione_y_que_contribuya_al_bienestar_de_otros": "Busca significado y propósito en el trabajo diario, buscando una labor que les apasione y que contribuya al bienestar de otros, lo que puede llevarlos a buscar carreras en campos como la medicina, el servicio social o la atención médica.",
+            "interés_en_la_salud,_la_nutrición_o_el_bienestar_físico_y_mental,_y_un_deseo_de_promover_el_autocuidado_y_la_salud_en_su_entorno": "Muestra interés en la salud, la nutrición o el bienestar físico y mental, y un deseo de promover el autocuidado y la salud en su entorno, buscando adoptar hábitos de vida saludables y fomentar un ambiente de bienestar en su lugar de trabajo.",
+            "actitud_optimista_y_generosa_hacia_el_trabajo_y_los_colegas,_y_un_deseo_de_colaborar_y_apoyar_a_otros_en_el_logro_de_sus_metas_profesionales": "Presenta una actitud optimista y generosa hacia el trabajo y los colegas, y un deseo de colaborar y apoyar a otros en el logro de sus metas profesionales, mostrando habilidades de liderazgo y empatía en el entorno laboral.",
+            "tendencia_a_exagerar_o_sobrestimar_sus_capacidades_o_responsabilidades,_lo_que_puede_llevar_a_la_sobrecarga_de_trabajo_o_conflictos_con_los_superiores": "Puede presentar una tendencia a exagerar o sobrestimar sus capacidades o responsabilidades, lo que puede llevar a la sobrecarga de trabajo o conflictos con los superiores, necesitando aprender a establecer límites y gestionar adecuadamente sus compromisos laborales.",
+            "búsqueda_de_satisfacción_personal_a_través_del_servicio_y_la_contribución_a_la_comunidad_o_a_aquellos_que_lo_rodean,_buscando_un_trabajo_que_le_permita_hacer_un_impacto_positivo_en_el_mundo": "Busca satisfacción personal a través del servicio y la contribución a la comunidad o a aquellos que lo rodean, buscando un trabajo que le permita hacer un impacto positivo en el mundo, mostrando una fuerte ética laboral y un compromiso con el bienestar de los demás."
+        },
+        "manifestaciones_negativas": {
+            "sobrestimación de habilidades laborales": "La presencia de Júpiter en la casa 6 puede llevar a una sobrestimación de las propias habilidades laborales. La persona puede sentirse excesivamente confiada en su capacidad para realizar tareas laborales, lo que puede llevar a errores o descuidos en el trabajo.",
+            "exceso de indulgencia en hábitos poco saludables": "Júpiter en la casa 6 puede generar un exceso de indulgencia en hábitos poco saludables, como la comida, el alcohol o el sedentarismo. La persona puede tener dificultades para mantener un estilo de vida equilibrado y saludable, lo que puede afectar su bienestar físico y emocional.",
+            "falta de atención a los detalles": "La influencia de Júpiter en la casa 6 puede manifestarse como una falta de atención a los detalles en el trabajo o en las responsabilidades diarias. La persona puede tener dificultades para concentrarse en las tareas minuciosas o rutinarias, lo que puede generar problemas en su desempeño laboral."
+        }
+    },
+    "jupiter_en_casa_7": {
+        "manifestaciones": {
+            "busqueda_de_parejas_o_sociedades_que_compartan_sus_creencias,_valores_y_metas,_y_que_promuevan_el_crecimiento_personal_y_profesional_mutuo": "Busca parejas o sociedades que compartan sus creencias, valores y metas, y que promuevan el crecimiento personal y profesional mutuo, buscando relaciones equilibradas y armoniosas en las que puedan aprender y crecer juntos.",
+            "propensión_a_ampliar_su_red_de_contactos_y_establecer_conexiones_profesionales_o_personales_con_personas_de_diferentes_origenes_o_culturas": "Tiene propensión a ampliar su red de contactos y establecer conexiones profesionales o personales con personas de diferentes orígenes o culturas, lo que puede enriquecer su perspectiva y brindarle oportunidades de colaboración y aprendizaje.",
+            "interés_en_la_justicia,_la_equidad_y_la_igualdad_en_las_relaciones,_buscando_relaciones_que_sean_justas_y_respetuosas_para_ambas_partes": "Muestra interés en la justicia, la equidad y la igualdad en las relaciones, buscando relaciones que sean justas y respetuosas para ambas partes, y mostrando habilidades para la resolución de conflictos de manera diplomática y justa.",
+            "tendencia_a_sobrestimar_o_sobrepasar_las_expectativas_en_las_relaciones,_lo_que_puede_llevar_a_desilusiones_o_conflictos_si_no_se_establecen_límites_claros": "Puede tener tendencia a sobrestimar o sobrepasar las expectativas en las relaciones, lo que puede llevar a desilusiones o conflictos si no se establecen límites claros, necesitando aprender a comunicarse de manera abierta y honesta sobre sus necesidades y expectativas.",
+            "búsqueda_de_relaciones_que_le_ofrezcan_oportunidades_de_crecimiento_personal,_espiritual_y_profesional,_y_que_le_ayuden_a_ampliar_su_visión_del_mundo": "Busca relaciones que le ofrezcan oportunidades de crecimiento personal, espiritual y profesional, y que le ayuden a ampliar su visión del mundo, mostrando interés en viajar, explorar nuevas ideas y culturas, y expandir sus horizontes."
+        },
+        "manifestaciones_negativas": {
+            "exceso de optimismo en las relaciones": "La presencia de Júpiter en la casa 7 puede llevar a un exceso de optimismo en las relaciones interpersonales. La persona puede idealizar a su pareja o socios comerciales, lo que puede llevar a decepciones cuando las expectativas no se cumplen.",
+            "falta de compromiso": "Júpiter en la casa 7 puede generar una falta de compromiso en las relaciones. La persona puede mostrarse poco dispuesta a comprometerse emocional o contractualmente, lo que puede generar conflictos en las relaciones íntimas o profesionales.",
+            "tendencia a la irresponsabilidad financiera compartida": "La influencia de Júpiter en la casa 7 puede manifestarse como una tendencia a la irresponsabilidad financiera compartida. La persona puede ser imprudente en el manejo de los recursos financieros compartidos con su pareja o socios, lo que puede generar tensiones y dificultades económicas."
+        }
+    },
+    "jupiter_en_casa_8": {
+        "manifestaciones": {
+            "interés_en_el_misticismo,_la_espiritualidad_y_el_conocimiento_oculto,_buscando_profundizar_en_temas_tabúes_o_secretos_y_descubrir_el_significado_más_profundo_de_la_vida": "Muestra interés en el misticismo, la espiritualidad y el conocimiento oculto, buscando profundizar en temas tabúes o secretos y descubrir el significado más profundo de la vida, lo que puede llevarlo a explorar prácticas como la astrología, la meditación o la psicología profunda.",
+            "capacidad_para_transformar_creencias_o_filosofías_obsoletas_o_limitantes,_y_para_encontrar_el_poder_interior_para_superar_adversidades_o_crisis_emocionales": "Tiene la capacidad para transformar creencias o filosofías obsoletas o limitantes, y para encontrar el poder interior para superar adversidades o crisis emocionales, mostrando resiliencia y determinación en situaciones difíciles.",
+            "posibilidad_de_recibir_apoyo_financiero_o_recursos_compartidos_a_través_de_partnerships_o_herencias,_que_pueden_impulsar_su_crecimiento_personal_o_profesional": "Existe la posibilidad de recibir apoyo financiero o recursos compartidos a través de partnerships o herencias, que pueden impulsar su crecimiento personal o profesional, permitiéndole expandir sus horizontes y explorar nuevas oportunidades.",
+            "propensión_a_experiencias_intensas_o_transformadoras,_que_pueden_incluir_investigaciones_profundas,_procesos_de_sanación_o_transformaciones_psicológicas_o_emocionales": "Tiene propensión a experiencias intensas o transformadoras, que pueden incluir investigaciones profundas, procesos de sanación o transformaciones psicológicas o emocionales, lo que le permite explorar su propio mundo interno y descubrir nuevas perspectivas sobre sí mismo y el universo.",
+            "necesidad_de_aprender_a_lidiar_con_los_riesgos,_los_engaños_o_las_crisis,_y_de_aprovechar_estas_experiencias_como_oportunidades_para_el_crecimiento_y_la_transformación_personal": "Tiene la necesidad de aprender a lidiar con los riesgos, los engaños o las crisis, y de aprovechar estas experiencias como oportunidades para el crecimiento y la transformación personal, desarrollando la capacidad de renacer de las cenizas y encontrar sentido en las experiencias más difíciles."
+        },
+        "manifestaciones_negativas": {
+            "riesgo de excesos en inversiones": "La presencia de Júpiter en la casa 8 puede aumentar el riesgo de excesos en inversiones o especulaciones financieras. La persona puede ser propensa a tomar decisiones financieras impulsivas o poco calculadas, lo que puede llevar a pérdidas significativas.",
+            "desconfianza en asuntos financieros compartidos": "Júpiter en la casa 8 puede generar desconfianza en asuntos financieros compartidos. La persona puede tener dificultades para confiar en sus socios financieros o en el manejo de recursos compartidos, lo que puede provocar conflictos y tensiones en las relaciones.",
+            "tendencia a exagerar problemas emocionales": "La influencia de Júpiter en la casa 8 puede llevar a una tendencia a exagerar los problemas emocionales. La persona puede dramatizar situaciones difíciles o traumáticas, lo que puede dificultar la resolución de conflictos y la superación de obstáculos."
+        }
+    },
+    "jupiter_en_casa_9": {
+        "manifestaciones": {
+            "búsqueda_de_ampliación_de_conocimientos_y_experiencias_a_través_de_viajes,_estudios_superiores_o_exposición_a_diferentes_culturas_o_filosofías_de_vida": "Muestra una búsqueda de ampliación de conocimientos y experiencias a través de viajes, estudios superiores o exposición a diferentes culturas o filosofías de vida, lo que puede llevarlo a desarrollar una mente abierta y una perspectiva más amplia del mundo.",
+            "interés_en_la_filosofía,_la_religión_o_el_conocimiento_superior,_buscando_comprender_el_significado_de_la_vida_y_la_existencia_humana_a_un_nivel_más_profundo": "Tiene interés en la filosofía, la religión o el conocimiento superior, buscando comprender el significado de la vida y la existencia humana a un nivel más profundo, lo que puede llevarlo a explorar diferentes sistemas de creencias y buscar la verdad universal.",
+            "propensión_a_la_inspiración,_la_enseñanza_o_la_orientación,_y_la_capacidad_para_influir_positivamente_en_otros_a_través_de_sus_convicciones_y_su_visión_del_mundo": "Tiene propensión a la inspiración, la enseñanza o la orientación, y la capacidad para influir positivamente en otros a través de sus convicciones y su visión del mundo, lo que puede llevarlo a desempeñar roles de liderazgo espiritual o intelectual.",
+            "oportunidades_de_experiencias_internacionales_o_de_ampliación_de_horizontes,_que_pueden_impulsar_su_crecimiento_personal,_profesional_o_espiritual": "Existen oportunidades de experiencias internacionales o de ampliación de horizontes, que pueden impulsar su crecimiento personal, profesional o espiritual, permitiéndole expandir su visión del mundo y su comprensión de las diferentes realidades culturales.",
+            "necesidad_de_cuestionar_las_creencias_o_las_leyes_establecidas,_y_de_buscar_su_propia_verdad_y_significado_de_la_vida_a_través_del_aprendizaje_continuo_y_la_exploración_de_nuevos_horizontes": "Tiene la necesidad de cuestionar las creencias o las leyes establecidas, y de buscar su propia verdad y significado de la vida a través del aprendizaje continuo y la exploración de nuevos horizontes, lo que puede llevarlo a romper con convenciones sociales y buscar la autenticidad en su camino."
+        },
+        "manifestaciones_negativas": {
+            "sobreconfianza en creencias y filosofías": "La presencia de Júpiter en la casa 9 puede llevar a una sobreconfianza en las creencias y filosofías de vida de la persona. Esto puede hacer que sea poco receptiva a otras perspectivas y que se cierre a nuevas ideas, lo que puede limitar su crecimiento personal y espiritual.",
+            "tendencia a la arrogancia intelectual": "Júpiter en la casa 9 puede dar lugar a una tendencia a la arrogancia intelectual. La persona puede creer que tiene todas las respuestas y puede ser poco tolerante con aquellos que no comparten sus puntos de vista, lo que puede generar conflictos interpersonales y alienación.",
+            "exceso de optimismo irresponsable": "La influencia de Júpiter en la casa 9 puede conducir a un exceso de optimismo irresponsable. La persona puede subestimar los riesgos y exagerar las oportunidades, lo que puede llevarla a tomar decisiones impulsivas o poco realistas, con consecuencias negativas en su vida."
+        }
+    },
+    "jupiter_en_casa_10": {
+        "manifestaciones": {
+            "ambición_por_alcanzar_el_éxito_y_la_realización_personal_a_través_del_trabajo_duro_y_la_integridad_en_la_carrera_profesional": "Se manifiesta una ambición por alcanzar el éxito y la realización personal a través del trabajo duro y la integridad en la carrera profesional, lo que puede llevar a obtener reconocimiento y autoridad en el ámbito laboral.",
+            "oportunidades_de_ascenso_o_reconocimiento_en_la_carrera,_posiblemente_a_nivel_internacional_o_a_través_de_experiencias_profesionales_en_el_extranjero": "Existen oportunidades de ascenso o reconocimiento en la carrera, posiblemente a nivel internacional o a través de experiencias profesionales en el extranjero, lo que puede llevar a alcanzar altos cargos de responsabilidad y liderazgo.",
+            "capacidad_para_influir_en_la_sociedad_a_través_de_la_posición_profesional,_brindando_orientación_o_siendo_un_modelo_a_seguir_para_otros": "Tiene capacidad para influir en la sociedad a través de la posición profesional, brindando orientación o siendo un modelo a seguir para otros, lo que puede llevar a desempeñar roles de liderazgo que impacten positivamente en la comunidad.",
+            "interés_en_la_filantropía_o_en_el_servicio_a_la_comunidad,_y_en_utilizar_la_posición_profesional_para_el_bien_común_y_el_cambio_social_positivo": "Existe un interés en la filantropía o en el servicio a la comunidad, y en utilizar la posición profesional para el bien común y el cambio social positivo, lo que puede llevar a involucrarse en actividades altruistas y programas de responsabilidad social empresarial.",
+            "necesidad_de_integrar_las_convicciones_personales_con_el_éxito_profesional,_y_de_perseguir_una_carrera_que_esté_alineada_con_sus_valores_y_principios": "Se manifiesta una necesidad de integrar las convicciones personales con el éxito profesional, y de perseguir una carrera que esté alineada con sus valores y principios, lo que puede llevar a tomar decisiones éticas y trabajar en áreas que promuevan la justicia y la equidad."
+        },
+        "manifestaciones_negativas": {
+            "ambición desmedida": "La presencia de Júpiter en la casa 10 puede llevar a una ambición desmedida. La persona puede obsesionarse con el éxito y el reconocimiento social, buscando constantemente ascender en su carrera a cualquier costo, incluso si eso significa pisotear a otros o comprometer sus valores éticos.",
+            "falta de ética laboral": "Júpiter en la casa 10 puede provocar una falta de ética laboral. La persona puede estar dispuesta a utilizar medios cuestionables para alcanzar sus metas profesionales, como el soborno, la manipulación o la falta de transparencia, lo que puede generar problemas legales o conflictos en el lugar de trabajo.",
+            "exceso de confianza en la posición social": "La influencia de Júpiter en la casa 10 puede generar un exceso de confianza en la posición social de la persona. Puede sentirse invulnerable a las críticas o consecuencias de sus acciones debido a su estatus profesional o social, lo que puede llevar a comportamientos imprudentes o irresponsables."
+        }
+    },
+    "jupiter_en_casa_11": {
+        "manifestaciones": {
+            "participación_activa_en_grupos_sociales,_asociaciones_o_redes_profesionales,_donde_se_pueden_establecer_conexiones_valiosas_y_ampliar_la_red_de_contactos": "Se manifiesta una participación activa en grupos sociales, asociaciones o redes profesionales, donde se pueden establecer conexiones valiosas y ampliar la red de contactos, lo que puede llevar a colaboraciones fructíferas y oportunidades de crecimiento personal y profesional.",
+            "interés_en_la_innovación_y_la_reforma_social,_y_en_colaborar_con_otras_personas_para_promover_cambios_positivos_en_la_sociedad": "Existe un interés en la innovación y la reforma social, y en colaborar con otras personas para promover cambios positivos en la sociedad, lo que puede llevar a participar en proyectos de voluntariado, activismo o iniciativas de responsabilidad social que busquen mejorar el bienestar colectivo.",
+            "mentalidad_abierta_y_tolerante_hacia_la_diversidad_de_opiniones_y_creencias,_y_búsqueda_de_la_cooperación_y_el_consens_o_en_el_logro_de_objetivos_comunes": "Se manifiesta una mentalidad abierta y tolerante hacia la diversidad de opiniones y creencias, y búsqueda de la cooperación y el consenso en el logro de objetivos comunes, lo que puede llevar a liderar iniciativas que promuevan la inclusión y la igualdad de oportunidades para todos los miembros de la sociedad.",
+            "interés_en_el_aprendizaje_continuo_y_la_adquisición_de_nuevos_conocimientos,_especialmente_en_áreas_relacionadas_con_la_teconología,_la_innovación_y_la_vanguardia_del_conocimiento": "Existe un interés en el aprendizaje continuo y la adquisición de nuevos conocimientos, especialmente en áreas relacionadas con la tecnología, la innovación y la vanguardia del conocimiento, lo que puede llevar a participar en proyectos de investigación o en actividades educativas que impulsen el progreso y la evolución del pensamiento humano.",
+            "éxito_en_la_realización_de_metas_y_aspiraciones_personales_a_través_del_trabajo_en_equipo_y_la_colaboración_con_otros_miembros_del_grupo_o_la_comunidad": "Se puede lograr éxito en la realización de metas y aspiraciones personales a través del trabajo en equipo y la colaboración con otros miembros del grupo o la comunidad, lo que puede llevar a alcanzar reconocimiento y prestigio por logros colectivos y contribuciones significativas al bienestar común."
+        },
+        "manifestaciones_negativas": {
+            "dogmatismo en las creencias": "La influencia de Júpiter en la casa 11 puede llevar a un dogmatismo en las creencias. La persona puede ser inflexible en sus opiniones y estar cerrada a nuevas ideas o perspectivas, lo que dificulta la colaboración y el trabajo en equipo.",
+            "exceso de optimismo en proyectos grupales": "Júpiter en la casa 11 puede generar un exceso de optimismo en proyectos grupales. La persona puede sobrevalorar las posibilidades de éxito y subestimar los desafíos o riesgos involucrados, lo que puede llevar a decisiones poco realistas o a la falta de planificación adecuada.",
+            "tendencia a imponer sus ideas": "La presencia de Júpiter en la casa 11 puede llevar a una tendencia a imponer sus ideas sobre los demás. La persona puede creer que su visión del mundo es la única correcta y tratar de convencer a los demás de adoptar sus puntos de vista, lo que puede generar conflictos y alienar a los compañeros."
+        }
+    },
+    "jupiter_en_casa_12": {
+        "manifestaciones": {
+            "búsqueda_de_la_sabiduría_interior_y_el_conocimiento_espiritual,_a_través_de_la_reflexión,_la_meditación_y_la_conexión_con_el_mundo_interior": "Se manifiesta una búsqueda de la sabiduría interior y el conocimiento espiritual, a través de la reflexión, la meditación y la conexión con el mundo interior, lo que puede llevar a una profunda comprensión de uno mismo y del universo, así como a una mayor conexión con lo trascendental.",
+            "interés_en_el_servicio_desinteresado,_la_compasión_y_la_asistencia_a_aquellos_que_están_menos_favorecidos_o_en_situaciones_de_vulnerabilidad": "Existe un interés en el servicio desinteresado, la compasión y la asistencia a aquellos que están menos favorecidos o en situaciones de vulnerabilidad, lo que puede llevar a participar en actividades caritativas, humanitarias o espirituales que busquen aliviar el sufrimiento y promover el bienestar de los demás.",
+            "necesidad_de_tiempo_a_sol_as,_lejos_de_las_demandas_del_mundo_exterior,_para_recargar_energías_y_conectar_con_la_dimensión_interna_del_ser": "Se puede experimentar la necesidad de tiempo a solas, lejos de las demandas del mundo exterior, para recargar energías y conectar con la dimensión interna del ser, lo que puede llevar a buscar momentos de retiro o introspección para nutrir el espíritu y encontrar respuestas a preguntas existenciales.",
+            "interés_en_las_prácticas_espirituales,_las_tradiciones_antiguas_y_las_disciplinas_místicas,_que_permite_explorar_la_conexión_entre_el_alma_humana_y_la_dimensión_divina": "Existe un interés en las prácticas espirituales, las tradiciones antiguas y las disciplinas místicas, que permite explorar la conexión entre el alma humana y la dimensión divina, lo que puede llevar a profundizar en estudios de filosofía, religión o metafísica para comprender el propósito de la existencia y el significado de la vida.",
+            "éxito_en_el_desarrollo_de_la_intuición_y_la_sensibilidad_psíquica,_así_como_en_el_trabajo_en_el_ámbito_invisible_o_no_mundano,_donde_se_manifiesta_el_poder_de_la_mente_sobre_la_materia": "Se puede lograr éxito en el desarrollo de la intuición y la sensibilidad psíquica, así como en el trabajo en el ámbito invisible o no mundano, donde se manifiesta el poder de la mente sobre la materia, lo que puede llevar a experimentar revelaciones espirituales y percepciones más allá de lo físico."
+        }
+    }
+}
